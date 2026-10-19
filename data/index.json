@@ -35,7 +35,16 @@
    "footprint": 48.2,
    "verdict": "Thin",
    "scored_models": 3
+  },
+  {
+   "slug": "maria-velasquez",
+   "name": "Maria Velasquez",
+   "context": "",
+   "date": "2026-10-19",
+   "footprint": 50.5,
+   "verdict": "Visible",
+   "scored_models": 3
   }
  ],
- "updated": "2026-10-19T12:35:34Z"
+ "updated": "2026-10-19T15:34:46Z"
 }
