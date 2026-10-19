@@ -1,0 +1,32 @@
+{
+ "audits": [
+  {
+   "slug": "roy-kirchner",
+   "name": "Roy Kirchner",
+   "context": "Tampa Bay, Odessa FL; CEO Ultimate 3D Printing Store & Elite Podcast Studio",
+   "date": "2026-10-19",
+   "footprint": 92.7,
+   "verdict": "Undeniable",
+   "scored_models": 3
+  },
+  {
+   "slug": "anthony-rockette",
+   "name": "Anthony Rockette",
+   "context": "Odessa FL; ex-Mastercard product manager",
+   "date": "2026-10-19",
+   "footprint": 52.4,
+   "verdict": "Visible",
+   "scored_models": 3
+  },
+  {
+   "slug": "tyler-leleux",
+   "name": "Tyler LeLeux",
+   "context": "Tampa FL; founder TTG Management",
+   "date": "2026-10-19",
+   "footprint": 61.4,
+   "verdict": "Visible",
+   "scored_models": 3
+  }
+ ],
+ "updated": "2026-10-19T07:00:00Z"
+}
