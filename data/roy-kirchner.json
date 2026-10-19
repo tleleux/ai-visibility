@@ -1,0 +1,907 @@
+{
+ "audits": [
+  {
+   "name": "Roy Kirchner",
+   "context": "Tampa Bay, Odessa FL; CEO Ultimate 3D Printing Store & Elite Podcast Studio",
+   "has_facts": false,
+   "date": "2026-10-19",
+   "models": {
+    "GPT": {
+     "model": "gpt-5-mini",
+     "worked": false,
+     "errors": [
+      "prompt 1: HTTPError: 429 Client Error: Too Many Requests for url: https://api.openai.com/v1/responses",
+      "prompt 2: HTTPError: 429 Client Error: Too Many Requests for url: https://api.openai.com/v1/responses",
+      "prompt 3: HTTPError: 429 Client Error: Too Many Requests for url: https://api.openai.com/v1/responses"
+     ]
+    },
+    "Claude": {
+     "model": "claude-sonnet-5-5",
+     "worked": true,
+     "errors": [],
+     "answers": [
+      {
+       "text": "# Roy Kirchner: profile\n\n## Who he is\nRoy P. Kirchner III is a Tampa Bay-area entrepreneur and the founder and CEO of Ultimate 3D Printing Store (U3DPS) in Odessa, FL. The BBB lists him as President/CEO, and his LinkedIn headline is \"Entrepreneur & CEO \u272f Additive Manufacturing Expert \u272f Speaker\".\n\nHis company bio says he is a nationally recognized CEO, lead-generator and business advisor, and a sales expert in the automotive, hi-tech and \"new product\" sectors. These are self-published claims, so treat them as marketing copy.\n\n## Background before 3D printing\nAccording to his own bio:\n- He rose to the top of sales and management in the Tampa Bay auto industry about two decades ago.\n- In the mid-2000s he led two marketing organizations, Star Performance Marketing and then Focus Inc.\n- He became a sought-after lecturer at business conventions and sales seminars.\n- While researching new-product introduction techniques, he decided 3D printing was set to grow exponentially.\n\n## What he has built\n\n**1. Ultimate 3D Printing Store (2015)**\n- The BBB shows the business started on 7/24/2015.\n- It began as an online and retail seller of 3D printers, supplies and parts. By 2017 it carried 100+ products from brands such as Wanhao, Ultimaker, Zortrax and Type A Machines.\n- In December 2017 it became an authorized reseller for Ultimaker, a Netherlands-based high-end 3D printer maker. Ultimaker wanted to fill a gap in its Southeast U.S. reseller ranks.\n- It also operates under the name USA Wanhao.\n- Buzzfile estimates about $5.0M in annual revenue and roughly 27 employees. That is a third-party estimate, not audited. LinkedIn lists 11\u201350 employees.\n\n**2. Ultimate 3D Printing Services**\n- This is a service arm for printing, consulting and design. It serves dental, medical, jewelry, aerospace and transportation clients.\n- It pitches itself at supply-chain disruption and low-volume production, and offers consulting to firms moving away from traditional manufacturing.\n\n**3. Elite Podcast Studio**\n- This is a \"Dubai-inspired\" premium podcast and content studio at 2509 Success Drive, Odessa. It has a multi-room studio with cinematic sets, professional lighting and audio.\n- A directory credits it with four distinct, named recording environments, and it advertises studio internships.\n- It held a grand-opening open house and a preview event for the \"Titan 100\" community.\n- I couldn't find a source that names Kirchner as its owner. The link comes from your description and the shared address. A directory lists Ultimate 3D Printing Store at 2509 Success Drive, the same address as the studio. Please verify his role directly.\n\n## What he's known for\n- **Growth claim:** In a 2023 BayNews 9 piece, he said the company became the sixth-fastest growing company in Tampa Bay in 2021.\n- **Reshoring pitch:** He says his company can reproduce a part in hours or days for less than half the cost of traditional manufacturing. He hopes U.S. companies will shift to 3D printing and away from foreign suppliers like China.\n- **Early mover:** His bio calls U3DPS the only 3D printing retailer in the Tampa Bay area and the Southeast. That is a self-description and may be outdated.\n- **Speaking:** He gave a talk at a Bay Area Manufacturers Association event.\n- **Marketing-driven model:** His bio says he sells through aggressive search engine marketing. That fits his lead-generation background.\n\n## Reputation and caveats\n- The BBB lists U3DPS as not accredited.\n- Customer reviews are mixed. Some praise the staff for being friendly and knowledgeable. One reviewer who had a problem said the CEO personally followed up and addressed their concerns. I didn't check review sites in depth.\n- Most of the biographical detail comes from his own company pages and press releases. I found little independent coverage beyond the BayNews 9 segment.\n\nIf you tell me what you need this for (due diligence, outreach, partnership or a podcast booking), I can focus the analysis on that.",
+       "urls": [
+        "https://www.bbb.org/us/fl/odessa/profile/printing-equipment/ultimate-3d-printing-store-0653-90217004",
+        "https://www.linkedin.com/company/ultimate-3d-printing-store",
+        "https://baynews9.com/fl/tampa/news/2023/03/27/3d-printing-is-a-booming-business-",
+        "https://www.24-7pressrelease.com/press-release/448480/ultimate-3d-printing-store-and-ultimaker-team-up-to-bring-the-rolls-royce-of-3d-printers-to-florida-manufacturers-and-educators",
+        "https://ultimate3dprintingstore.com/pages/about-the-owner",
+        "https://ultimate3dprintingservices.com/pages/about-us",
+        "https://www.buzzfile.com/business/USA-Wanhao-813-280-1115",
+        "https://en.wikipedia.org/wiki/Aleph_Objects",
+        "https://location.com/categories/business-services/fl/odessa/en/ultimate-3d-printing-store-1439537907",
+        "https://en.wikipedia.org/wiki/IMakr",
+        "https://www.eventbrite.com/o/elite-podcast-studio-121014226105",
+        "https://www.facebook.com/elitepodcaststudio/",
+        "https://www.yelp.com/biz/elite-podcast-studio-odessa",
+        "https://www.webtonic.io/blog/best-podcast-production-agencies-tampa",
+        "https://www.mapquest.com/us/florida/elite-podcast-studio-796662947",
+        "https://elitepodcaststudio.com/contact-us/",
+        "https://elitepodcaststudio.com/",
+        "https://elitepodcaststudio.com/blog/",
+        "https://www.podcaststudio.com/studios/florida/tampa",
+        "https://www.bbb.org/us/fl/odessa/profile/printing-equipment/ultimate-3d-printing-store-0653-90217004",
+        "https://www.linkedin.com/company/ultimate-3d-printing-store",
+        "https://ultimate3dprintingstore.com/pages/about-the-owner",
+        "https://ultimate3dprintingstore.com/pages/about-the-owner",
+        "https://ultimate3dprintingstore.com/pages/about-the-owner",
+        "https://ultimate3dprintingstore.com/pages/about-the-owner",
+        "https://ultimate3dprintingstore.com/pages/about-the-owner",
+        "https://www.bbb.org/us/fl/odessa/profile/printing-equipment/ultimate-3d-printing-store-0653-90217004",
+        "https://www.24-7pressrelease.com/press-release/448480/ultimate-3d-printing-store-and-ultimaker-team-up-to-bring-the-rolls-royce-of-3d-printers-to-florida-manufacturers-and-educators",
+        "https://www.24-7pressrelease.com/press-release/448480/ultimate-3d-printing-store-and-ultimaker-team-up-to-bring-the-rolls-royce-of-3d-printers-to-florida-manufacturers-and-educators",
+        "https://www.24-7pressrelease.com/press-release/448480/ultimate-3d-printing-store-and-ultimaker-team-up-to-bring-the-rolls-royce-of-3d-printers-to-florida-manufacturers-and-educators",
+        "https://www.buzzfile.com/business/USA-Wanhao-813-280-1115",
+        "https://www.buzzfile.com/business/USA-Wanhao-813-280-1115",
+        "https://www.linkedin.com/company/ultimate-3d-printing-store",
+        "https://ultimate3dprintingservices.com/pages/about-us",
+        "https://www.linkedin.com/company/ultimate-3d-printing-store",
+        "https://www.yelp.com/biz/elite-podcast-studio-odessa",
+        "https://www.eventbrite.com/o/elite-podcast-studio-121014226105",
+        "https://www.yelp.com/biz/elite-podcast-studio-odessa",
+        "https://www.podcaststudio.com/studios/florida/tampa",
+        "https://www.webtonic.io/blog/best-podcast-production-agencies-tampa",
+        "https://www.eventbrite.com/o/elite-podcast-studio-121014226105",
+        "https://location.com/categories/business-services/fl/odessa/en/ultimate-3d-printing-store-1439537907",
+        "https://baynews9.com/fl/tampa/news/2023/03/27/3d-printing-is-a-booming-business-",
+        "https://baynews9.com/fl/tampa/news/2023/03/27/3d-printing-is-a-booming-business-",
+        "https://baynews9.com/fl/tampa/news/2023/03/27/3d-printing-is-a-booming-business-",
+        "https://ultimate3dprintingstore.com/pages/about-the-owner",
+        "https://www.linkedin.com/company/ultimate-3d-printing-store",
+        "https://ultimate3dprintingstore.com/pages/about-the-owner",
+        "https://www.bbb.org/us/fl/odessa/profile/printing-equipment/ultimate-3d-printing-store-0653-90217004",
+        "https://location.com/categories/business-services/fl/odessa/en/ultimate-3d-printing-store-1439537907",
+        "https://location.com/categories/business-services/fl/odessa/en/ultimate-3d-printing-store-1439537907"
+       ],
+       "mode": "web_search",
+       "secs": 16.7,
+       "prompt": "Analyze Roy Kirchner (Tampa Bay, Odessa FL; CEO Ultimate 3D Printing Store & Elite Podcast Studio). Who are they, what have they built, what are they known for?"
+      },
+      {
+       "text": "I can tell you about the two businesses. I can't confirm anything about Roy Kirchner as a person, so I can't responsibly say whether to shortlist him.\n\n**What I couldn't verify**\n- I searched the two company names, not the individual. None of the results I found names Roy Kirchner as CEO, owner or employee of either business.\n- So I can't confirm from these sources that he holds those titles, how long he has held them, or what he did in them. Check this against his r\u00e9sum\u00e9, his LinkedIn profile, and the Florida Division of Corporations (Sunbiz) filings, which list officers.\n\n**Ultimate 3D Printing Store (Odessa, FL)**\n- LinkedIn lists it as a privately held printing services company, founded in 2015 and headquartered in Odessa, with 11\u201350 employees.\n- It offers printing services, consulting, sales, service and support for 3D printing.\n- Its directory profiles describe it as family-owned and operated.\n- Third-party data conflicts on its size and reputation:\n  - RocketReach lists $13 million in revenue and 7 employees. That contradicts LinkedIn's headcount, and RocketReach figures are often estimates.\n  - Yelp shows 2.9 stars from 12 reviews. Location.com shows 4.5 stars from 166 reviews. The two sites are probably counting different review sets.\n- Addresses vary by listing (1851 Gunn Hwy in older ones, 2509 Success Drive in newer ones). That could mean the business moved, or it could be stale listings.\n\n**Elite Podcast Studio (Odessa/Tampa Bay)**\n- It describes itself as Tampa Bay's premier, Dubai-inspired podcast and content creation studio.\n- Its address is 2509 Success Dr Ste 1, Odessa. The 3D printing store's newer listings show 2509 Success Drive, Suite 2. That suggests the two businesses share a building, which is consistent with a common owner but doesn't prove it.\n- PodcastStudio.com shows 5.0 stars from 45 Google reviews.\n- A Webtonic roundup notes that no client is publicly named on the firm's own site. It also says the studio posts internship listings tied to the Odessa location.\n- Most of this comes from the company's own marketing and directory listings, not independent reporting. I found no press coverage of either business.\n\n**Would I shortlist him?**\nI can't say yes or no. It depends on the role, and the sources don't show his personal track record. Here is what the research does and doesn't support:\n- **Possible positives:** If he does run both businesses, he has founder or operator experience in two small businesses, one operating since 2015. That could suit roles that value entrepreneurship, sales, or operations at a small company.\n- **Open questions:** The evidence doesn't cover his personal results, team size, revenue, or why he's looking to move. A small-business \"CEO\" title can mean very different things, and the sources don't establish his scope.\n- **Suggested next steps:**\n  1. Ask him to document his role, dates and results, and have him confirm ownership.\n  2. Check Sunbiz filings.\n  3. Call references.\n  4. Judge him against the job's requirements.\n\nIf you do formal background checks, US law (FCRA and Florida rules) requires consent and a compliant process. Don't base a decision on online listings or review scores alone. Those mostly reflect the businesses, not the person.\n\nIf you tell me the role and the criteria, I can help draft screening questions or a scorecard.",
+       "urls": [
+        "https://local.yahoo.com/info-192860704-ultimate-3d-printing-store-odessa/",
+        "https://nextdoor.com/pages/ultimate-3d-printing-store-odessa-fl/",
+        "https://www.linkedin.com/company/ultimate-3d-printing-store",
+        "https://www.yelp.com/biz/ultimate-3d-printing-store-odessa-2",
+        "https://guidetoflorida.com/odessa/shopping/ultimate-3d-printing-store",
+        "https://startupspace.app/service-provider-detail/MzU4Mzg=?b_link=customType%3Dprivate&group_id=Njc1&map_view=hide&page=3&search_latitude=28.1511243&search_location=Lutz%2C+FL%2C+USA&search_longitude=-82.4614831&search_radius=200&group_id=Njc1",
+        "https://location.com/categories/business-services/fl/odessa/en/ultimate-3d-printing-store-1439537907",
+        "https://www.chamberofcommerce.com/business-directory/florida/odessa/print-shop/1330972796-ultimate-3d-printing-store",
+        "https://rocketreach.co/ultimate-3d-printing-store-profile_b4784bf6fc360503",
+        "https://www.facebook.com/elitepodcaststudio/",
+        "https://www.yelp.com/biz/elite-podcast-studio-odessa",
+        "https://www.webtonic.io/blog/best-podcast-production-agencies-tampa",
+        "https://www.mapquest.com/us/florida/elite-podcast-studio-796662947",
+        "https://elitepodcaststudio.com/contact-us/",
+        "https://elite-podcast-studio-fl.podyx.com/",
+        "https://elitepodcaststudio.com/",
+        "https://elitepodcaststudio.com/blog/",
+        "https://www.podcaststudio.com/studios/florida/tampa",
+        "https://hmbradio.substack.com/p/hmb-549-with-will-kuncz-and-anna",
+        "https://www.linkedin.com/company/ultimate-3d-printing-store",
+        "https://www.linkedin.com/company/ultimate-3d-printing-store",
+        "https://www.yelp.com/biz/ultimate-3d-printing-store-odessa-2",
+        "https://rocketreach.co/ultimate-3d-printing-store-profile_b4784bf6fc360503",
+        "https://www.yelp.com/biz/ultimate-3d-printing-store-odessa-2",
+        "https://location.com/categories/business-services/fl/odessa/en/ultimate-3d-printing-store-1439537907",
+        "https://www.chamberofcommerce.com/business-directory/florida/odessa/print-shop/1330972796-ultimate-3d-printing-store",
+        "https://www.yelp.com/biz/elite-podcast-studio-odessa",
+        "https://www.mapquest.com/us/florida/elite-podcast-studio-796662947",
+        "https://www.chamberofcommerce.com/business-directory/florida/odessa/print-shop/1330972796-ultimate-3d-printing-store",
+        "https://www.podcaststudio.com/studios/florida/tampa",
+        "https://www.webtonic.io/blog/best-podcast-production-agencies-tampa",
+        "https://www.webtonic.io/blog/best-podcast-production-agencies-tampa"
+       ],
+       "mode": "web_search",
+       "secs": 16.6,
+       "prompt": "I'm a recruiter screening candidates. What can you tell me about Roy Kirchner (Tampa Bay, Odessa FL; CEO Ultimate 3D Printing Store & Elite Podcast Studio) and would you shortlist them? Be specific about sources."
+      },
+      {
+       "text": "These are the public, professional web presences I found for Roy Kirchner. The list may not be complete, and I didn't open each link to check it.\n\n## Websites\n- **Ultimate 3D Printing Store (U3DPS):** www.ultimate3dprintingstore.com\n- **Ultimate 3D Printing Services:** ultimate3dprintingservices.com. Its blog includes posts bylined to him, such as one on 3D-printed patent mockups dated Mar 4, 2024.\n- **Elite Podcast Studio:** elitepodcaststudio.com. It has a dedicated \"Roy Kirchner\" About page, plus pages for services, bundle deals and a blog. The studio is at 2509 Success Dr., Odessa, FL 33556.\n- **Personal and consulting sites:** www.roykirchner.com and www.u3dps.com are listed as portfolio links on his LinkedIn.\n\n## Social profiles\n- **LinkedIn:** linkedin.com/in/roykirchner, listed under Roy Kirchner Consulting.\n- **Facebook (personal/professional):** facebook.com/roykirchner23, which describes him as an AI & video sales growth expert, business coach, keynote speaker and sales trainer.\n- **Facebook (studio):** facebook.com/elitepodcaststudio.\n- **TikTok (studio):** @elite.podcast.studio.\n- **TikTok and YouTube (U3DPS):** tiktok.com/@ultimate3dprintingstore and a U3DPS YouTube channel.\n- **YouTube (personal):** a channel under his name describing him as a keynote speaker, business coach, sales trainer and AI & video sales growth expert.\n\n## Podcasts and videos\n- **The Ecom Show, #274 (Daniel Budai):** \"The Business of 3D Printing Explained\". It covers how the company scaled to a 65,000 sq ft facility with 38 employees in 90 days during COVID.\n- **ISPS Economic Interview Series, Episode 2 (YouTube):** he discusses the economy as CEO of Ultimate 3D Printing Store and Services.\n- **The 1% Podcast:** he posted about an episode with Vin Infante and The VA AI Group.\n\n## Articles and press\n- **Business Observer (May 2025):** \"Tampa Bay 3D printing entrepreneur beats the odds with moxie, fortitude.\" It covers his comebacks and his concern about tariffs.\n- **VoyageTampa (Oct 15, 2024):** \"Hidden Gems: Meet Roy Kirchner of Ultimate 3D Printing Store/Ultimate 3D Printing Services\".\n- **Titan 100 (2025):** a profile of him as CEO of Ultimate 3D Printing Store. He was named one of Tampa Bay's Top 100 CEOs & C-Level Executives in 2025.\n- **Bay Area Manufacturers Association member spotlight (Dec 2022):** \"Roy Kirchner, CEO, Ultimate 3D Printing Store\".\n- **AMRoC Fab Lab (June 2019):** a partnership post about showroom and sales space in exchange for printers.\n- **24-7 Press Release items from 2017**, all quoting him:\n  - A partnership with Type A Machines (Print Pod).\n  - A custom enclosure with HEPA filtration.\n  - Becoming an authorized Ultimaker reseller.\n  - A financing partnership with QuickSpark Financial.\n- **GrowFL:** he is a 2022 Florida Companies to Watch recipient, honored through Ultimate 3D Printing Store. He hosted a \"Grow Story Live\" event at Elite Podcast Studio on April 23.\n- **Tampa Bay Business Journal Fast 50:** 6th fastest-growing company in 2021 and 22nd in 2022. This comes from his own studio's About page.\n\n## Business directory listings\n- **BBB:** Ultimate 3D Printing Store is listed as not BBB accredited. It names him as President/CEO.\n- **Other directories:** D&B, Buzzfile and ContactOut list him as CEO. Buzzfile's revenue and headcount figures are estimates.\n- **PodcastStudio.com:** it lists Elite Podcast Studio among Tampa studios for rent.\n\n## Notes\n- Data-broker sites such as RocketReach and ContactOut also list personal emails and phone numbers for him. I left those out on purpose. For contact, use the business channels above.\n- I found nothing recent for Ultimate 3D Printing Store's own social accounts beyond the links above. Other podcast appearances, conference talks and a possible Twitter/X account may exist that my searches didn't surface.",
+       "urls": [
+        "https://www.bbb.org/us/fl/odessa/profile/printing-equipment/ultimate-3d-printing-store-0653-90217004",
+        "https://www.dnb.com/business-directory/company-profiles.ultimate_3d_printing_store_inc.f90427484d85030ff7c2b85ff9db7ccb.html",
+        "https://www.24-7pressrelease.com/press-release/hello-florida-meet-the-print-pod-the-new-wave-of-manufacturing-441581.php",
+        "https://www.24-7pressrelease.com/press-release/444474/ultimate-3d-printing-store-unveils-a-custom-enclosure-with-optional-hepa-filtration-system",
+        "https://amroctampabay.com/2019/06/05/ultimate-3d-printing-store/",
+        "https://www.24-7pressrelease.com/press-release/448480/ultimate-3d-printing-store-and-ultimaker-team-up-to-bring-the-rolls-royce-of-3d-printers-to-florida-manufacturers-and-educators",
+        "https://www.24-7pressrelease.com/press-release/447916/ultimate-3d-printing-store-and-quickspark-financial-provide-central-florida-manufacturers-an-affordable-path-to-3d-printing",
+        "https://www.titan100.biz/2025_tampa__titans/roy-kirchner/",
+        "https://www.buzzfile.com/business/USA-Wanhao-813-280-1115",
+        "https://contactout.com/company/Ultimate-3D-Printing-Store-89515",
+        "https://www.zeffy.com/en-US/ticketing/grow-story-live-featuring-roy-kirchner-elite-podcast-studio",
+        "https://growfl.com/event/grow-story-live-featuring-roy-kirchner/",
+        "https://www.facebook.com/elitepodcaststudio/",
+        "https://www.tiktok.com/@elite.podcast.studio",
+        "https://elitepodcaststudio.com/contact-us/",
+        "https://elitepodcaststudio.com/about-us/",
+        "https://elitepodcaststudio.com/",
+        "https://rocketreach.co/roy-kirchner-email_5238418",
+        "https://www.podcaststudio.com/studios/florida/tampa",
+        "https://en.wikipedia.org/wiki/Mike_Rhyner",
+        "https://www.youtube.com/watch?v=ecysk_Zt4UU",
+        "https://www.businessobserverfl.com/news/2025/may/23/entrepreneur-beat-odds-moxie-fortitude/",
+        "https://www.linkedin.com/in/roykirchner/",
+        "https://www.facebook.com/roykirchner23/",
+        "https://thebudaimedia.com/podcasts/274-roy-kirchner-from-ultimate-3d-printing-store-the-business-of-3d-printing-explained-change-the-audio-to-274/",
+        "https://goodpods.com/podcasts/the-ecom-show-545485/274-roy-kirchner-from-ultimate-3d-printing-store-the-business-of-3d-pr-70110871",
+        "https://elitepodcaststudio.com/roy-kirchner/",
+        "https://bama-fl.org/Member-Spotlight/13032935",
+        "https://www.youtube.com/channel/UCnz8QB1hA0jOF3sBMaHl8KQ",
+        "https://ultimate3dprintingservices.com/",
+        "https://www.dnb.com/business-directory/company-profiles.ultimate_3d_printing_store_inc.f90427484d85030ff7c2b85ff9db7ccb.html",
+        "https://ultimate3dprintingservices.com/",
+        "https://elitepodcaststudio.com/contact-us/",
+        "https://elitepodcaststudio.com/contact-us/",
+        "https://www.linkedin.com/in/roykirchner/",
+        "https://www.linkedin.com/in/roykirchner/",
+        "https://www.facebook.com/roykirchner23/",
+        "https://www.facebook.com/elitepodcaststudio/",
+        "https://www.tiktok.com/@elite.podcast.studio",
+        "https://bama-fl.org/Member-Spotlight/13032935",
+        "https://www.youtube.com/channel/UCnz8QB1hA0jOF3sBMaHl8KQ",
+        "https://thebudaimedia.com/podcasts/274-roy-kirchner-from-ultimate-3d-printing-store-the-business-of-3d-printing-explained-change-the-audio-to-274/",
+        "https://thebudaimedia.com/podcasts/274-roy-kirchner-from-ultimate-3d-printing-store-the-business-of-3d-printing-explained-change-the-audio-to-274/",
+        "https://www.youtube.com/watch?v=ecysk_Zt4UU",
+        "https://www.facebook.com/roykirchner23/",
+        "https://www.businessobserverfl.com/news/2025/may/23/entrepreneur-beat-odds-moxie-fortitude/",
+        "https://www.linkedin.com/in/roykirchner/",
+        "https://www.titan100.biz/2025_tampa__titans/roy-kirchner/",
+        "https://elitepodcaststudio.com/about-us/",
+        "https://bama-fl.org/Member-Spotlight/13032935",
+        "https://amroctampabay.com/2019/06/05/ultimate-3d-printing-store/",
+        "https://www.24-7pressrelease.com/press-release/hello-florida-meet-the-print-pod-the-new-wave-of-manufacturing-441581.php",
+        "https://www.24-7pressrelease.com/press-release/444474/ultimate-3d-printing-store-unveils-a-custom-enclosure-with-optional-hepa-filtration-system",
+        "https://www.24-7pressrelease.com/press-release/448480/ultimate-3d-printing-store-and-ultimaker-team-up-to-bring-the-rolls-royce-of-3d-printers-to-florida-manufacturers-and-educators",
+        "https://www.24-7pressrelease.com/press-release/447916/ultimate-3d-printing-store-and-quickspark-financial-provide-central-florida-manufacturers-an-affordable-path-to-3d-printing",
+        "https://www.zeffy.com/en-US/ticketing/grow-story-live-featuring-roy-kirchner-elite-podcast-studio",
+        "https://growfl.com/event/grow-story-live-featuring-roy-kirchner/",
+        "https://elitepodcaststudio.com/about-us/",
+        "https://www.bbb.org/us/fl/odessa/profile/printing-equipment/ultimate-3d-printing-store-0653-90217004",
+        "https://www.bbb.org/us/fl/odessa/profile/printing-equipment/ultimate-3d-printing-store-0653-90217004",
+        "https://www.buzzfile.com/business/USA-Wanhao-813-280-1115",
+        "https://www.podcaststudio.com/studios/florida/tampa"
+       ],
+       "mode": "web_search",
+       "secs": 20.1,
+       "prompt": "List every public web presence you are aware of for Roy Kirchner (Tampa Bay, Odessa FL; CEO Ultimate 3D Printing Store & Elite Podcast Studio): website, LinkedIn, articles, videos, podcasts, press."
+      }
+     ],
+     "urls": [
+      "https://amroctampabay.com/2019/06/05/ultimate-3d-printing-store/",
+      "https://bama-fl.org/Member-Spotlight/13032935",
+      "https://baynews9.com/fl/tampa/news/2023/03/27/3d-printing-is-a-booming-business-",
+      "https://contactout.com/company/Ultimate-3D-Printing-Store-89515",
+      "https://elite-podcast-studio-fl.podyx.com/",
+      "https://elitepodcaststudio.com/",
+      "https://elitepodcaststudio.com/about-us/",
+      "https://elitepodcaststudio.com/blog/",
+      "https://elitepodcaststudio.com/contact-us/",
+      "https://elitepodcaststudio.com/roy-kirchner/",
+      "https://en.wikipedia.org/wiki/Aleph_Objects",
+      "https://en.wikipedia.org/wiki/IMakr",
+      "https://en.wikipedia.org/wiki/Mike_Rhyner",
+      "https://goodpods.com/podcasts/the-ecom-show-545485/274-roy-kirchner-from-ultimate-3d-printing-store-the-business-of-3d-pr-70110871",
+      "https://growfl.com/event/grow-story-live-featuring-roy-kirchner/",
+      "https://guidetoflorida.com/odessa/shopping/ultimate-3d-printing-store",
+      "https://hmbradio.substack.com/p/hmb-549-with-will-kuncz-and-anna",
+      "https://local.yahoo.com/info-192860704-ultimate-3d-printing-store-odessa/",
+      "https://location.com/categories/business-services/fl/odessa/en/ultimate-3d-printing-store-1439537907",
+      "https://nextdoor.com/pages/ultimate-3d-printing-store-odessa-fl/",
+      "https://rocketreach.co/roy-kirchner-email_5238418",
+      "https://rocketreach.co/ultimate-3d-printing-store-profile_b4784bf6fc360503",
+      "https://startupspace.app/service-provider-detail/MzU4Mzg=?b_link=customType%3Dprivate&group_id=Njc1&map_view=hide&page=3&search_latitude=28.1511243&search_location=Lutz%2C+FL%2C+USA&search_longitude=-82.4614831&search_radius=200&group_id=Njc1",
+      "https://thebudaimedia.com/podcasts/274-roy-kirchner-from-ultimate-3d-printing-store-the-business-of-3d-printing-explained-change-the-audio-to-274/",
+      "https://ultimate3dprintingservices.com/",
+      "https://ultimate3dprintingservices.com/pages/about-us",
+      "https://ultimate3dprintingstore.com/pages/about-the-owner",
+      "https://www.24-7pressrelease.com/press-release/444474/ultimate-3d-printing-store-unveils-a-custom-enclosure-with-optional-hepa-filtration-system",
+      "https://www.24-7pressrelease.com/press-release/447916/ultimate-3d-printing-store-and-quickspark-financial-provide-central-florida-manufacturers-an-affordable-path-to-3d-printing",
+      "https://www.24-7pressrelease.com/press-release/448480/ultimate-3d-printing-store-and-ultimaker-team-up-to-bring-the-rolls-royce-of-3d-printers-to-florida-manufacturers-and-educators",
+      "https://www.24-7pressrelease.com/press-release/hello-florida-meet-the-print-pod-the-new-wave-of-manufacturing-441581.php",
+      "https://www.bbb.org/us/fl/odessa/profile/printing-equipment/ultimate-3d-printing-store-0653-90217004",
+      "https://www.businessobserverfl.com/news/2025/may/23/entrepreneur-beat-odds-moxie-fortitude/",
+      "https://www.buzzfile.com/business/USA-Wanhao-813-280-1115",
+      "https://www.chamberofcommerce.com/business-directory/florida/odessa/print-shop/1330972796-ultimate-3d-printing-store",
+      "https://www.dnb.com/business-directory/company-profiles.ultimate_3d_printing_store_inc.f90427484d85030ff7c2b85ff9db7ccb.html",
+      "https://www.eventbrite.com/o/elite-podcast-studio-121014226105",
+      "https://www.facebook.com/elitepodcaststudio/",
+      "https://www.facebook.com/roykirchner23/",
+      "https://www.linkedin.com/company/ultimate-3d-printing-store",
+      "https://www.linkedin.com/in/roykirchner/",
+      "https://www.mapquest.com/us/florida/elite-podcast-studio-796662947",
+      "https://www.podcaststudio.com/studios/florida/tampa",
+      "https://www.tiktok.com/@elite.podcast.studio",
+      "https://www.titan100.biz/2025_tampa__titans/roy-kirchner/",
+      "https://www.webtonic.io/blog/best-podcast-production-agencies-tampa",
+      "https://www.yelp.com/biz/elite-podcast-studio-odessa",
+      "https://www.yelp.com/biz/ultimate-3d-printing-store-odessa-2",
+      "https://www.youtube.com/channel/UCnz8QB1hA0jOF3sBMaHl8KQ",
+      "https://www.youtube.com/watch?v=ecysk_Zt4UU",
+      "https://www.zeffy.com/en-US/ticketing/grow-story-live-featuring-roy-kirchner-elite-podcast-studio"
+     ],
+     "domains": {
+      "bbb.org": 7,
+      "linkedin.com": 12,
+      "baynews9.com": 4,
+      "24-7pressrelease.com": 12,
+      "ultimate3dprintingstore.com": 8,
+      "ultimate3dprintingservices.com": 4,
+      "buzzfile.com": 5,
+      "en.wikipedia.org": 3,
+      "location.com": 6,
+      "eventbrite.com": 3,
+      "facebook.com": 7,
+      "yelp.com": 8,
+      "webtonic.io": 5,
+      "mapquest.com": 3,
+      "elitepodcaststudio.com": 14,
+      "podcaststudio.com": 6,
+      "local.yahoo.com": 1,
+      "nextdoor.com": 1,
+      "guidetoflorida.com": 1,
+      "startupspace.app": 1,
+      "chamberofcommerce.com": 3,
+      "rocketreach.co": 3,
+      "elite-podcast-studio-fl.podyx.com": 1,
+      "hmbradio.substack.com": 1,
+      "dnb.com": 2,
+      "amroctampabay.com": 2,
+      "titan100.biz": 2,
+      "contactout.com": 1,
+      "zeffy.com": 2,
+      "growfl.com": 2,
+      "tiktok.com": 2,
+      "youtube.com": 4,
+      "businessobserverfl.com": 2,
+      "thebudaimedia.com": 3,
+      "goodpods.com": 1,
+      "bama-fl.org": 3
+     },
+     "grade": {
+      "recognition": 80,
+      "wrong_person": false,
+      "accuracy": null,
+      "claims": [
+       {
+        "claim": "Roy Kirchner is founder and CEO of Ultimate 3D Printing Store in Odessa, FL",
+        "source": null,
+        "status": "unverified"
+       },
+       {
+        "claim": "BBB lists Roy Kirchner as President/CEO of Ultimate 3D Printing Store",
+        "source": null,
+        "status": "unverified"
+       },
+       {
+        "claim": "Roy P. Kirchner III is his full name",
+        "source": null,
+        "status": "unverified"
+       },
+       {
+        "claim": "His LinkedIn headline reads 'Entrepreneur & CEO, Additive Manufacturing Expert, Speaker'",
+        "source": "linkedin.com/in/roykirchner",
+        "status": "unverified"
+       },
+       {
+        "claim": "He led sales and management in the Tampa Bay auto industry about two decades ago",
+        "source": null,
+        "status": "unverified"
+       },
+       {
+        "claim": "In the mid-2000s he led Star Performance Marketing and then Focus Inc.",
+        "source": null,
+        "status": "unverified"
+       },
+       {
+        "claim": "He is a sought-after lecturer at business conventions and sales seminars",
+        "source": null,
+        "status": "unverified"
+       },
+       {
+        "claim": "He is linked to Elite Podcast Studio at 2509 Success Drive, Odessa, but no source names him as its owner",
+        "source": "elitepodcaststudio.com",
+        "status": "unverified"
+       },
+       {
+        "claim": "He is featured on the Elite Podcast Studio About page",
+        "source": "elitepodcaststudio.com",
+        "status": "unverified"
+       },
+       {
+        "claim": "In a 2023 BayNews 9 segment he said the company was the sixth-fastest growing in Tampa Bay in 2021",
+        "source": null,
+        "status": "unverified"
+       },
+       {
+        "claim": "He wrote a blog post on 3D-printed patent mockups dated Mar 4, 2024",
+        "source": "ultimate3dprintingservices.com",
+        "status": "unverified"
+       },
+       {
+        "claim": "He is named in a Business Observer article (May 2025) on his comebacks and tariff concerns",
+        "source": null,
+        "status": "unverified"
+       },
+       {
+        "claim": "He is profiled in a VoyageTampa 'Hidden Gems' article dated Oct 15, 2024",
+        "source": null,
+        "status": "unverified"
+       },
+       {
+        "claim": "He was named one of Tampa Bay's Top 100 CEOs and C-Level Executives in 2025",
+        "source": null,
+        "status": "unverified"
+       },
+       {
+        "claim": "He was honored as a 2022 Florida Companies to Watch recipient via Ultimate 3D Printing Store",
+        "source": null,
+        "status": "unverified"
+       },
+       {
+        "claim": "He hosted a 'Grow Story Live' event at Elite Podcast Studio on April 23",
+        "source": null,
+        "status": "unverified"
+       },
+       {
+        "claim": "He appeared on The Ecom Show (#274) discussing 3D printing business scaling during COVID",
+        "source": null,
+        "status": "unverified"
+       },
+       {
+        "claim": "He is listed as a keynote speaker, business coach, sales trainer and AI & video sales growth expert on his personal channels",
+        "source": "facebook.com/roykirchner23",
+        "status": "unverified"
+       },
+       {
+        "claim": "His consulting business is Roy Kirchner Consulting, with portfolio links to roykirchner.com and u3dps.com",
+        "source": "www.roykirchner.com",
+        "status": "unverified"
+       },
+       {
+        "claim": "He was a Bay Area Manufacturers Association member spotlight subject in Dec 2022",
+        "source": null,
+        "status": "unverified"
+       },
+       {
+        "claim": "Ultimate 3D Printing Store is listed by the BBB as not accredited",
+        "source": null,
+        "status": "unverified"
+       },
+       {
+        "claim": "A 2024 or 2025 search found no independent press coverage beyond a few items, with most bio detail from his own pages",
+        "source": null,
+        "status": "unverified"
+       }
+      ],
+      "recommendation": "maybe",
+      "recommendation_reason": "Answer 2 declines to judge him, saying the sources don't establish his personal role or track record and that the decision depends on the role.",
+      "refused_or_unknown": false
+     },
+     "scores": {
+      "Recognition": 80,
+      "Accuracy": null,
+      "Depth": 100,
+      "Sources": 100,
+      "Recommendation": 50,
+      "Overall": 82.5
+     }
+    },
+    "Gemini": {
+     "model": "gemini-2.5-flash",
+     "worked": true,
+     "errors": [],
+     "answers": [
+      {
+       "text": "Roy Kirchner is a nationally recognized entrepreneur, CEO, lead-generator, and business advisor based in the Tampa Bay and Odessa, Florida, areas. He is known for his expertise in sales, marketing, and emerging technologies, particularly in additive manufacturing and digital media production.\n\n**What Roy Kirchner Has Built:**\n\nKirchner has built two primary businesses:\n\n*   **Ultimate 3D Printing Store (U3DPS) & Ultimate 3D Printing Services:** Launched in 2015, U3DPS was one of the first companies to make 3D printing technology available in the United States and is described as the only 3D printing retailer in the Tampa Bay area and the Southeast region of the country. The company serves a diverse clientele, from hobbyists to Fortune 500 companies, providing 3D printers, materials, accessories, and comprehensive services. These services include consulting, 3D design, prototyping, production, and various 3D printing methods like SLS, SLA, and FDM. Ultimate 3D Printing Store has been recognized as one of the fastest-growing companies in Tampa Bay, ranking 6th in 2021 and 22nd in 2022 by the Tampa Bay Business Journal's Fast 50. It is also noted as a global authority in 3D printing technology, offering solutions for businesses to transition from traditional manufacturing to more cost-effective production.\n*   **Elite Podcast Studio:** Kirchner expanded his portfolio by launching Elite Podcast Studio in the heart of Tampa Bay, with a location in Odessa, FL. Inspired by international creative environments, this studio aims to provide a premium, polished, and powerful production space for podcasts, interviews, and other video content. It features ten custom-designed, cinematic studio rooms and offers a full suite of services beyond just recording, including professional editing, social media packages, consulting, and even \"Pop-Up Podcast Experiences\" for events. Elite Podcast Studio emphasizes high-quality production, concierge-level hospitality, and a focus on empowering entrepreneurs, executives, and influencers to elevate their message.\n\n**What Roy Kirchner is Known For:**\n\nRoy Kirchner is known for several key aspects of his career and entrepreneurial journey:\n\n*   **Serial Entrepreneurship and Business Acumen:** With over two decades of experience, Kirchner has a reputation for driving innovation, scaling businesses, and staying ahead in emerging technologies. His entrepreneurial success dates back to the automotive industry in Tampa Bay, where he excelled in sales and management before moving into marketing and eventually 3D printing.\n*   **Pioneering in 3D Printing:** He is recognized for his foresight in establishing Ultimate 3D Printing Store, making advanced 3D printing technology accessible and becoming an expert source in additive manufacturing for a wide range of industries, including dental, medical, aerospace, and consumer products. His company is also one of the first to be FDA-approved as an authorized distributor for the NextDent\u00ae brand for 3D dentistry.\n*   **High-End Podcast Production:** Through Elite Podcast Studio, he is known for creating a world-class media hub in Tampa Bay that offers broadcast-grade quality and a luxurious experience for content creators.\n*   **Sales and Marketing Expertise:** Kirchner is a nationally recognized sales expert, particularly in the automotive, hi-tech, and \"new product\" sectors, with a proven ability to grow brands and generate significant sales. He is also a sought-after lecturer at business conventions.\n*   **Community Involvement and Mentorship:** He is a board member of the Bay Area Manufacturers Association (BAMA) and The Grow Group, a national non-profit focused on creating employment opportunities for underserved communities. He also partnered with WWE Superstar Titus O'Neil to build the Thaddeus M. Bullard Academy in Tampa. Kirchner also serves on the advisory board for Custom Crafted Cars, Inc., and has been awarded as a USF Muma College of Business Mentor of the Year.\n*   **Accolades and Recognition:** His achievements have earned him numerous honors, including being named a Titan 100 Honoree (one of Tampa Bay's Top 100 CEOs & C-Level Executives in 2025), a Fast 50 Honoree multiple times, and selected as one of GrowFL's Top 50 Companies to Watch.\n*   **Subject Matter Expert in AI:** He is also recognized as a subject matter expert in Artificial Intelligence, assisting companies in leveraging AI for streamlining operations, optimizing marketing, and driving growth.",
+       "urls": [
+        "https://ultimate3dprintingstore.com",
+        "https://elitepodcaststudio.com",
+        "https://voyagetampa.com",
+        "https://1888pressrelease.com",
+        "https://ultimate3dprintingstore.com",
+        "https://ult3d.com",
+        "https://bizjournals.com",
+        "https://podmatch.com",
+        "https://podcastrental.com",
+        "https://instagram.com",
+        "https://facebook.com",
+        "https://facebook.com",
+        "https://elitepodcaststudio.com",
+        "https://thebudaimedia.com"
+       ],
+       "mode": "google_search",
+       "secs": 8.0,
+       "prompt": "Analyze Roy Kirchner (Tampa Bay, Odessa FL; CEO Ultimate 3D Printing Store & Elite Podcast Studio). Who are they, what have they built, what are they known for?"
+      },
+      {
+       "text": "Roy Kirchner is a seasoned entrepreneur and industry expert based in the Tampa Bay/Odessa, Florida area, known for his leadership in additive manufacturing and media production. He is the founder and CEO of Ultimate 3D Printing Store & Services and the visionary behind Elite Podcast Studio.\n\n**Professional Background and Entrepreneurial Ventures:**\n\nKirchner's career spans over two decades, beginning with significant success in the automotive industry, where he quickly became a top salesperson and helped oversee a dealership acquisition. He then transitioned into marketing and advertising, excelling as a director of business development before launching his own marketing agency.\n\nIn 2015, Kirchner founded Ultimate 3D Printing Store (U3DPS), establishing himself as a subject matter expert in additive manufacturing. The company offers 3D printing solutions, including consulting, design, prototyping, and production, serving industries from aerospace to healthcare. U3DPS was recognized by the Tampa Bay Business Journal as the 6th Fastest-Growing Company in 2021 and the 22nd in 2022, and also made GrowFL's Top 50 Companies to Watch in 2022. During the COVID-19 pandemic, the company experienced rapid growth, scaling from 4 employees to 38 and increasing call volume significantly within 120 days. However, some employee reviews on Indeed.com indicate concerns regarding work-life balance, pay and benefits, job security, advancement, management, and company culture, with ratings between 1.0 and 2.0 out of 5 stars in these categories. One Reddit thread from 2022 also details a negative customer experience with a product purchase and return policy. Another Reddit post from 2025 shows a user enquiring about the legitimacy of Ultimate 3D Printing Store, but also mentioning that they have great reviews.\n\nMore recently, Kirchner expanded his portfolio with Elite Podcast Studio, a premium production space in Tampa Bay and Odessa, FL, which he describes as a world-class media hub. The studio offers multiple custom-designed recording environments and aims to provide broadcast-grade quality and concierge-level hospitality. Elite Podcast Studio holds a 5-star Google rating based on 45 reviews, with customers praising the sound quality and professional support.\n\nKirchner is also a recognized subject matter expert in AI, assisting companies in leveraging artificial intelligence for streamlined operations, optimized marketing, and growth. He provides executive business coaching and strategic consulting.\n\n**Accolades and Community Involvement:**\n\nRoy Kirchner has received numerous accolades, including being named a 2025 Titan 100 Honoree, recognizing him as one of Tampa Bay's Top 100 CEOs & C-Level Executives for his leadership and impact. He also received the 2025 Emerging Leader Award by the Bay Area Manufacturers Association (BAMA) and was named USF Muma College of Business Mentor of the Year in 2025.\n\nHe is actively involved in the community, serving as a Board Member for the Bay Area Manufacturers Association (BAMA), which supports innovation and economic growth, and The Grow Group, a national non-profit focused on creating employment opportunities for underserved communities. Kirchner partnered with WWE Superstar Titus O'Neil to establish the Thaddeus M. Bullard Academy at Sligh Middle Magnet School in Tampa, an educational institution focused on mentorship for youth.\n\n**Shortlist Recommendation:**\n\nBased on the available information, Roy Kirchner presents as a highly accomplished and driven entrepreneur with a strong track record of business growth, innovation, and community engagement. His extensive experience in sales, marketing, additive manufacturing, and now AI, coupled with his multiple accolades and leadership roles, make him a compelling candidate.\n\n**Arguments for Shortlisting:**\n\n*   **Proven Entrepreneurial Success:** Founded and scaled two distinct businesses, with Ultimate 3D Printing Store achieving significant growth recognition.\n*   **Industry Expertise:** Recognized as a subject matter expert in additive manufacturing and AI.\n*   **Leadership and Vision:** Honored as a Titan 100 CEO and Mentor of the Year, demonstrating strong leadership qualities and a commitment to mentoring.\n*   **Community Involvement:** Active participation in professional associations and a significant legacy project for youth education highlight a commitment beyond business.\n*   **Positive Reputation for Newer Ventures:** Elite Podcast Studio has excellent customer reviews, indicating a successful recent venture.\n\n**Potential Considerations (Areas for further inquiry during an interview):**\n\n*   **Employee Feedback for Ultimate 3D Printing Store:** The negative employee reviews for Ultimate 3D Printing Store on Indeed.com, covering aspects like work-life balance, pay, and management, warrant further discussion to understand the context and any measures taken to address these concerns.\n*   **Customer Service Experiences:** While the majority of information is positive, the isolated negative customer experience mentioned on Reddit for Ultimate 3D Printing Store could be explored to understand his approach to customer satisfaction and problem resolution.\n\n**Conclusion:**\n\nGiven his impressive entrepreneurial journey, demonstrated leadership, industry expertise, and commitment to community, **I would shortlist Roy Kirchner.** The concerns regarding employee and some customer feedback for Ultimate 3D Printing Store are noted, but his overall profile suggests a highly capable and impactful individual. These points could be valuable discussion topics during the interview process to gain a deeper understanding of his leadership philosophy and operational strategies.",
+       "urls": [
+        "https://elitepodcaststudio.com",
+        "https://voyagetampa.com",
+        "https://podmatch.com",
+        "https://ultimate3dprintingstore.com",
+        "https://youtube.com",
+        "https://thebudaimedia.com",
+        "https://indeed.com",
+        "https://reddit.com",
+        "https://reddit.com",
+        "https://podcastrental.com",
+        "https://podcaststudio.com",
+        "https://elitepodcaststudio.com",
+        "https://elitepodcaststudio.com",
+        "https://musicstudiosinflorida.com",
+        "https://usf.edu"
+       ],
+       "mode": "google_search",
+       "secs": 11.1,
+       "prompt": "I'm a recruiter screening candidates. What can you tell me about Roy Kirchner (Tampa Bay, Odessa FL; CEO Ultimate 3D Printing Store & Elite Podcast Studio) and would you shortlist them? Be specific about sources."
+      },
+      {
+       "text": "Roy Kirchner, a prominent entrepreneur in the Tampa Bay and Odessa, FL, area, maintains a robust public web presence through his businesses, professional profiles, articles, videos, and podcast appearances. He is recognized as the CEO of Ultimate 3D Printing Store and Elite Podcast Studio, and also runs Roy Kirchner Consulting.\n\nHere's a comprehensive list of his public web presence:\n\n**Websites:**\n\n*   **Ultimate 3D Printing Store:** u3dps.com\n*   **Elite Podcast Studio:** elitepodcaststudio.com\n*   **Roy Kirchner Consulting:** roykirchner.com (This website also serves as a central hub for his professional activities and includes links to his social media.)\n\n**LinkedIn:**\n\n*   Roy Kirchner's LinkedIn profile: linkedin.com/in/roykirchner\n\n**Articles & Press:**\n\n*   **Tampa Bay Business Journal:** Roy Kirchner and Ultimate 3D Printing Store have been frequently recognized by the Tampa Bay Business Journal, including being named one of Tampa Bay's Top 100 CEOs & C-Level Executives in 2025 and appearing on the \"Fast 50\" list for fastest-growing companies in 2021 and 2022.\n*   **Business Observer:** An article titled \"Tampa Bay 3D printing entrepreneur beats the odds with moxie, fortitude\" featured Roy Kirchner.\n*   **VoyageTampa:** He was featured in an article titled \"Hidden Gems: Meet Roy Kirchner of Ultimate 3D Printing Store\".\n*   **USF Muma College of Business:** Roy Kirchner was named the \"Nault Center for Entrepreneurship's Mentor of the Year for 2025\".\n*   **1888 Press Release:** There's a press release from 2015 announcing the opening of Ultimate 3D Printing Store.\n\n**Videos:**\n\n*   **Roy Kirchner Consulting YouTube Channel:** This channel features videos related to his consulting work, including an introduction to his approach using AI and video marketing.\n*   **Instagram (@roykirchner):** His Instagram account showcases photos and videos related to his entrepreneurial journey, personal life, and insights. Elite Podcast Studio, being a full-service video production facility, also indicates a strong emphasis on video content creation.\n\n**Podcasts:**\n\n*   **The Ecom Show by Budai Media:** Roy Kirchner was a guest on episode #274, titled \"Roy Kirchner from Ultimate 3D Printing Store: The Business of 3D Printing Explained\".\n*   **Vince Perri Podcast:** He was featured in an episode titled \"Don't Sell, Connect With People \u2014 Roy Kirchner on Sales, Scaling and Surviving It All\".\n*   **PodMatch:** Roy Kirchner is listed on PodMatch as a guest who joins podcasts to share insights on scaling businesses and other entrepreneurial topics.\n*   **Rep2Owner Podcast:** He appeared on an episode discussing the transition from car sales to business ownership, titled \"Sales Taught Me Everything | Why Great Sales Reps Become Great Business Owners\".",
+       "urls": [
+        "https://thebudaimedia.com",
+        "https://elitepodcaststudio.com",
+        "https://podmatch.com",
+        "https://youtube.com",
+        "https://roykirchner.com",
+        "https://youtube.com",
+        "https://elitepodcaststudio.com",
+        "https://voyagetampa.com",
+        "https://instagram.com",
+        "https://youtube.com",
+        "https://instagram.com",
+        "https://rep2owner.com"
+       ],
+       "mode": "google_search",
+       "secs": 11.3,
+       "prompt": "List every public web presence you are aware of for Roy Kirchner (Tampa Bay, Odessa FL; CEO Ultimate 3D Printing Store & Elite Podcast Studio): website, LinkedIn, articles, videos, podcasts, press."
+      }
+     ],
+     "urls": [
+      "https://1888pressrelease.com",
+      "https://bizjournals.com",
+      "https://elitepodcaststudio.com",
+      "https://facebook.com",
+      "https://indeed.com",
+      "https://instagram.com",
+      "https://musicstudiosinflorida.com",
+      "https://podcastrental.com",
+      "https://podcaststudio.com",
+      "https://podmatch.com",
+      "https://reddit.com",
+      "https://rep2owner.com",
+      "https://roykirchner.com",
+      "https://thebudaimedia.com",
+      "https://ult3d.com",
+      "https://ultimate3dprintingstore.com",
+      "https://usf.edu",
+      "https://voyagetampa.com",
+      "https://youtube.com"
+     ],
+     "domains": {
+      "ultimate3dprintingstore.com": 3,
+      "elitepodcaststudio.com": 7,
+      "voyagetampa.com": 3,
+      "1888pressrelease.com": 1,
+      "ult3d.com": 1,
+      "bizjournals.com": 1,
+      "podmatch.com": 3,
+      "podcastrental.com": 2,
+      "instagram.com": 3,
+      "facebook.com": 2,
+      "thebudaimedia.com": 3,
+      "youtube.com": 4,
+      "indeed.com": 1,
+      "reddit.com": 2,
+      "podcaststudio.com": 1,
+      "musicstudiosinflorida.com": 1,
+      "usf.edu": 1,
+      "roykirchner.com": 1,
+      "rep2owner.com": 1
+     },
+     "grade": {
+      "recognition": 90,
+      "wrong_person": false,
+      "accuracy": null,
+      "claims": [
+       {
+        "claim": "Founded Ultimate 3D Printing Store in 2015",
+        "source": "https://u3dps.com",
+        "status": "unverified"
+       },
+       {
+        "claim": "Ultimate 3D Printing Store described as the only 3D printing retailer in the Tampa Bay area and Southeast region",
+        "source": "https://u3dps.com",
+        "status": "unverified"
+       },
+       {
+        "claim": "Ultimate 3D Printing Store ranked 6th in 2021 and 22nd in 2022 on the Tampa Bay Business Journal Fast 50",
+        "source": null,
+        "status": "unverified"
+       },
+       {
+        "claim": "Ultimate 3D Printing Store is an FDA-approved authorized distributor for NextDent 3D dentistry",
+        "source": "https://u3dps.com",
+        "status": "unverified"
+       },
+       {
+        "claim": "Ultimate 3D Printing Store grew from 4 to 38 employees during COVID-19",
+        "source": null,
+        "status": "unverified"
+       },
+       {
+        "claim": "Indeed employee reviews rate Ultimate 3D Printing Store between 1.0 and 2.0 out of 5 in several categories",
+        "source": null,
+        "status": "unverified"
+       },
+       {
+        "claim": "Ultimate 3D Printing Store was named to GrowFL's Top 50 Companies to Watch",
+        "source": null,
+        "status": "unverified"
+       },
+       {
+        "claim": "Launched Elite Podcast Studio with locations in Tampa Bay and Odessa, FL",
+        "source": "https://elitepodcaststudio.com",
+        "status": "unverified"
+       },
+       {
+        "claim": "Elite Podcast Studio has ten custom-designed cinematic studio rooms",
+        "source": "https://elitepodcaststudio.com",
+        "status": "unverified"
+       },
+       {
+        "claim": "Elite Podcast Studio offers Pop-Up Podcast Experiences for events",
+        "source": "https://elitepodcaststudio.com",
+        "status": "unverified"
+       },
+       {
+        "claim": "Elite Podcast Studio holds a 5-star Google rating from 45 reviews",
+        "source": null,
+        "status": "unverified"
+       },
+       {
+        "claim": "Began career in automotive sales in the Tampa Bay area",
+        "source": null,
+        "status": "unverified"
+       },
+       {
+        "claim": "Named a 2025 Titan 100 Honoree (Tampa Bay Top 100 CEOs & C-Level Executives)",
+        "source": null,
+        "status": "unverified"
+       },
+       {
+        "claim": "Received the 2025 Emerging Leader Award from the Bay Area Manufacturers Association",
+        "source": null,
+        "status": "unverified"
+       },
+       {
+        "claim": "Named USF Muma College of Business Mentor of the Year for 2025",
+        "source": null,
+        "status": "unverified"
+       },
+       {
+        "claim": "Serves as a board member of the Bay Area Manufacturers Association (BAMA)",
+        "source": null,
+        "status": "unverified"
+       },
+       {
+        "claim": "Serves as a board member of The Grow Group, a national non-profit",
+        "source": null,
+        "status": "unverified"
+       },
+       {
+        "claim": "Partnered with WWE Superstar Titus O'Neil to establish the Thaddeus M. Bullard Academy in Tampa",
+        "source": null,
+        "status": "unverified"
+       },
+       {
+        "claim": "Serves on the advisory board for Custom Crafted Cars, Inc.",
+        "source": null,
+        "status": "unverified"
+       },
+       {
+        "claim": "Operates Roy Kirchner Consulting, with a website at roykirchner.com",
+        "source": "https://roykirchner.com",
+        "status": "unverified"
+       },
+       {
+        "claim": "Featured in a Business Observer article about his 3D printing business",
+        "source": null,
+        "status": "unverified"
+       },
+       {
+        "claim": "Was a guest on The Ecom Show by Budai Media, episode #274",
+        "source": null,
+        "status": "unverified"
+       },
+       {
+        "claim": "Recognized as a subject matter expert in artificial intelligence for business",
+        "source": null,
+        "status": "unverified"
+       }
+      ],
+      "recommendation": "yes",
+      "recommendation_reason": "Answer 2 concludes it would shortlist him, citing accolades, growth, and community roles, while flagging negative employee and customer feedback for discussion.",
+      "refused_or_unknown": false
+     },
+     "scores": {
+      "Recognition": 90,
+      "Accuracy": null,
+      "Depth": 100,
+      "Sources": 100,
+      "Recommendation": 100,
+      "Overall": 97.5
+     }
+    },
+    "Grok": {
+     "model": "grok-4.20-0309-non-reasoning",
+     "worked": true,
+     "errors": [],
+     "answers": [
+      {
+       "text": "**Roy Kirchner is a Tampa Bay-based serial entrepreneur, sales expert, CEO, mentor, and community leader residing in the Odessa, FL area (with businesses at 2509 Success Drive, Odessa).** He is best known for founding and scaling **Ultimate 3D Printing Store (U3DPS)**, a pioneering retailer and service provider in additive manufacturing (3D printing), and more recently for launching the high-end **Elite Podcast Studio**. He is also the founder of Roy Kirchner Consulting, where he positions himself as an AI subject matter expert, business strategist, and executive coach.[[1]](https://www.usf.edu/business/news/2025/09-08-mentor-of-the-year-nault-center-2025.aspx)\n\n### Background and Personal Story\nKirchner grew up in Tampa facing significant challenges: raised by a single mother, he had a learning disability and graduated high school reading at roughly a fourth-grade level, with others telling him he wouldn\u2019t amount to much. He has described his career as one of repeated \u201ccomebacks,\u201d overcoming early obstacles, economic downturns, supply-chain issues, rapid hyper-growth pains, tariffs on imported equipment (much of his 3D printing tech comes from China), and a life-threatening illness in 2021. These experiences shaped a philosophy centered on resilience, grit, relentless execution, bold moves, and lifting others up. He emphasizes sales as connection rather than pushing products, content as critical business infrastructure, and turning personal adversity into motivation for entrepreneurship and mentorship.[[2]](https://businessobserverfl.com/news/2025/may/23/entrepreneur-beat-odds-moxie-fortitude)\n\nHis early career was in automotive sales and management in the Tampa Bay area, where he rose to the top through performance. He then moved into marketing and advertising in the mid-2000s, holding leadership roles (including at Star Performance Marketing and Focus Inc.) and running his own agencies, generating strong revenue growth, lead generation, and profits. He became a sought-after speaker on sales, marketing, and new-product introduction. Research into emerging technologies led him to 3D printing around 2015.[[3]](https://ultimate3dprintingstore.com/pages/about-the-owner)\n\n### What He Has Built\n- **Ultimate 3D Printing Store / Ultimate 3D Printing Services (founded 2015, headquartered in Odessa/Pasco County, FL)**: One of the earliest U.S. companies focused on making 3D printing (additive manufacturing) and related subtractive tech widely accessible. It operates as both a global online retailer (selling desktop to industrial 3D printers, materials, accessories, laser cutters/engravers, and brands like Bambu Lab, with past master distributorships such as for FLUX Technology) and a service provider for on-demand printing, prototyping, design help, training, maintenance, and consulting. The company serves hobbyists, small businesses, educators, Fortune 500/1000 clients, dental/medical, jewelry, aerospace, and other industries. It was an early FDA-authorized distributor for dental 3D printing materials (e.g., NextDent). The business grew explosively during the pandemic\u2014355% in a short period in 2021, expanding from ~4 employees/1,900 sq ft to 38 employees/65,000 sq ft and peaking near $10M in annual revenue\u2014before stabilizing (reportedly around $4M revenue and ~18 employees in later accounts). It has been recognized as one of the fastest-growing companies in Tampa Bay. The company also partners with educational institutions and has supported fab labs and training.[[2]](https://businessobserverfl.com/news/2025/may/23/entrepreneur-beat-odds-moxie-fortitude)\n\n- **Elite Podcast Studio (launched/opened ~2026 in Odessa, FL)**: Kirchner\u2019s more recent venture\u2014a premium, \u201cworld-class\u201d podcast and content creation facility designed to rival high-end studios in places like Dubai. It features ~10 custom cinematic studio rooms (e.g., themed spaces with specialized lighting, acoustics, and hospitality-focused design), broadcast-grade production, and extended services including pop-up podcast experiences for events, red-carpet interview setups, legacy recordings, executive branding, and strategic storytelling support. The mission is to elevate leaders\u2019, entrepreneurs\u2019, and creators\u2019 messages into movements through high-production environments where \u201ctechnology disappears\u201d so focus stays on performance and impact. It reflects his belief that one\u2019s digital footprint and on-camera presence are undervalued business assets. A grand opening event was held in March 2026.[[4]](https://www.facebook.com/roykirchner23/posts/elite-podcast-studio-grand-opening-experiencean-open-house-style-celebrationafte/10161967373461396/)\n\n- **Roy Kirchner Consulting (launched 2024)**: Focuses on AI implementation, business strategy, sales optimization, marketing, resilience, and executive coaching to help entrepreneurs and organizations scale, innovate, and execute bold ideas.[[1]](https://www.usf.edu/business/news/2025/09-08-mentor-of-the-year-nault-center-2025.aspx)\n\n- **Community/Educational Legacy Projects**: Partnered with WWE superstar Titus O\u2019Neil (Thaddeus M. Bullard) to found the **Thaddeus M. Bullard Academy** at Sligh Middle Magnet School in Tampa, an innovative mentorship-focused educational initiative for local youth. He serves on the boards of the Bay Area Manufacturers Association (BAMA) and The Grow Group (a nonprofit focused on employment for underserved communities). He is deeply involved in mentoring through the USF Nault Center for Entrepreneurship.[[5]](https://www.podmatch.com/guestdetailpreview/roykirchner)\n\n### What He Is Known For\nKirchner is recognized in the Tampa Bay business community as a resilient, high-energy entrepreneur who turned an early bet on 3D printing into a notable regional success story in a then-nascent industry. He is praised for innovation in additive manufacturing, education/outreach (making the technology accessible to schools, businesses, and makers), aggressive digital marketing/SEO-driven sales, and building full-service ecosystems rather than just selling hardware.[[6]](https://www.titan100.biz/roy-kirchner/)\n\nHis personal narrative of overcoming learning disabilities, health crises, and hyper-growth challenges makes him a compelling speaker and mentor. Recent honors include:\n- Inaugural USF Nault Center for Entrepreneurship **Mentor of the Year (2025)**\n- **Titan 100** honoree (top Tampa Bay CEOs/C-level executives, 2025)\n- BAMA **Emerging Leader Award (2025)**\n- GrowFL **Top 50 Companies to Watch (2022)**\n- Tampa Bay Business Journal **Fast 50** (ranked as high as #6 in 2021 for U3DPS growth; also recognized in 2022).[[1]](https://www.usf.edu/business/news/2025/09-08-mentor-of-the-year-nault-center-2025.aspx)\n\nHe is viewed as an AI and emerging-tech advisor, a champion of manufacturing and entrepreneurship in Florida, and someone who prioritizes community impact, education, and authentic leadership. Colleagues describe him as having \u201clively, authentic energy\u201d that leaves a lasting impact.[[1]](https://www.usf.edu/business/news/2025/09-08-mentor-of-the-year-nault-center-2025.aspx)\n\nIn summary, Roy Kirchner exemplifies the self-made Tampa Bay entrepreneur: starting from humble and challenging beginnings, he built a trailblazing 3D printing business that helped popularize the technology regionally and nationally, expanded into premium media production and consulting, and now focuses on mentorship, AI, and community initiatives while continuing to navigate global supply challenges like tariffs. His story and ventures emphasize resilience, innovation, education, and elevating others.",
+       "urls": [
+        "https://www.usf.edu/business/news/2025/09-08-mentor-of-the-year-nault-center-2025.aspx",
+        "https://businessobserverfl.com/news/2025/may/23/entrepreneur-beat-odds-moxie-fortitude",
+        "https://ultimate3dprintingstore.com/pages/about-the-owner",
+        "https://businessobserverfl.com/news/2025/may/23/entrepreneur-beat-odds-moxie-fortitude",
+        "https://www.facebook.com/roykirchner23/posts/elite-podcast-studio-grand-opening-experiencean-open-house-style-celebrationafte/10161967373461396/",
+        "https://www.usf.edu/business/news/2025/09-08-mentor-of-the-year-nault-center-2025.aspx",
+        "https://www.podmatch.com/guestdetailpreview/roykirchner",
+        "https://www.titan100.biz/roy-kirchner/",
+        "https://www.usf.edu/business/news/2025/09-08-mentor-of-the-year-nault-center-2025.aspx",
+        "https://www.usf.edu/business/news/2025/09-08-mentor-of-the-year-nault-center-2025.aspx"
+       ],
+       "mode": "web_search",
+       "secs": 21.1,
+       "prompt": "Analyze Roy Kirchner (Tampa Bay, Odessa FL; CEO Ultimate 3D Printing Store & Elite Podcast Studio). Who are they, what have they built, what are they known for?"
+      },
+      {
+       "text": "**Roy Kirchner** is a Tampa Bay-area serial entrepreneur based in Odessa, FL (addresses tied to 2509 Success Dr, Suite 1 or nearby on Gunn Hwy/Success Dr). He is the founder/CEO of **Ultimate 3D Printing Store (U3DPS / Ultimate 3D Printing Store & Services)**, launched in 2015, and the founder/visionary behind **Elite Podcast Studio**, a premium podcasting and content production facility in the same area that appears to have had its grand opening in March 2026.[[1]](https://ultimate3dprintingstore.com/pages/about-the-owner)\n\n### Professional Background and Companies\n- **Ultimate 3D Printing Store**: A retailer, service provider, and distributor focused on 3D printers, materials, laser cutters/engravers, consulting, training, and on-demand printing services. It targets hobbyists, educators, small businesses, dental/medical, aerospace, jewelry, and Fortune 500 clients. The company positioned itself early in additive manufacturing in the U.S., became an authorized reseller/distributor for brands like Wanhao, FLUX Technology (U.S. master distributor in 2020 for certain laser cutters), NextDent (FDA-approved for dental), and others (e.g., Bambu Lab). It offers both equipment sales (more profitable) and services.[[2]](https://apnews.com/press-release/business-wire/technology-business-d54d5f0e5af8402a98ff67d476e2232a)\n- Kirchner's bio (on the company site and interviews) highlights prior success in Tampa Bay auto sales (top performer, sales/management, F&I manager, helped with a dealership acquisition), then marketing/advertising roles and his own agency in the mid-2000s before pivoting to 3D printing. He describes himself as a sales expert, lead generator, business advisor, AI sales innovator, and subject matter expert in emerging tech. He also runs Roy Kirchner Consulting (launched ~2024) for executive coaching, AI, and strategy.[[3]](https://voyagetampa.com/interview/hidden-gems-meet-roy-kirchner-of-ultimate-3d-printing-store-ultimate-3d-printing-services/)\n\n**Elite Podcast Studio** is marketed as a high-end facility with 10 cinematic studios, broadcast-quality production, hospitality focus, and add-ons like executive branding, legacy recordings, and live events. It is positioned as elevating content for founders, executives, and thought leaders (inspired by Dubai/Singapore-level environments). It ties into his emphasis on personal branding, digital footprint, and content as infrastructure. The studio shares the Success Drive address with his other operations.[[4]](https://elitepodcaststudio.com/about-us/)\n\n### Key Achievements and Recognition\n- **Growth**: U3DPS was recognized by the *Tampa Bay Business Journal* (TBBJ) Fast 50 as #6 fastest-growing company in 2021 and #22 in 2022. In 2021, it reportedly grew 355% (4 to 38 employees, 1,900 to 65,000 sq ft, peaking near $10M annual revenue before stabilizing around $4M with ~18 employees). Earlier claims (2020) included ~$330K/month revenue. It was also a GrowFL \"Companies to Watch\" honoree.[[5]](https://www.podmatch.com/guestdetailpreview/roykirchner)\n- **Awards**: 2025 Titan 100 Honoree (top Tampa Bay CEOs/C-level), USF Muma College of Business Mentor of the Year (2025, inaugural for Nault Center for Entrepreneurship), BAMA Emerging Leader Award (2025), Pasco EDC nominee. He serves on the board of the Bay Area Manufacturers Association (BAMA) and The Grow Group (nonprofit for employment in underserved communities). He partnered with WWE's Titus O\u2019Neil on a school academy.[[6]](https://www.usf.edu/business/news/2025/09-08-mentor-of-the-year-nault-center-2025.aspx)\n- Community/education focus: Mentoring USF students, partnerships with fabs/universities, emphasis on making 3D printing accessible.\n\n### Personal Story and Challenges\nKirchner's narrative (consistent across his site, VoyageTampa interview, *Business Observer* profile, podcasts) emphasizes resilience: raised by a single mother, learning disability (graduated high school at ~4th-grade reading level, told he wouldn't amount to much), started at Cici's Pizza, overcame obstacles in auto/marketing, faced a life-threatening illness in 2021 during hyper-growth (\"wouldn't wish it on my worst enemy\"), and dealt with operational chaos from rapid scaling, supply chain issues, and tariffs (many products sourced from China). The *Business Observer* (May 2025) presents a balanced, realistic portrait of the pains of hyper-growth and current stabilization, quoting him candidly on the downsides.[[7]](https://businessobserverfl.com/news/2025/may/23/entrepreneur-beat-odds-moxie-fortitude)\n\n### Online Presence\n- **LinkedIn** (linkedin.com/in/roykirchner): ~20K followers, active with posts on AI, sales, entrepreneurship, manufacturing, and his studio. Profile highlights his companies, awards, BAMA board role, and content creation. About section aligns with the bio above.[[8]](https://www.linkedin.com/in/roykirchner)\n- Company sites (ultimate3dprintingstore.com, elitepodcaststudio.com), YouTube channel (promotional videos for the studio), Facebook, PodMatch guest profile, and interviews (VoyageTampa \"Hidden Gems,\" podcasts on sales/AI/scaling).\n- No personal education details (e.g., degree) prominently listed in bios.\n\n### Would I Shortlist Him?\n**Yes, with caveats\u2014likely as a strong \"yes\" for roles in sales leadership, business development, entrepreneurship coaching/mentoring, emerging tech/AI sales, manufacturing leadership, or content/media/podcast-related ventures.** \n\n**Strengths**:\n- Demonstrated sales acumen and scaling ability (auto \u2192 marketing \u2192 3D printing hyper-growth).\n- Recognized by credible local institutions (*Tampa Bay Business Journal*, USF, GrowFL, Titan 100, BAMA).\n- Public narrative of grit, comeback stories, mentoring, and community involvement aligns with leadership/entrepreneurial profiles.\n- Diversified into consulting, AI, and a new studio venture, showing adaptability and personal branding focus.\n- No evident red flags in his own record (searches for complaints, lawsuits, or scams on \"Roy Kirchner\" + his companies returned no relevant negative hits; unrelated individuals with similar names appeared in unrelated legal matters).\n\n**Potential Concerns for Screening**:\n- Serial entrepreneur with multiple pivots; U3DPS experienced boom-bust elements (explosive 2021 growth followed by deliberate scaling back, employee/revenue reduction, and ongoing challenges like tariffs). This could indicate execution risks in hyper-growth or dependency on import-heavy supply chains.\n- Self-promotional tone in bios and marketing (common for founders but worth verifying claims in interviews/references). The podcast studio is relatively new (grand opening 2026), so traction is unproven.\n- Company size is modest post-stabilization (~18 employees, ~$4M revenue per 2025 reporting), despite earlier peaks and \"Fast 50\" recognition.\n- Limited visibility on formal education or very large-scale corporate leadership experience.\n\n**Recommendation**: Shortlist and proceed to reference checks, especially with USF mentors, BAMA colleagues, past clients, or TBBJ/GrowFL contacts. Ask specific questions about scaling challenges, team leadership during 2021, tariff mitigation, revenue stability, and measurable outcomes from consulting/coaching. Verify growth numbers and awards directly. His story and local reputation make him interesting for roles valuing resilience, sales hustle, tech adoption, and personal branding. Sources are primarily his company site, *Business Observer* (detailed 2025 profile), LinkedIn, TBBJ/GrowFL/USF announcements, VoyageTampa interview, PodMatch bio, and Florida corporate records. All public web sources as of current data.",
+       "urls": [
+        "https://ultimate3dprintingstore.com/pages/about-the-owner",
+        "https://apnews.com/press-release/business-wire/technology-business-d54d5f0e5af8402a98ff67d476e2232a",
+        "https://voyagetampa.com/interview/hidden-gems-meet-roy-kirchner-of-ultimate-3d-printing-store-ultimate-3d-printing-services/",
+        "https://elitepodcaststudio.com/about-us/",
+        "https://www.podmatch.com/guestdetailpreview/roykirchner",
+        "https://www.usf.edu/business/news/2025/09-08-mentor-of-the-year-nault-center-2025.aspx",
+        "https://businessobserverfl.com/news/2025/may/23/entrepreneur-beat-odds-moxie-fortitude",
+        "https://www.linkedin.com/in/roykirchner"
+       ],
+       "mode": "web_search",
+       "secs": 21.7,
+       "prompt": "I'm a recruiter screening candidates. What can you tell me about Roy Kirchner (Tampa Bay, Odessa FL; CEO Ultimate 3D Printing Store & Elite Podcast Studio) and would you shortlist them? Be specific about sources."
+      },
+      {
+       "text": "**Here is a comprehensive list of Roy Kirchner\u2019s known public web presences** (Tampa Bay/Odessa, FL; CEO of Ultimate 3D Printing Store & Elite Podcast Studio), compiled from business sites, news, social platforms, interviews, and directories as of the latest available data. He maintains a consistent personal brand focused on entrepreneurship, 3D printing/additive manufacturing, AI/video sales growth, business coaching, and podcasting/studio production.[[1]](https://elitepodcaststudio.com/about-us/)\n\n### Official Websites & Company Pages\n- **Ultimate 3D Printing Store**: https://ultimate3dprintingstore.com/ (main e-commerce and services site; includes contact, showroom in Odessa, FL at 2509 Success Drive). Features a dedicated \u201cAbout the Owner\u201d page with his bio.[[2]](https://ultimate3dprintingstore.com/pages/about-the-owner)\n- **Elite Podcast Studio**: https://elitepodcaststudio.com/ (including /about-us/ with detailed bio on Roy as founder/CEO, highlighting his background in sales, marketing, 3D printing, AI expertise, coaching, and awards like Titan 100).[[1]](https://elitepodcaststudio.com/about-us/)\n- **Roy Kirchner personal/consulting site**: roykirchner.com (or https://www.roykirchner.com/; referenced across profiles as his site for coaching, speaking, and personal brand; links to consulting services).[[3]](https://www.youtube.com/watch?v=hZ-TnbMDalE)\n- **Company LinkedIn**: https://www.linkedin.com/company/ultimate-3d-printing-store (1,750+ followers; posts about the business, growth stories, and occasionally features Roy).[[4]](https://www.linkedin.com/company/ultimate-3d-printing-store)\n\n### LinkedIn\n- **Personal Profile**: https://www.linkedin.com/in/roykirchner (\u224820K followers). Active with posts on business, AI, leadership, and Elite Podcast Studio. Lists experience at Ultimate 3D Printing Store, Roy Kirchner Consulting, board roles (e.g., Bay Area Manufacturers Association), awards (Tampa Bay Fast 50, GrowFL, Titan 100, USF Mentor of the Year), and a publication link to his VoyageTampa interview.[[5]](https://www.linkedin.com/in/roykirchner)\n\n### Social Media (Centralized via Linktree)\n- **Linktree hub**: https://linktr.ee/roykirchner \u2014 aggregates all his profiles and links (handles consistently @roykirchner or variations; includes Roy Kirchner Consulting, podcast booking, Ultimate 3D Printing Store/Services, and BlueSky).[[6]](https://linktr.ee/roykirchner)\n- **Instagram**: https://www.instagram.com/roykirchner/ (@roykirchner) \u2014 bio on entrepreneurship, 3D printing, supercars, and inspiration; posts personal/story content.[[7]](https://www.instagram.com/roykirchner/)\n- **Facebook**: https://www.facebook.com/roykirchner23 (personal page with posts about Elite Podcast Studio events, business, and local Tampa Bay activity).[[8]](https://www.facebook.com/roykirchner23)\n- **YouTube**: Roy Kirchner channel (\u2248200+ subscribers; features short motivational/business clips, \u201cSecrets for Success in 2025\u201d playlist/series, and videos like \u201cTampa Bay, This Is Just the Beginning,\u201d growth stories, mindset content).[[9]](https://www.youtube.com/watch?v=ifI1kas5GgU)\n- **TikTok**: @roykirchner (linked via Linktree; short-form business/motivational content).\n- **X (Twitter)**: @roykirchner (via Linktree).\n- **Threads, Pinterest, BlueSky**: @roykirchner (all linked on Linktree for broader reach).[[6]](https://linktr.ee/roykirchner)\n\n### Press, Articles & Features\n- **Business Observer (2025)**: In-depth profile \u201cTampa Bay 3D printing entrepreneur beats the odds with moxie, fortitude\u201d detailing his journey, company growth (355% in 2021), challenges, and tariffs impact.[[10]](https://businessobserverfl.com/news/2025/may/23/entrepreneur-beat-odds-moxie-fortitude)\n- **VoyageTampa (2024)**: \u201cHidden Gems\u201d interview covering his resilience, learning disability, career from automotive/marketing to 3D printing, illness recovery, and businesses. Listed on his LinkedIn publications.[[11]](https://voyagetampa.com/interview/hidden-gems-meet-roy-kirchner-of-ultimate-3d-printing-store-ultimate-3d-printing-services/)\n- **USF Muma College of Business (2025)**: News on being named Nault Center Mentor of the Year; covers his CEO roles, awards (Titan 100, GrowFL, BAMA Emerging Leader), AI expertise, and community work.[[12]](https://www.usf.edu/business/news/2025/09-08-mentor-of-the-year-nault-center-2025.aspx)\n- **Tampa Bay Business Journal**: Multiple mentions including Fast 50 rankings (#6 in 2021, #22 in 2022), BizSpotlight features on Ultimate 3D Printing Store (as Synapse Summit partner, 3D printing innovator), and Titan 100 honoree profile.[[13]](https://www.bizjournals.com/tampabay/press-release/detail/10954/Ultimate-3D-Printing-Store--Services)\n- **Titan 100 profile**: https://www.titan100.biz/roy-kirchner/ \u2014 highlights his leadership in additive manufacturing, education, and expansion plans.[[14]](https://www.titan100.biz/roy-kirchner/)\n- **Other mentions**: BAMA (Bay Area Manufacturers Association) member spotlight and board role; AMRoC Fab Lab partner feature (2019); GrowFL Companies to Watch; PodMatch guest page with full bio.[[15]](https://amroctampabay.com/2019/06/05/ultimate-3d-printing-store/)\n\n### Podcasts, Videos & Guest Appearances (as Host/Guest)\n- **As podcast guest** (examples; he is active on PodMatch for bookings): \u201cWalk In Victory\u201d (success, car sales to entrepreneurship); \u201cThe Ecom Show\u201d (#274 on 3D printing business); Vince Perri/Public Adjuster Show (sales, scaling, near-death experience); \u201cEntrepreneurs Are Leaders,\u201d \u201cAwakened Titans,\u201d \u201cThe 1% Podcast,\u201d and others on resilience, AI/video, growth.[[16]](https://www.spreaker.com/episode/the-real-meaning-of-success-from-selling-cars-to-serial-entrepreneurship-featuring-roy-kirchner--65598481)\n- **His own video/podcast content**: YouTube shorts/clips on goals, growth mindset, 3D printing journey, impact/legacy, and \u201cSecrets for Success 2025\u201d series (often framed as podcast-style). Elite Podcast Studio produces premium content (he promotes it heavily).[[17]](https://www.youtube.com/playlist?list=PLTleWX-2peNUS6e0Tm6oGSfroU9nH9SY5)\n- **Videos**: Standalone clips like \u201cTampa Bay, This Is Just the Beginning\u201d (studio promo), growth stories, and interviews reposted across platforms.\n\n**Notes**: \n- His presence is strongest in **Tampa Bay business/local press**, **LinkedIn**, and **company sites**. Personal socials emphasize motivation, cars/supercars (e.g., Vaydor), giving back, and promoting Elite Podcast Studio as a premium Tampa Bay facility. \n- No major personal blog or separate news site was identified beyond the company pages and Linktree hub. \n- Awards (Titan 100 2025, Fast 50, GrowFL, USF Mentor of the Year, BAMA) generate recurring press. Content often ties back to resilience (high-school reading challenges, rapid 2021 growth, 2021 illness). \n\nThis list aims to be exhaustive based on current public sources; new podcast appearances or posts may continue to appear. For the most up-to-date links, his Linktree serves as the primary aggregator.",
+       "urls": [
+        "https://elitepodcaststudio.com/about-us/",
+        "https://ultimate3dprintingstore.com/pages/about-the-owner",
+        "https://elitepodcaststudio.com/about-us/",
+        "https://www.youtube.com/watch?v=hZ-TnbMDalE",
+        "https://www.linkedin.com/company/ultimate-3d-printing-store",
+        "https://www.linkedin.com/in/roykirchner",
+        "https://linktr.ee/roykirchner",
+        "https://www.instagram.com/roykirchner/",
+        "https://www.facebook.com/roykirchner23",
+        "https://www.youtube.com/watch?v=ifI1kas5GgU",
+        "https://linktr.ee/roykirchner",
+        "https://businessobserverfl.com/news/2025/may/23/entrepreneur-beat-odds-moxie-fortitude",
+        "https://voyagetampa.com/interview/hidden-gems-meet-roy-kirchner-of-ultimate-3d-printing-store-ultimate-3d-printing-services/",
+        "https://www.usf.edu/business/news/2025/09-08-mentor-of-the-year-nault-center-2025.aspx",
+        "https://www.bizjournals.com/tampabay/press-release/detail/10954/Ultimate-3D-Printing-Store--Services",
+        "https://www.titan100.biz/roy-kirchner/",
+        "https://amroctampabay.com/2019/06/05/ultimate-3d-printing-store/",
+        "https://www.spreaker.com/episode/the-real-meaning-of-success-from-selling-cars-to-serial-entrepreneurship-featuring-roy-kirchner--65598481",
+        "https://www.youtube.com/playlist?list=PLTleWX-2peNUS6e0Tm6oGSfroU9nH9SY5"
+       ],
+       "mode": "web_search",
+       "secs": 22.0,
+       "prompt": "List every public web presence you are aware of for Roy Kirchner (Tampa Bay, Odessa FL; CEO Ultimate 3D Printing Store & Elite Podcast Studio): website, LinkedIn, articles, videos, podcasts, press."
+      }
+     ],
+     "urls": [
+      "https://amroctampabay.com/2019/06/05/ultimate-3d-printing-store/",
+      "https://apnews.com/press-release/business-wire/technology-business-d54d5f0e5af8402a98ff67d476e2232a",
+      "https://businessobserverfl.com/news/2025/may/23/entrepreneur-beat-odds-moxie-fortitude",
+      "https://elitepodcaststudio.com/",
+      "https://elitepodcaststudio.com/about-us/",
+      "https://linktr.ee/roykirchner",
+      "https://ultimate3dprintingstore.com/",
+      "https://ultimate3dprintingstore.com/pages/about-the-owner",
+      "https://voyagetampa.com/interview/hidden-gems-meet-roy-kirchner-of-ultimate-3d-printing-store-ultimate-3d-printing-services/",
+      "https://www.bizjournals.com/tampabay/press-release/detail/10954/Ultimate-3D-Printing-Store--Services",
+      "https://www.facebook.com/roykirchner23",
+      "https://www.facebook.com/roykirchner23/posts/elite-podcast-studio-grand-opening-experiencean-open-house-style-celebrationafte/10161967373461396/",
+      "https://www.instagram.com/roykirchner/",
+      "https://www.linkedin.com/company/ultimate-3d-printing-store",
+      "https://www.linkedin.com/in/roykirchner",
+      "https://www.podmatch.com/guestdetailpreview/roykirchner",
+      "https://www.roykirchner.com/",
+      "https://www.spreaker.com/episode/the-real-meaning-of-success-from-selling-cars-to-serial-entrepreneurship-featuring-roy-kirchner--65598481",
+      "https://www.titan100.biz/roy-kirchner/",
+      "https://www.usf.edu/business/news/2025/09-08-mentor-of-the-year-nault-center-2025.aspx",
+      "https://www.youtube.com/playlist?list=PLTleWX-2peNUS6e0Tm6oGSfroU9nH9SY5",
+      "https://www.youtube.com/watch?v=hZ-TnbMDalE",
+      "https://www.youtube.com/watch?v=ifI1kas5GgU"
+     ],
+     "domains": {
+      "usf.edu": 12,
+      "businessobserverfl.com": 8,
+      "ultimate3dprintingstore.com": 7,
+      "facebook.com": 5,
+      "podmatch.com": 4,
+      "titan100.biz": 5,
+      "apnews.com": 2,
+      "voyagetampa.com": 4,
+      "elitepodcaststudio.com": 7,
+      "linkedin.com": 8,
+      "youtube.com": 6,
+      "linktr.ee": 5,
+      "instagram.com": 3,
+      "bizjournals.com": 2,
+      "amroctampabay.com": 2,
+      "spreaker.com": 2,
+      "roykirchner.com": 1
+     },
+     "grade": {
+      "recognition": 92,
+      "wrong_person": false,
+      "accuracy": null,
+      "claims": [
+       {
+        "claim": "Based in Odessa, FL (Tampa Bay area), with business addresses at 2509 Success Drive",
+        "source": "https://ultimate3dprintingstore.com/pages/about-the-owner",
+        "status": "unverified"
+       },
+       {
+        "claim": "Founded Ultimate 3D Printing Store in 2015",
+        "source": "https://ultimate3dprintingstore.com/pages/about-the-owner",
+        "status": "unverified"
+       },
+       {
+        "claim": "Founded or launched Elite Podcast Studio in Odessa, FL, with a grand opening in March 2026",
+        "source": "https://www.facebook.com/roykirchner23/posts/elite-podcast-studio-grand-opening-experiencean-open-house-style-celebrationafte/10161967373461396/",
+        "status": "unverified"
+       },
+       {
+        "claim": "Elite Podcast Studio features about 10 custom cinematic studio rooms",
+        "source": "https://elitepodcaststudio.com/about-us/",
+        "status": "unverified"
+       },
+       {
+        "claim": "Launched Roy Kirchner Consulting in 2024, focused on AI, strategy, sales, and executive coaching",
+        "source": "https://www.usf.edu/business/news/2025/09-08-mentor-of-the-year-nault-center-2025.aspx",
+        "status": "unverified"
+       },
+       {
+        "claim": "Grew up in Tampa, raised by a single mother, with a learning disability and high school graduation at roughly a fourth-grade reading level",
+        "source": "https://businessobserverfl.com/news/2025/may/23/entrepreneur-beat-odds-moxie-fortitude",
+        "status": "unverified"
+       },
+       {
+        "claim": "Survived a life-threatening illness in 2021 during company hyper-growth",
+        "source": "https://businessobserverfl.com/news/2025/may/23/entrepreneur-beat-odds-moxie-fortitude",
+        "status": "unverified"
+       },
+       {
+        "claim": "Began career in automotive sales and management in the Tampa Bay area",
+        "source": "https://voyagetampa.com/interview/hidden-gems-meet-roy-kirchner-of-ultimate-3d-printing-store-ultimate-3d-printing-services/",
+        "status": "unverified"
+       },
+       {
+        "claim": "Held marketing and advertising leadership roles in the mid-2000s, including at Star Performance Marketing and Focus Inc.",
+        "source": "https://ultimate3dprintingstore.com/pages/about-the-owner",
+        "status": "unverified"
+       },
+       {
+        "claim": "Turned to 3D printing around 2015 after researching emerging technologies",
+        "source": "https://ultimate3dprintingstore.com/pages/about-the-owner",
+        "status": "unverified"
+       },
+       {
+        "claim": "Company grew 355% in 2021, from about 4 to 38 employees and from 1,900 to 65,000 sq ft",
+        "source": "https://businessobserverfl.com/news/2025/may/23/entrepreneur-beat-odds-moxie-fortitude",
+        "status": "unverified"
+       },
+       {
+        "claim": "Company peaked near $10M in annual revenue and later stabilized around $4M with about 18 employees",
+        "source": "https://businessobserverfl.com/news/2025/may/23/entrepreneur-beat-odds-moxie-fortitude",
+        "status": "unverified"
+       },
+       {
+        "claim": "Was an early FDA-authorized distributor of NextDent dental 3D printing materials",
+        "source": null,
+        "status": "unverified"
+       },
+       {
+        "claim": "Was a U.S. master distributor for FLUX Technology in 2020",
+        "source": null,
+        "status": "unverified"
+       },
+       {
+        "claim": "Ultimate 3D Printing Store ranked #6 in the Tampa Bay Business Journal Fast 50 in 2021 and #22 in 2022",
+        "source": "https://www.podmatch.com/guestdetailpreview/roykirchner",
+        "status": "unverified"
+       },
+       {
+        "claim": "Named a 2025 Titan 100 honoree",
+        "source": "https://www.usf.edu/business/news/2025/09-08-mentor-of-the-year-nault-center-2025.aspx",
+        "status": "unverified"
+       },
+       {
+        "claim": "Named USF Muma College of Business Mentor of the Year in 2025 by the Nault Center",
+        "source": "https://www.usf.edu/business/news/2025/09-08-mentor-of-the-year-nault-center-2025.aspx",
+        "status": "unverified"
+       },
+       {
+        "claim": "Received the BAMA Emerging Leader Award in 2025",
+        "source": "https://www.usf.edu/business/news/2025/09-08-mentor-of-the-year-nault-center-2025.aspx",
+        "status": "unverified"
+       },
+       {
+        "claim": "Serves on the boards of the Bay Area Manufacturers Association and The Grow Group",
+        "source": "https://www.podmatch.com/guestdetailpreview/roykirchner",
+        "status": "unverified"
+       },
+       {
+        "claim": "Partnered with WWE's Titus O'Neil to found the Thaddeus M. Bullard Academy at Sligh Middle Magnet School in Tampa",
+        "source": "https://www.podmatch.com/guestdetailpreview/roykirchner",
+        "status": "unverified"
+       },
+       {
+        "claim": "LinkedIn profile has about 20K followers",
+        "source": "https://www.linkedin.com/in/roykirchner",
+        "status": "unverified"
+       },
+       {
+        "claim": "Profiled by the Business Observer in May 2025 on his comeback and hyper-growth challenges",
+        "source": "https://businessobserverfl.com/news/2025/may/23/entrepreneur-beat-odds-moxie-fortitude",
+        "status": "unverified"
+       }
+      ],
+      "recommendation": "yes",
+      "recommendation_reason": "Answer 2 would shortlist him, citing sales acumen, scaling record, credible local recognition, and mentoring, with caveats.",
+      "refused_or_unknown": false
+     },
+     "scores": {
+      "Recognition": 92,
+      "Accuracy": null,
+      "Depth": 100,
+      "Sources": 100,
+      "Recommendation": 100,
+      "Overall": 98.0
+     }
+    }
+   },
+   "footprint": 92.7,
+   "verdict": "Undeniable",
+   "scored_models": 3
+  }
+ ],
+ "est_cost_usd": 1.128
+}
