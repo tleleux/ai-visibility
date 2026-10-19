@@ -1,0 +1,482 @@
+{
+  "audits": [
+    {
+      "name": "Maria Velasquez",
+      "context": "",
+      "has_facts": false,
+      "date": "2026-10-19",
+      "models": {
+        "GPT": {
+          "model": "gpt-5-mini",
+          "worked": false,
+          "errors": [
+            "prompt 2: HTTPError: 429 Client Error: Too Many Requests for url: https://api.openai.com/v1/responses",
+            "prompt 3: HTTPError: 429 Client Error: Too Many Requests for url: https://api.openai.com/v1/responses",
+            "prompt 1: HTTPError: 429 Client Error: Too Many Requests for url: https://api.openai.com/v1/responses"
+          ]
+        },
+        "Claude": {
+          "model": "claude-sonnet-5-5",
+          "worked": true,
+          "errors": [],
+          "answers": [
+            {
+              "text": "\"Maria Velasquez\" is a very common name, and I can't tell which person you mean. If I guessed, I'd risk mixing up several people or attributing someone else's work to the wrong person. I also don't want to build a profile of what might be a private individual.\n\nAny of these details would help me narrow it down:\n\n- **Field or industry**, such as tech, politics, medicine, academia, the arts, or business\n- **Location**, meaning the city, state, or country where she works or is based\n- **Organization**, such as a company, nonprofit, school, or agency she's tied to\n- **Where you came across the name**, such as an article, LinkedIn profile, or news story\n- **Any related details**, such as a project, product, or publication\n\nIf you're researching a business contact, a job candidate, or a public figure, tell me that too, and I can focus on publicly documented professional information. Once I know who you mean, I can look into what she has built and what she's known for.",
+              "urls": [],
+              "mode": "web_search",
+              "secs": 6.4,
+              "prompt": "Analyze Maria Velasquez. Who are they, what have they built, what are they known for?"
+            },
+            {
+              "text": "I can't tell you anything reliable about this person, and I wouldn't shortlist or reject anyone on this basis.\n\n**Sources**\n- I have no information on this candidate. I haven't been given a r\u00e9sum\u00e9, application, LinkedIn profile, or notes.\n- I haven't run a web search. \"Maria Velasquez\" is a very common name, so a search would return many unrelated people. Attributing any of their details to your candidate would be misidentification, and that could unfairly harm a real person.\n\n**Shortlisting**\nEven with more information, a name alone isn't a basis for a decision. A sound shortlist decision needs:\n1. The role's requirements, such as must-have skills, experience level, and certifications.\n2. The candidate's own materials, such as a r\u00e9sum\u00e9, cover letter, portfolio, or application answers.\n3. A consistent rubric applied to every candidate.\n\n**How I can help**\n- If you paste the candidate's r\u00e9sum\u00e9 or application text (remove anything you don't want shared), I can assess it against the job description and flag strengths, gaps, and questions for a screening call.\n- I can draft a structured screening scorecard or a list of verification questions.\n- I can suggest ways to verify employment and credentials, such as reference checks, confirming degrees with the issuing institution, or a background check through a compliant provider.\n\n**Compliance**\nSearching candidates online can expose protected information, such as age, family status, religion, or health. Many jurisdictions have rules on this, and background checks often require the candidate's consent, as under the FCRA in the US. Check your company's policy and applicable law before researching candidates.\n\nIf you share the job description and the candidate's materials, I can give you a specific assessment.",
+              "urls": [],
+              "mode": "web_search",
+              "secs": 8.3,
+              "prompt": "I'm a recruiter screening candidates. What can you tell me about Maria Velasquez and would you shortlist them? Be specific about sources."
+            },
+            {
+              "text": "\"Maria Velasquez\" is a very common name, and I can't tell which person you mean. If I searched on the name alone, I'd probably return a mix of unrelated people, such as executives, academics, artists, journalists and private individuals. Mixing those up could mislead you, so I haven't run a search.\n\nAny of these would help me narrow it down:\n\n- **Profession or industry**, such as law, medicine, real estate, politics, journalism or art\n- **Employer or organization**\n- **Location**, meaning city, state or country\n- **A known link or handle**, such as a LinkedIn URL, a website or a social account\n- **Why you're looking**, such as vetting a business contact, preparing for a meeting or researching a public figure\n\nOnce I know who she is, I can look for her public professional presence: a personal or company website, LinkedIn, published articles, talks and videos, podcast appearances, and press coverage. If she turns out to be a private individual rather than a public or professional figure, I'll stick to professional and business-relevant information and won't compile personal details.",
+              "urls": [],
+              "mode": "web_search",
+              "secs": 4.9,
+              "prompt": "List every public web presence you are aware of for Maria Velasquez: website, LinkedIn, articles, videos, podcasts, press."
+            }
+          ],
+          "urls": [],
+          "domains": {},
+          "grade": {
+            "recognition": 0,
+            "wrong_person": false,
+            "accuracy": null,
+            "claims": [],
+            "recommendation": "no",
+            "recommendation_reason": "None of the answers provides any information about the target, so there is no basis to shortlist her.",
+            "refused_or_unknown": true
+          },
+          "scores": {
+            "Recognition": 0,
+            "Accuracy": null,
+            "Depth": 0,
+            "Sources": 0.0,
+            "Recommendation": 0,
+            "Overall": 0.0
+          }
+        },
+        "Gemini": {
+          "model": "gemini-2.5-flash",
+          "worked": true,
+          "errors": [],
+          "answers": [
+            {
+              "text": "Several notable individuals named Maria Velasquez have made significant contributions in diverse fields.\n\n**Maria Velazquez (Luxury Real Estate Leader)**\nMaria Velazquez is an award-winning leader in luxury real estate, with nearly 20 years of experience and an impressive track record of over $1 billion in sales. She is known for her expertise in structuring complex deals, negotiating favorable terms, and providing exclusive access to sought-after properties in New York and Miami. Fluent in English and Spanish, she caters to an elite global clientele. Clients and colleagues describe her as a highly professional, responsive, and problem-solving individual who is dedicated to delivering exceptional experiences.\n\n**Maria Camila Velasquez, MPA (Consultant and Social Impact Innovator)**\nMaria Camila Velasquez is the founder and principal consultant for V&N Consulting Services, LLC. Her firm serves various industries, including child welfare, social services, healthcare, education, nonprofits, and local government. Velasquez is recognized for her passion for helping organizations implement sustainable practices, achieve their intended outcomes, and address systemic and individual disproportionalities. A bicultural non-profit leader with over 13 years of experience, her expertise spans capacity building, child welfare, racial ethnic equity and inclusion, strategic planning, and program management. She co-founded Casa Innovation in Medellin, Colombia, to bridge global changemakers with local talent.\n\n**Mar\u00eda Guadalupe Vel\u00e1zquez (Community and Political Outreach Leader)**\nMar\u00eda Guadalupe Vel\u00e1zquez is dedicated to connecting, serving, and elevating underserved communities. Born and raised in Chicago to Mexican immigrant parents, she currently serves as the Director of Outreach for the Office of U.S. Representative Jes\u00fas \u201cChuy\u201d Garc\u00eda, proudly representing Illinois' 4th district. Her previous work includes serving as the program manager of immigrant justice partnerships at The Resurrection Project, where she supported statewide initiatives to mitigate the consequences of incarceration and deportation. Vel\u00e1zquez also led national youth initiatives for the Hispanic Alliance for Career Enhancement (HACE), expanding programs like El Futuro and organizing STEM conferences. She was also an Organizing Fellow with the Illinois Coalition for Immigrant and Refugee Rights (ICIRR), leading naturalization efforts and mobilizing immigrant votes.\n\n**Maria A. Vel\u00e1zquez (Associate Teaching Professor in Engineering)**\nMaria A. Vel\u00e1zquez is an associate teaching professor in the mechanical and industrial engineering department at the University of Massachusetts (UMass) Lowell. She is deeply committed to engineering education, curriculum innovation, student success, and broadening participation in STEM fields. A first-generation college student from Puerto Rico, she leverages her personal background to create supportive learning environments, especially for women, first-generation students, and historically underrepresented groups in STEM. Her scholarly interests include developing evidence-based pedagogical strategies to enhance student engagement, self-efficacy, and academic success.\n\n**Maria Carmen Vel\u00e1squez (Historical Migrant Worker Activist)**\nMaria Carmen Vel\u00e1squez (born Maria Carmen Ju\u00e1rez; 1921\u20131985) was an American migrant worker activist. She is known for her advocacy and support for migrants and farm laborers in Indiana and across the United States. Vel\u00e1squez co-founded and served as the director of the AMOS Sub-East Office, an organization formed in 1965 through grants from the Office of Economic Opportunity to support migrant communities. Her dedication to farmworker rights activism has been recognized, including a mural of her face painted in Grant County, Indiana, in 2021 to honor her legacy.\n\n**Maria Velasquez (Judo Athlete)**\nMaria Velasquez is a Venezuelan judoka who achieved continental champion status. She earned a gold medal at the Pan American Championships in Montreal in 2007 and bronze medals at international tournaments in Fort Lauderdale in 2023 and Havana in 2009.",
+              "urls": [
+                "https://thevelazquezteam.com",
+                "https://corcoran.com",
+                "https://vnconsulting.org",
+                "https://ccclatinocaucus.org",
+                "https://uml.edu",
+                "https://wikipedia.org",
+                "https://judoinside.com"
+              ],
+              "mode": "google_search",
+              "secs": 9.3,
+              "prompt": "Analyze Maria Velasquez. Who are they, what have they built, what are they known for?"
+            },
+            {
+              "text": "I've found information on several notable individuals named Maria Velasquez, each with distinct professional backgrounds. To provide you with an accurate assessment and a recommendation for shortlisting, please specify which Maria Velasquez you are interested in and the type of role you are recruiting for.\n\nHere are some of the individuals identified:\n\n*   **Maria Velazquez (Licensed Associate RE Broker - Corcoran)**: She is a real estate industry leader with almost 20 years of experience and close to $1 billion in closed transactions, specializing in luxury properties in New York City and Florida. Originally from Colombia, she serves a broad client base including local and international buyers, sellers, and investors.\n*   **Maria A. Velasquez, MBA (Rivero, Gordimer & Company)**: She joined Rivero, Gordimer & Company in 2025 and has over 7 years of experience in business and complex financial valuation. Her expertise includes valuation services for financial reporting, tax compliance, estate and gift planning, internal strategic planning, and general business transactions. She holds an MBA, is nearing completion of an M.S. in Finance, and is pursuing the ASA designation.\n*   **Maria A. Vel\u00e1zquez (Associate Teaching Professor - UMass Lowell)**: She is an associate teaching professor in the Department of Mechanical and Industrial Engineering at the University of Massachusetts Lowell. Her work focuses on engineering education, curriculum innovation, student success, and broadening participation in STEM. She is a first-generation college student from Puerto Rico and has received awards for excellence in teaching.\n*   **Maria Velazquez (Real Estate Agent - East Bay Area)**: Based in the East Bay Area for 40 years, she assists clients with buying, leasing, selling, and investing processes. Over 87% of her referrals come from past clients, and her first sale was in 2006.\n*   **Maria G. Velazquez (Community Outreach Director - Rep. Chuy Garc\u00eda (D-IL))**: She has served as the Community Outreach Director for Representative Chuy Garc\u00eda since January 2023. Prior to this, she was an Outreach Manager for Rep. Garc\u00eda and interned for Rep. Luis Guti\u00e9rrez.\n\nOnce you provide more details about the candidate you are screening and the position, I can offer a more tailored evaluation.",
+              "urls": [
+                "https://corcoran.com",
+                "https://rgcocpa.com",
+                "https://uml.edu",
+                "https://mariavelazquez.net",
+                "https://legistorm.com"
+              ],
+              "mode": "google_search",
+              "secs": 7.2,
+              "prompt": "I'm a recruiter screening candidates. What can you tell me about Maria Velasquez and would you shortlist them? Be specific about sources."
+            },
+            {
+              "text": "Here is a list of public web presences for individuals named Maria Velasquez (or variations), categorized by their apparent profession or distinguishing characteristic:\n\n**1. Maria A. Vel\u00e1zquez (Associate Teaching Professor at UMass Lowell)**\n*   **Website:** UMass Lowell Faculty and Staff Profile (Mechanical and Industrial Engineering department).\n*   **Articles:** Several publications are listed on her UMass Lowell profile, including works submitted to *Ethnicity & Health* and proceedings for the American Society for Engineering Education and the Human Factors and Ergonomics Society Annual Meeting.\n\n**2. Maria-Elena Velasquez (Podcast Host)**\n*   **Podcast:** \"What More Can I Say?\" available on Listen Notes.\n\n**3. Maria Velazquez (Real Estate Agent, East Bay Area, California)**\n*   **Website:** MariaVelazquez.net.\n*   **Videos:** Videos introducing herself and discussing her experience are available on her website.\n\n**4. Maria Velasquez (Co-founder of Cybersecurity Marketing Society)**\n*   **Podcast (Guest Appearance):** Featured on the \"Cyberwhyze Off Script\" podcast, discussing building the Cybersecurity Marketing Society.\n*   **LinkedIn:** Mentioned as having a LinkedIn profile where she shared her transition to full-time entrepreneurship.\n\n**5. Maria-Elena Velasquez (Author at BlackPast.org)**\n*   **Articles:** Author page on BlackPast.org, featuring articles like \"Andy Palacio (1960-2008),\" \"The Garifuna People,\" \"Belizean Kriols,\" and \"The History of Belize.\"\n\n**6. Maria Velazquez (Makeup Business Owner, \"Glamorous Mark\")**\n*   **Interview/Press:** Featured in a \"Conversations with Maria Velazquez\" article by Voyage LA.\n*   **Website:** Her makeup business website, glamorousmark.com, is mentioned in the Voyage LA interview.\n\n**7. Mar\u00eda Vel\u00e1zquez (Luxury Real Estate Advisor, New York City & Miami)**\n*   **Website:** \"The Maria Velazquez Team\" at The Corcoran Group. She also has a profile on Corcoran's website.\n*   **Press:** A PR Newswire press release from May 25, 2026, highlights her as a trusted U.S. entry hub for international buyers.\n*   **Instagram:** The \"The Maria Velazquez Team\" website invites visitors to join them on Instagram.\n\n**8. Maria Velasquez (PR Professional, San Diego Press Club Award Recipient)**\n*   **Press:** Received the San Diego Press Club 2020 Andy Mace Special Award.\n\n**9. Mar\u00eda Guadalupe Vel\u00e1zquez (Director of Outreach for U.S. Representative Jes\u00fas \u201cChuy\u201d Garc\u00eda)**\n*   **Profile/Article:** Featured on the Chicago Latino Caucus Foundation website. She is also listed on LegiStorm as Community Outreach Director for Rep. Chuy Garc\u00eda.\n*   **Social Media:** Mentioned as having an Instagram foodie page, @BuenProvechoChi.\n\n**10. Maria Velasquez (Instagram User)**\n*   **Instagram:** Profile @mvvelasquez_ with over 2.1K followers and 29 posts.\n\n**11. Mariah Vel\u00e1squez (Director at Westmont College)**\n*   **Podcast (Guest Appearance):** Joined the \"Life with God\" podcast by Renovar\u00e9 to discuss \"The Practice of the Presence of God.\"\n*   **Articles:** Her writing is available on Conversatio.org, as mentioned in the podcast show notes.\n\n**12. Maria Paula Velasquez Rodriguez (Podcast Host)**\n*   **Podcast:** Available on Listen Notes, with episodes discussing topics like \"Como son los j\u00f3venes ahora en d\u00eda en el amor.\"\n\n**13. Dr. Maria C. Velasquez Escobar, M.D. (Maternal Fetal Medicine Physician)**\n*   **Profile:** Listed on The Hospitals of Providence website.\n*   **Press:** Recognized by The Global Directory of Who's Who for her accomplishments.\n\n**14. Maria Vel\u00e1squez (Gospel Singer)**\n*   **Videos:** Several YouTube videos featuring her music, including \"Maria vel\u00e1squez Vol 03 Album Completo Alabanzas Clasicas\" and \"MARY VELASQUEZ // MAESTRO 6K.\"\n\n**15. Maria A. Velasquez, MBA (Manager at Rivero, Gordimer & Company)**\n*   **Company Profile:** Listed as a Manager in the Valuation & Advisory Team on the Rivero, Gordimer & Company website.\n\n**16. Maria Camila Velasquez, MPA (Founder of V&N Consulting Services, LLC)**\n*   **Website:** Profile on the V&N Consulting website, detailing her role as founder and principal consultant.\n\n**17. Maria Velazquez (Executive Director, Telpochcalli Community Education Project)**\n*   **Profile:** Featured on the Goldin Institute website.\n\n**18. Maria Velazquez (The City College of New York)**\n*   **Website:** A page on The City College of New York website.\n\nPlease note that there may be other individuals named Maria Velasquez with public web presences not identified in this search, or some listed here may be the same individual with different roles/appearances where a definitive connection could not be made.",
+              "urls": [
+                "https://uml.edu",
+                "https://listennotes.com",
+                "https://mariavelazquez.net",
+                "https://mariavelazquez.net",
+                "https://youtube.com",
+                "https://blackpast.org",
+                "https://voyagela.com",
+                "https://thevelazquezteam.com",
+                "https://corcoran.com",
+                "https://prnewswire.com",
+                "https://sdpressclub.org",
+                "https://ccclatinocaucus.org",
+                "https://legistorm.com",
+                "https://instagram.com",
+                "https://renovare.org",
+                "https://listennotes.com",
+                "https://thehospitalsofprovidence.com",
+                "https://globalwwonline.com",
+                "https://youtube.com",
+                "https://youtube.com",
+                "https://rgcocpa.com",
+                "https://vnconsulting.org",
+                "https://goldininstitute.org",
+                "https://cuny.edu"
+              ],
+              "mode": "google_search",
+              "secs": 13.1,
+              "prompt": "List every public web presence you are aware of for Maria Velasquez: website, LinkedIn, articles, videos, podcasts, press."
+            }
+          ],
+          "urls": [
+            "https://blackpast.org",
+            "https://ccclatinocaucus.org",
+            "https://corcoran.com",
+            "https://cuny.edu",
+            "https://globalwwonline.com",
+            "https://goldininstitute.org",
+            "https://instagram.com",
+            "https://judoinside.com",
+            "https://legistorm.com",
+            "https://listennotes.com",
+            "https://mariavelazquez.net",
+            "https://prnewswire.com",
+            "https://renovare.org",
+            "https://rgcocpa.com",
+            "https://sdpressclub.org",
+            "https://thehospitalsofprovidence.com",
+            "https://thevelazquezteam.com",
+            "https://uml.edu",
+            "https://vnconsulting.org",
+            "https://voyagela.com",
+            "https://wikipedia.org",
+            "https://youtube.com"
+          ],
+          "domains": {
+            "thevelazquezteam.com": 2,
+            "corcoran.com": 3,
+            "vnconsulting.org": 2,
+            "ccclatinocaucus.org": 2,
+            "uml.edu": 3,
+            "wikipedia.org": 1,
+            "judoinside.com": 1,
+            "rgcocpa.com": 2,
+            "mariavelazquez.net": 3,
+            "legistorm.com": 2,
+            "listennotes.com": 2,
+            "youtube.com": 3,
+            "blackpast.org": 1,
+            "voyagela.com": 1,
+            "prnewswire.com": 1,
+            "sdpressclub.org": 1,
+            "instagram.com": 1,
+            "renovare.org": 1,
+            "thehospitalsofprovidence.com": 1,
+            "globalwwonline.com": 1,
+            "goldininstitute.org": 1,
+            "cuny.edu": 1
+          },
+          "grade": {
+            "recognition": 25,
+            "wrong_person": false,
+            "accuracy": null,
+            "claims": [
+              {
+                "claim": "Maria Velazquez is a luxury real estate leader with nearly 20 years of experience and over $1 billion in sales in New York and Miami",
+                "source": null,
+                "status": "unverified"
+              },
+              {
+                "claim": "Maria Camila Velasquez, MPA, is founder and principal consultant of V&N Consulting Services, LLC",
+                "source": null,
+                "status": "unverified"
+              },
+              {
+                "claim": "Maria Camila Velasquez co-founded Casa Innovation in Medellin, Colombia",
+                "source": null,
+                "status": "unverified"
+              },
+              {
+                "claim": "Mar\u00eda Guadalupe Vel\u00e1zquez is Director of Outreach for U.S. Representative Jes\u00fas 'Chuy' Garc\u00eda",
+                "source": null,
+                "status": "unverified"
+              },
+              {
+                "claim": "Mar\u00eda Guadalupe Vel\u00e1zquez previously worked at The Resurrection Project and HACE, and was an Organizing Fellow with ICIRR",
+                "source": null,
+                "status": "unverified"
+              },
+              {
+                "claim": "Maria A. Vel\u00e1zquez is an associate teaching professor in mechanical and industrial engineering at UMass Lowell",
+                "source": null,
+                "status": "unverified"
+              },
+              {
+                "claim": "Maria A. Vel\u00e1zquez is a first-generation college student from Puerto Rico",
+                "source": null,
+                "status": "unverified"
+              },
+              {
+                "claim": "Maria Carmen Vel\u00e1squez (1921\u20131985) was a migrant worker activist who co-founded the AMOS Sub-East Office",
+                "source": null,
+                "status": "unverified"
+              },
+              {
+                "claim": "A mural of Maria Carmen Vel\u00e1squez was painted in Grant County, Indiana, in 2021",
+                "source": null,
+                "status": "unverified"
+              },
+              {
+                "claim": "Maria Velasquez is a Venezuelan judoka with a Pan American Championships gold medal in Montreal in 2007",
+                "source": null,
+                "status": "unverified"
+              },
+              {
+                "claim": "Maria A. Velasquez, MBA, joined Rivero, Gordimer & Company in 2025 with over 7 years of valuation experience",
+                "source": null,
+                "status": "unverified"
+              },
+              {
+                "claim": "Maria Velazquez is a real estate agent in the East Bay Area with 40 years in the area, first sale in 2006",
+                "source": null,
+                "status": "unverified"
+              },
+              {
+                "claim": "Maria G. Velazquez has been Community Outreach Director for Rep. Chuy Garc\u00eda since January 2023",
+                "source": null,
+                "status": "unverified"
+              },
+              {
+                "claim": "Maria Velazquez's real estate website is MariaVelazquez.net",
+                "source": "MariaVelazquez.net",
+                "status": "unverified"
+              },
+              {
+                "claim": "Maria Velasquez co-founded the Cybersecurity Marketing Society and was a guest on the Cyberwhyze Off Script podcast",
+                "source": null,
+                "status": "unverified"
+              },
+              {
+                "claim": "Maria Velazquez runs the makeup business Glamorous Mark (glamorousmark.com) and was interviewed by Voyage LA",
+                "source": "glamorousmark.com",
+                "status": "unverified"
+              },
+              {
+                "claim": "Dr. Maria C. Velasquez Escobar is a maternal fetal medicine physician listed on The Hospitals of Providence website",
+                "source": null,
+                "status": "unverified"
+              },
+              {
+                "claim": "Maria-Elena Velasquez hosts the podcast 'What More Can I Say?' and is an author page on BlackPast.org",
+                "source": null,
+                "status": "unverified"
+              },
+              {
+                "claim": "Mariah Vel\u00e1squez is a director at Westmont College and appeared on the Life with God podcast",
+                "source": null,
+                "status": "unverified"
+              },
+              {
+                "claim": "Maria Velasquez was a PR professional who received the San Diego Press Club 2020 Andy Mace Special Award",
+                "source": null,
+                "status": "unverified"
+              }
+            ],
+            "recommendation": "maybe",
+            "recommendation_reason": "It declines to assess a candidate and asks for the candidate's details and role before offering any shortlisting judgment.",
+            "refused_or_unknown": false
+          },
+          "scores": {
+            "Recognition": 25,
+            "Accuracy": null,
+            "Depth": 100,
+            "Sources": 100,
+            "Recommendation": 50,
+            "Overall": 68.8
+          }
+        },
+        "Grok": {
+          "model": "grok-4.20-0309-non-reasoning",
+          "worked": true,
+          "errors": [],
+          "answers": [
+            {
+              "text": "**Maria Velasquez (or Vel\u00e1zquez) is not a single widely recognized public figure in tech, open-source, or \"builder\" circles.** The name is very common, especially in Latin American, Spanish, and U.S. Hispanic communities, so multiple professionals share it across unrelated fields. No prominent individual exactly matching \"Maria Velasquez\" stands out as a notable software engineer, AI founder, open-source contributor, or independent builder based on available public information.[[1]](https://theorg.com/org/cybersecurity-marketing-society/org-chart/maria-velasquez)\n\n### Most Relevant Professional Matches\nHere are the individuals who come closest to a \"who they are / what they've built / known for\" profile, particularly in professional or community-building contexts:\n\n- **Maria Velasquez, Co-Founder & Chief Growth Officer of the Cybersecurity Marketing Society (most prominent in a professional/community \"builder\" sense)**: She is a marketing executive with over 10 years in cybersecurity. She co-founded the Cybersecurity Marketing Society (around 2020), a community and organization for cybersecurity marketers. She co-hosts the *Breaking Through in Cybersecurity Marketing* podcast and has spoken at events like CyberMarketingCon. Prior roles include VP of Growth Marketing at NetSPI (a cybersecurity company), Head of Marketing at Unibuddy, and marketing automation work. She holds a Master's in Corporate Communications & Public Relations from Sacred Heart University and is based in New York. She is known for bridging sales/marketing alignment in cybersecurity, community-building in a niche B2B space, and practical content on engaging technical SMEs, storytelling, and human-centered marketing in a highly technical industry.[[1]](https://theorg.com/org/cybersecurity-marketing-society/org-chart/maria-velasquez)\n\n- **Maria Angelica Vel\u00e1zquez, Ph.D., Associate Teaching Professor at UMass Lowell**: An academic in industrial engineering, human factors/ergonomics, usability, design/emotion, and engineering education. She is a Clare Boothe Luce Scholar focused on broadening participation in STEM, curriculum innovation, and human-centered design of systems/products. She earned her Ph.D. from Penn State, M.S. from Rensselaer, and B.S. from University of Puerto Rico-Mayaguez. Known for research and teaching on inclusive, equitable engineering solutions rather than building commercial products.[[2]](https://www.uml.edu/engineering/mechanical-industrial/faculty/velazquez-maria.aspx)\n\n- **Mar\u00eda Vel\u00e1zquez (real estate/technology-adopting luxury advisor)**: A Colombian-born top-producing real estate agent (top 1.5% nationally) specializing in high-end properties in New York City and Florida, with over $2 billion in career sales. She has led major deals (e.g., $40M+ bulk sales) and transitioned teams to Compass for its tech tools (including AI-powered visualization like Compass Lens). Known for bridging international (especially Latin American) investors with U.S. markets, using technology in sales, and a consultative approach to relocation, banking, immigration, and investment. Not a software builder, but notable for adopting and promoting real estate tech.[[3]](https://www.citybiz.co/article/42261/mighty-all-latina-team-led-by-maria-velazquez-bolts-to-compass/)\n\nOther mentions (less relevant to \"built\" or tech/innovation):\n- Medical doctors (OB-GYN, radiologist).\n- Community/political outreach roles (e.g., for U.S. Rep. Jes\u00fas \u201cChuy\u201d Garc\u00eda).\n- Athletes (marathon runner).\n- Various entrepreneurs in beauty, social impact, or unrelated startups.\n\n### Summary on \"Builder\" Context\nIf the query assumes a tech/AI/open-source builder (common in certain online communities), there is no strong match. Searches for GitHub contributions, AI products, notable software, or viral \"builder\" profiles did not surface a prominent Maria Velasquez in that space. The cybersecurity marketing community leader is the closest to someone who has \"built\" something lasting (a professional society, podcast, and events).\n\nIf this refers to a specific person (e.g., from a certain platform, company, Twitter/X handle, or niche community), more details like a username, company, or context would help narrow it down. The name's commonality makes disambiguation essential.",
+              "urls": [
+                "https://theorg.com/org/cybersecurity-marketing-society/org-chart/maria-velasquez",
+                "https://theorg.com/org/cybersecurity-marketing-society/org-chart/maria-velasquez",
+                "https://www.uml.edu/engineering/mechanical-industrial/faculty/velazquez-maria.aspx",
+                "https://www.citybiz.co/article/42261/mighty-all-latina-team-led-by-maria-velazquez-bolts-to-compass/"
+              ],
+              "mode": "web_search",
+              "secs": 15.4,
+              "prompt": "Analyze Maria Velasquez. Who are they, what have they built, what are they known for?"
+            },
+            {
+              "text": "**The most relevant and prominent \"Maria Velasquez\" (often spelled Velazquez) matching a recruiter/talent acquisition professional is Maria Velazquez based in Chicago, Illinois.**[[1]](https://www.linkedin.com/in/mariajvelazquez)\n\n### Professional Background\nShe is currently a **Talent Acquisition Senior Specialist at Boston Consulting Group (BCG)** (promoted in 2025; previously Talent Acquisition Specialist at BCG from 2022\u20132025).[[2]](https://rocketreach.co/maria-velazquez-email_531920510)\n\nPrior experience includes roles at **LaSalle Network** (a staffing and recruiting firm) in 2021\u20132022:\n- Senior Project Manager, National Recruiting\n- Project Manager, National Recruiting\n- Project Manager, Customer Service \u2013 Chicago Territory\n- Recruiter, Customer Service \u2013 Chicago Territory\n- Associate\n\nEarlier roles include an internship and ambassador positions (e.g., at Style Innovators Inc. and Northeastern University).[[2]](https://rocketreach.co/maria-velazquez-email_531920510)\n\nHer **LinkedIn profile** (linkedin.com/in/mariajvelazquez) shows ~3K followers and 500+ connections. She is bilingual in English and Spanish (native or bilingual proficiency in both). She holds a Bloomberg Market Concepts certification (2020).[[1]](https://www.linkedin.com/in/mariajvelazquez)\n\n### Skills and Reputation\nListed skills include: full-life cycle recruiting, sourcing, talent management, project management, communication, leadership, event planning, customer experience, and Microsoft Office.[[2]](https://rocketreach.co/maria-velazquez-email_531920510)\n\nA recommendation on her LinkedIn profile states: \u201cMaria is one of the most down to earth, relatable recruiters you will come across. She has a genuine ability to make you feel that she truly cares about your professional, and personal life. This is rare in her industry.\u201d (from Mike Shakespeare).[[1]](https://www.linkedin.com/in/mariajvelazquez)\n\nHer activity includes engaging with BCG recruiting posts (e.g., programs for PhDs/MDs/JDs, undergrad/non-MBA events, and consulting career content), which aligns with recruiting for a prestigious consulting firm.[[1]](https://www.linkedin.com/in/mariajvelazquez)\n\n### Other Individuals\nMultiple other professionals named Maria (or variants like Mar\u00eda, Marianna, Mariana) Velasquez/Vel\u00e1zquez/Velasquez appear in HR/talent roles, but they are less directly matching a generic \"Maria Velasquez recruiter\" query:\n- Latam/Global HR Manager roles in chemicals/manufacturing (Colombia/LatAm focus, with experience at Vantage, Baxter) \u2014 more senior HR/generalist than pure recruiting.[[3]](https://www.adapt.io/contact/maria-velasquez/490126469)\n- Various talent acquisition roles in Latin America (e.g., IT/AI recruiter in Colombia, banking/tech recruiting in Mexico/Chile) or unrelated fields (politics, marketing, etc.).\n\nWithout additional context (e.g., location, company, specific spelling, or LinkedIn URL), the Chicago-based BCG recruiter is the strongest match for a U.S.-style recruiting screening context.\n\n### Shortlist Recommendation\n**Yes, I would shortlist her** for most corporate talent acquisition, recruiting, or sourcer roles\u2014especially at consulting, professional services, or high-volume staffing firms. \n\n**Reasons**:\n- Direct, progressive experience in talent acquisition (full lifecycle, sourcing, project management of recruiting efforts) at a top-tier firm like BCG and a staffing agency (LaSalle Network).\n- Positive interpersonal feedback emphasizing candidate care and relatability, which is highly valued in recruiting.\n- Bilingual skills are a plus for diverse candidate pools.\n- Recent promotion to Senior Specialist suggests strong performance.\n\n**Caveats**: Her visible experience appears concentrated in customer service recruiting earlier on, then broader TA at BCG (likely consulting/business roles). If your role is highly specialized (e.g., executive search, tech engineering, or very senior leadership hiring), you may want to probe depth in those areas during screening. No major red flags (e.g., frequent short tenures or negative public feedback) appear in available sources.\n\n**Sources**: Information is drawn primarily from RocketReach professional profile data and her public LinkedIn profile (linkedin.com/in/mariajvelazquez), cross-referenced across multiple search results. Other variants were identified via LinkedIn, The Org, Adapt.io, and ContactOut but do not match as closely. Public web data as of the current date; full LinkedIn details often require login for complete experience/education. If you have more details about the candidate (e.g., a resume, specific company, or location), I can refine this further.",
+              "urls": [
+                "https://www.linkedin.com/in/mariajvelazquez",
+                "https://rocketreach.co/maria-velazquez-email_531920510",
+                "https://rocketreach.co/maria-velazquez-email_531920510",
+                "https://www.linkedin.com/in/mariajvelazquez",
+                "https://rocketreach.co/maria-velazquez-email_531920510",
+                "https://www.linkedin.com/in/mariajvelazquez",
+                "https://www.linkedin.com/in/mariajvelazquez",
+                "https://www.adapt.io/contact/maria-velasquez/490126469"
+              ],
+              "mode": "web_search",
+              "secs": 17.9,
+              "prompt": "I'm a recruiter screening candidates. What can you tell me about Maria Velasquez and would you shortlist them? Be specific about sources."
+            },
+            {
+              "text": "**There are numerous public figures named Maria Velasquez (or variations like Mar\u00eda Vel\u00e1zquez, Maria Velazquez, etc.), a very common name especially in Latin American, Spanish, and U.S. Latino communities.** No single individual matches all or even most of the categories comprehensively. Below is a categorized summary of the most notable public web presences I could identify from reliable sources, grouped by the primary person they appear to refer to. These are based on professional profiles, institutional pages, media mentions, and public records.[[1]](https://www.linkedin.com/in/maria-vepa)\n\n### 1. Maria Velasquez \u2013 Cybersecurity Marketing Leader & Co-Founder, Cybersecurity Marketing Society (most prominent for podcasts, articles, and professional networking)\n- **LinkedIn**: linkedin.com/in/maria-vepa (Maria Velasquez \ud83c\uddf2\ud83c\udde6, with 11K+ followers; details her roles in cybersecurity marketing, co-founding the Society, and prior positions at NetSPI, Brinqa, Unibuddy, etc.).[[1]](https://www.linkedin.com/in/maria-vepa)\n- **Organization/Community Site**: cybersecuritymarketingsociety.com (co-founder and Chief Growth Officer; includes community resources, events like CyberMarketingCon, and podcast hosting).[[2]](https://www.buzzsprout.com/2215185/episodes/17977244-catching-the-cybersecurity-marketing-bug-with-gianna-whitver-and-maria-velasquez)\n- **Podcasts (as co-host or guest)**: Co-host of *Breaking Through in Cybersecurity Marketing Podcast* (multiple episodes on the Society's site and platforms like Apple Podcasts, The CyberWire, Hacker Valley Studio). Guest appearances on *The Campaign* (97th Floor), CYBR.SEC.CAST, Envisionit interview, and others discussing cybersecurity marketing, community building, SMEs, and trends.[[3]](https://podcasts.apple.com/us/podcast/engaging-deeply-technical-smes-to-create-high-converting/id1786190696?i=1000696870939)\n- **Articles/Interviews/Press**: Features and quotes in industry outlets on cybersecurity marketing strategies, community building, AI in marketing, and events (e.g., Envisionit blog, The CyberWire show notes, PR/news on CyberMarketingCon). Also mentioned on The Org profile and Gracker.ai.[[4]](https://envisionitagency.com/blog/shaping-the-future-of-cybersecurity-marketing/)\n- **Videos**: YouTube trailers/clips related to podcast episodes (e.g., \"Maria Velasquez on Building the Cybersecurity Marketing Society Community\").[[5]](https://www.youtube.com/watch?v=Y0fdlQ7MTHE)\n\nNo personal website identified beyond the Society's platforms.\n\n### 2. Mar\u00eda Vel\u00e1zquez (or Maria Velazquez) \u2013 Luxury Real Estate Advisor (NYC/Florida, Colombian background; prominent in press)\n- **Professional/Bio Pages**: Corcoran profile (corcoran.com/real-estate-agents/detail/agent/maria-velazquez/27576); StreetEasy bio (streeteasy.com/profile/826529-maria-velazquez); Team site thevelazquezteam.com (highlights $1B+ in sales, luxury properties in NYC and Miami, international clients).[[6]](https://www.corcoran.com/real-estate-agents/detail/agent/maria-velazquez/27576)\n- **Press/Articles**: Forbes Colombia feature on redefining NYC real estate for international (especially Latino) buyers; PR Newswire/Yahoo Finance release on her role as a \"U.S. entry hub\" for affluent international clients (banking, immigration, relocation support); citybiz coverage of her team moving to Compass (earlier career). Also mentioned in real estate books like *Local Einsteins*.[[7]](https://forbes.co/2025/12/29/negocios/la-colombiana-que-redefine-el-real-estate-de-nueva-york-con-una-mirada-consultiva-multicultural-y-profundamente-humana/)\n- **Other**: Earlier mentions with Douglas Elliman or Compass; contact details and team bios emphasize her culinary background and multilingual skills (Spanish, etc.).\n\nLinkedIn presence is likely under a professional real estate profile (not uniquely dominant in searches).\n\n### 3. Dr. Maria (A./Angelica) Vel\u00e1zquez \u2013 Academic/Professor in Engineering (UMass Lowell)\n- **University Profile**: uml.edu/engineering/mechanical-industrial/faculty/velazquez-maria.aspx (Associate Teaching Professor, Clare Boothe Luce Scholar; expertise in industrial engineering, human factors, ergonomics, engineering education, and broadening participation in STEM; full biosketch, education from Penn State, RPI, UPR-Mayaguez).[[8]](https://www.uml.edu/engineering/mechanical-industrial/faculty/velazquez-maria.aspx)\n- **Potential LinkedIn/Articles**: Academic networking profiles and possible publications in human factors/engineering education journals (not heavily featured in top search results for general articles/podcasts).\n\n### 4. Dr. Maria (D./Victoria) Velazquez \u2013 Medical Professionals (multiple in OB-GYN/Radiology)\n- **Profiles**: WebMD, Doximity, US News Doctors, and hospital-affiliated pages for OB-GYN in El Paso, TX (high-risk pregnancies) and radiologist in Boca Raton, FL (with publications on positron emission mammography).[[9]](https://doctor.webmd.com/doctor/maria-velazquez-d18824c2-e621-4410-8caf-68323f4baed2-overview)\n- **Other**: Limited personal websites; primarily directory listings, ratings, and a few PubMed-linked articles. No major videos/podcasts.\n\n### 5. Maria Velazquez \u2013 Stanford/USC/Academic in Education & Housing (researcher/scholar)\n- **Profiles**: Stanford Graduate School of Education/RILE Speaker Series (youtube.com/watch?v=cQfzgEiaVjc \u2013 full lecture video on housing insecurity, mothers, and the housing-school nexus); Stanford Impact Labs and profiles.stanford.edu entries (postdoctoral/provostial fellow; research on housing, educational opportunity, schools, and inequities). USC Dornsife staff profile (dornsife.usc.edu/profile/maria-velasquez \u2013 Assistant Director).[[10]](https://www.youtube.com/watch?v=cQfzgEiaVjc)\n- **Videos**: Recorded academic talk (58+ minutes) on YouTube via Stanford channel.[[10]](https://www.youtube.com/watch?v=cQfzgEiaVjc)\n\n### 6. Mar\u00eda (Guadalupe) Vel\u00e1squez \u2013 Chicago Community/Political Figure (Chicago Latino Caucus, congressional outreach)\n- **Bio/Profile**: ccclatinocaucus.org/2024-academy-fellows/maria-velasquez (detailed bio on work with Rep. Jes\u00fas \u201cChuy\u201d Garc\u00eda as Outreach Director, immigrant justice at The Resurrection Project, youth initiatives at HACE; education from University of Iowa). Related press releases from chuygarcia.house.gov.[[11]](https://www.ccclatinocaucus.org/2024-academy-fellows/maria-velasquez)\n- **Podcast**: Appearance on *Leading Latina* podcast (\"Latinas in the House\" episode discussing politics and Latinas in organizations).[[12]](https://open.spotify.com/episode/6NxzFDp6S9WimXw63AJmSA)\n- **CV/Other**: Public CV PDF available via chci.org.\n\n### Other Mentions (less centralized public presence)\n- **Athlete**: World Athletics profile (worldathletics.org/athletes/spain/maria-velazquez-14973150 \u2013 Spanish marathon runner with performance stats).[[13]](https://worldathletics.org/athletes/spain/maria-velazquez-14973150)\n- **Food Stylist/Author (often Mariana Vel\u00e1squez)**: marianavelasquez.com; Instagram; cookbooks (*Colombiana*, *Revel*); podcast appearances (Radio Cherry Bombe, This Is TASTE/Talkhouse); Sur La Table profile. Note the first-name spelling variation.[[14]](https://learn.surlatable.com/mariana-velasquez-womens-history-month-profile/)\n- Scattered personal or low-profile LinkedIn pages (e.g., recruiters, therapists, government employees), real estate agents, or private individuals with minimal additional public content (e.g., poker player, various clinicians).\n\n**Notes**: \n- Many results overlap due to name commonality; some profiles (e.g., real estate, cybersecurity) have the strongest, ongoing media footprints as of 2026.\n- No comprehensive personal website, exhaustive video library, or single podcast series spanning all categories for any one person.\n- For the most current or specific individual, refine by location, profession (e.g., \"Maria Velasquez cybersecurity\" or \"Maria Velazquez real estate NYC\"), or check LinkedIn directly. Institutional or organizational pages are generally the most authoritative.",
+              "urls": [
+                "https://www.linkedin.com/in/maria-vepa",
+                "https://www.linkedin.com/in/maria-vepa",
+                "https://www.buzzsprout.com/2215185/episodes/17977244-catching-the-cybersecurity-marketing-bug-with-gianna-whitver-and-maria-velasquez",
+                "https://podcasts.apple.com/us/podcast/engaging-deeply-technical-smes-to-create-high-converting/id1786190696?i=1000696870939",
+                "https://envisionitagency.com/blog/shaping-the-future-of-cybersecurity-marketing/",
+                "https://www.youtube.com/watch?v=Y0fdlQ7MTHE",
+                "https://www.corcoran.com/real-estate-agents/detail/agent/maria-velazquez/27576",
+                "https://forbes.co/2025/12/29/negocios/la-colombiana-que-redefine-el-real-estate-de-nueva-york-con-una-mirada-consultiva-multicultural-y-profundamente-humana/",
+                "https://www.uml.edu/engineering/mechanical-industrial/faculty/velazquez-maria.aspx",
+                "https://doctor.webmd.com/doctor/maria-velazquez-d18824c2-e621-4410-8caf-68323f4baed2-overview",
+                "https://www.youtube.com/watch?v=cQfzgEiaVjc",
+                "https://www.youtube.com/watch?v=cQfzgEiaVjc",
+                "https://www.ccclatinocaucus.org/2024-academy-fellows/maria-velasquez",
+                "https://open.spotify.com/episode/6NxzFDp6S9WimXw63AJmSA",
+                "https://worldathletics.org/athletes/spain/maria-velazquez-14973150",
+                "https://learn.surlatable.com/mariana-velasquez-womens-history-month-profile/"
+              ],
+              "mode": "web_search",
+              "secs": 26.4,
+              "prompt": "List every public web presence you are aware of for Maria Velasquez: website, LinkedIn, articles, videos, podcasts, press."
+            }
+          ],
+          "urls": [
+            "https://doctor.webmd.com/doctor/maria-velazquez-d18824c2-e621-4410-8caf-68323f4baed2-overview",
+            "https://envisionitagency.com/blog/shaping-the-future-of-cybersecurity-marketing/",
+            "https://forbes.co/2025/12/29/negocios/la-colombiana-que-redefine-el-real-estate-de-nueva-york-con-una-mirada-consultiva-multicultural-y-profundamente-humana/",
+            "https://learn.surlatable.com/mariana-velasquez-womens-history-month-profile/",
+            "https://open.spotify.com/episode/6NxzFDp6S9WimXw63AJmSA",
+            "https://podcasts.apple.com/us/podcast/engaging-deeply-technical-smes-to-create-high-converting/id1786190696?i=1000696870939",
+            "https://rocketreach.co/maria-velazquez-email_531920510",
+            "https://theorg.com/org/cybersecurity-marketing-society/org-chart/maria-velasquez",
+            "https://worldathletics.org/athletes/spain/maria-velazquez-14973150",
+            "https://www.adapt.io/contact/maria-velasquez/490126469",
+            "https://www.buzzsprout.com/2215185/episodes/17977244-catching-the-cybersecurity-marketing-bug-with-gianna-whitver-and-maria-velasquez",
+            "https://www.ccclatinocaucus.org/2024-academy-fellows/maria-velasquez",
+            "https://www.citybiz.co/article/42261/mighty-all-latina-team-led-by-maria-velazquez-bolts-to-compass/",
+            "https://www.corcoran.com/real-estate-agents/detail/agent/maria-velazquez/27576",
+            "https://www.linkedin.com/in/maria-vepa",
+            "https://www.linkedin.com/in/mariajvelazquez",
+            "https://www.uml.edu/engineering/mechanical-industrial/faculty/velazquez-maria.aspx",
+            "https://www.youtube.com/watch?v=Y0fdlQ7MTHE",
+            "https://www.youtube.com/watch?v=cQfzgEiaVjc"
+          ],
+          "domains": {
+            "theorg.com": 4,
+            "uml.edu": 4,
+            "citybiz.co": 2,
+            "linkedin.com": 12,
+            "rocketreach.co": 6,
+            "adapt.io": 2,
+            "buzzsprout.com": 2,
+            "podcasts.apple.com": 2,
+            "envisionitagency.com": 2,
+            "youtube.com": 6,
+            "corcoran.com": 2,
+            "forbes.co": 2,
+            "doctor.webmd.com": 2,
+            "ccclatinocaucus.org": 2,
+            "open.spotify.com": 2,
+            "worldathletics.org": 2,
+            "learn.surlatable.com": 2
+          },
+          "grade": {
+            "recognition": 35,
+            "wrong_person": false,
+            "accuracy": null,
+            "claims": [
+              {
+                "claim": "Maria Velazquez is based in Chicago, Illinois, and is a Talent Acquisition Senior Specialist at Boston Consulting Group",
+                "source": "https://www.linkedin.com/in/mariajvelazquez",
+                "status": "unverified"
+              },
+              {
+                "claim": "Was promoted to Talent Acquisition Senior Specialist at BCG in 2025, after serving as Talent Acquisition Specialist there from 2022 to 2025",
+                "source": "https://rocketreach.co/maria-velazquez-email_531920510",
+                "status": "unverified"
+              },
+              {
+                "claim": "Held roles at LaSalle Network in 2021\u20132022, including Senior Project Manager and Project Manager, National Recruiting",
+                "source": "https://rocketreach.co/maria-velazquez-email_531920510",
+                "status": "unverified"
+              },
+              {
+                "claim": "Is bilingual in English and Spanish",
+                "source": "https://www.linkedin.com/in/mariajvelazquez",
+                "status": "unverified"
+              },
+              {
+                "claim": "Holds a Bloomberg Market Concepts certification (2020)",
+                "source": "https://www.linkedin.com/in/mariajvelazquez",
+                "status": "unverified"
+              },
+              {
+                "claim": "LinkedIn profile shows about 3K followers and 500+ connections",
+                "source": "https://www.linkedin.com/in/mariajvelazquez",
+                "status": "unverified"
+              },
+              {
+                "claim": "A LinkedIn recommendation describes her as down to earth and genuinely caring toward candidates",
+                "source": "https://www.linkedin.com/in/mariajvelazquez",
+                "status": "unverified"
+              },
+              {
+                "claim": "Is Co-Founder and Chief Growth Officer of the Cybersecurity Marketing Society and co-hosts the Breaking Through in Cybersecurity Marketing podcast",
+                "source": "https://theorg.com/org/cybersecurity-marketing-society/org-chart/maria-velasquez",
+                "status": "unverified"
+              },
+              {
+                "claim": "Previously served as VP of Growth Marketing at NetSPI and Head of Marketing at Unibuddy",
+                "source": "https://theorg.com/org/cybersecurity-marketing-society/org-chart/maria-velasquez",
+                "status": "unverified"
+              },
+              {
+                "claim": "Holds a Master's in Corporate Communications & Public Relations from Sacred Heart University and is based in New York",
+                "source": "https://theorg.com/org/cybersecurity-marketing-society/org-chart/maria-velasquez",
+                "status": "unverified"
+              },
+              {
+                "claim": "Is a Colombian-born top-producing real estate agent with over $2 billion in career sales in NYC and Florida",
+                "source": "https://www.citybiz.co/article/42261/mighty-all-latina-team-led-by-maria-velazquez-bolts-to-compass/",
+                "status": "unverified"
+              },
+              {
+                "claim": "Is an Associate Teaching Professor at UMass Lowell with a Ph.D. from Penn State",
+                "source": "https://www.uml.edu/engineering/mechanical-industrial/faculty/velazquez-maria.aspx",
+                "status": "unverified"
+              }
+            ],
+            "recommendation": "yes",
+            "recommendation_reason": "Answer 2 would shortlist the Chicago BCG recruiter for recruiting roles, citing relevant TA experience and positive feedback, with caveats about specialized hiring depth.",
+            "refused_or_unknown": false
+          },
+          "scores": {
+            "Recognition": 35,
+            "Accuracy": null,
+            "Depth": 96,
+            "Sources": 100,
+            "Recommendation": 100,
+            "Overall": 82.8
+          }
+        }
+      },
+      "footprint": 50.5,
+      "verdict": "Visible",
+      "scored_models": 3
+    }
+  ],
+  "est_cost_usd": 0.674
+}
