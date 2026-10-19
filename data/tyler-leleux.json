@@ -1,0 +1,596 @@
+{
+ "audits": [
+  {
+   "name": "Tyler LeLeux",
+   "context": "Tampa FL; founder TTG Management",
+   "has_facts": false,
+   "date": "2026-10-19",
+   "models": {
+    "GPT": {
+     "model": "gpt-5-mini",
+     "worked": false,
+     "errors": [
+      "prompt 1: HTTPError: 429 Client Error: Too Many Requests for url: https://api.openai.com/v1/responses",
+      "prompt 2: HTTPError: 429 Client Error: Too Many Requests for url: https://api.openai.com/v1/responses",
+      "prompt 3: HTTPError: 429 Client Error: Too Many Requests for url: https://api.openai.com/v1/responses"
+     ]
+    },
+    "Claude": {
+     "model": "claude-sonnet-5-5",
+     "worked": true,
+     "errors": [],
+     "answers": [
+      {
+       "text": "I couldn't verify \"TTG Management\" as a company founded by Tyler LeLeux. The public footprint I found is for a Tampa marketer named Tyler (Ty) Leleux, and it centers on other ventures. It's also possible that \"TTG\" is a community or brand he runs rather than a registered management company. I'm assuming the person below is the one you mean, and I can't confirm that.\n\n**Who he appears to be**\n- His LinkedIn headline reads \"Ty | Business Strategist\" who scales online businesses through precision marketing. The profile lists Tampa as his location and Mariner High School as his education.\n- His Skool profile describes him as a Tampa-based marketer with $20M in ad spend under management, working on AI agents, lead gen, offer creation, operations, systems, sales funnels and automations.\n- A third-party aggregator lists his background as managing clients of all sizes across nearly every industry, plus sales experience in construction, insurance and solar. This comes from a profile summary, so treat it as self-reported.\n\n**What he has built or been part of**\n- **Reactiiv Media (co-founder).** The site pitches itself as a full-stack, end-to-end growth partner for coaches, consultants, creators and digital entrepreneurs looking to scale to 7 figures. It claims a growth formula discovered after scaling 100+ online businesses. The site's copyright line names Tyler Leleux and Stefan Lenassi as the owners.\n- **GenTech Marketing (Head of Marketing, roughly Oct 2021 \u2013 May 2024).** This is a Tampa agency, and he was an employee there, not the founder. Crunchbase lists Amel Kilic as its founder. The agency was founded in 2016, and one directory says it was named Best Digital Marketing Company in Florida in 2023.\n- **Earlier roles.** An aggregator lists Praator (blockchain smart contracts for real estate), Bitcoincrypto.News, and Spiro & Associates. His profile also shows a Hootsuite Academy social marketing certification from 2017.\n- **\"Lets Geaux Hustle\" (Skool community).** A Skool community with the URL slug \"ttg\" shows posts by Ty Leleux from January 2024. The \"Geaux\" spelling is a Louisiana-style pun that fits his surname, so \"TTG\" may stand for something like \"Team/The Tyler Group\". That is my guess and I found nothing that confirms it.\n\n**What he's known for**\n- He's known as a performance marketer and ad buyer. His public positioning is lead generation, funnels and automation for online businesses such as coaches and info-product sellers. His agency work is mostly in paid ads.\n- I found no press coverage, awards, exits or major named clients tied to him personally. The \"$20M ad spend\" and \"100+ businesses\" figures are self-reported and I couldn't verify them independently.\n\n**Caveats**\n- My searches turned up unrelated \"TTG\" companies, including an events firm, a financial firm and a Tampa towing company. I found no connection between any of them and Leleux.\n- His LinkedIn snapshot looks dated, so his current role may have changed.\n\nIf you can share a website, LinkedIn URL or the business's Florida Sunbiz (state business registry) filing, I can check whether TTG Management is his. Sunbiz would also show the registered agent and formation date. If this is for due diligence or a deal, verify his claims through client references and ad-account screenshots.",
+       "urls": [
+        "https://www.linkedin.com/in/tyler-leleux-9b4312a6/",
+        "https://www.skool.com/@tyler-leleux-9856",
+        "https://en.wikipedia.org/wiki/Temerity_Baseball",
+        "https://en.wikipedia.org/wiki/Tod_Leiweke",
+        "https://aeroleads.com/in/tyler-leleux-9b4312a6",
+        "https://wiza.co/d/gentech-marketing/0b6d/tyler-leleux",
+        "https://www.linkedin.com/company/the-todd-group-ttg-",
+        "https://en.wikipedia.org/wiki/Tyler_Prochnow",
+        "https://teamttg.com/team/",
+        "https://www.linkedin.com/company/the-thomson-group",
+        "https://www.linkedin.com/in/tyler-leleux-9b4312a6/",
+        "https://www.skool.com/ttg",
+        "https://www.ttgtowingandjunkcarbuyers.com/contact/",
+        "https://www.ttgtowingandjunkcarbuyers.com/",
+        "https://en.wikipedia.org/wiki/Temerity_Baseball",
+        "https://matthewjames.com/who-we-are/",
+        "https://en.wikipedia.org/wiki/List_of_Tampa_Bay_Rays_owners_and_executives",
+        "https://tlgflorida.com/",
+        "https://en.wikipedia.org/wiki/2026_Tampa_Bay_Rays_season",
+        "https://en.wikipedia.org/wiki/John_Couris",
+        "https://www.linkedin.com/in/tyler-leleux-9b4312a6/",
+        "https://www.skool.com/@tyler-leleux-9856",
+        "https://aeroleads.com/in/tyler-leleux-9b4312a6",
+        "https://wiza.co/d/gentech-marketing/0b6d/tyler-leleux",
+        "https://www.crunchbase.com/organization/gentech-marketing",
+        "https://bouncewatch.com/company/gentech-marketing",
+        "https://www.linkedin.com/company/gentech-marketing",
+        "https://reactiiv.com/",
+        "https://aeroleads.com/list/top-head-of-marketing-in-tampa",
+        "https://en.wikipedia.org/wiki/React_Media",
+        "https://www.linkedin.com/in/tyler-leleux-9b4312a6/",
+        "https://www.skool.com/@tyler-leleux-9856",
+        "https://aeroleads.com/in/tyler-leleux-9b4312a6",
+        "https://reactiiv.com/",
+        "https://reactiiv.com/",
+        "https://reactiiv.com/",
+        "https://www.crunchbase.com/organization/gentech-marketing",
+        "https://bouncewatch.com/company/gentech-marketing",
+        "https://bouncewatch.com/company/gentech-marketing",
+        "https://aeroleads.com/in/tyler-leleux-9b4312a6",
+        "https://www.linkedin.com/in/tyler-leleux-9b4312a6/",
+        "https://www.skool.com/ttg"
+       ],
+       "mode": "web_search",
+       "secs": 14.9,
+       "prompt": "Analyze Tyler LeLeux (Tampa FL; founder TTG Management). Who are they, what have they built, what are they known for?"
+      },
+      {
+       "text": "I couldn't find anything verifiable about Tyler LeLeux or a \"TTG Management\" in Tampa, so I can't give you a basis to shortlist or reject them.\n\n**What I searched and found**\nI ran two searches on \"TTG Management\" with Tampa, founder and company-profile terms. I left the person's name out of the queries because they're a private individual. None of the results matched. Here is what came up and why none of it fits:\n- A national management consulting firm called TTG on LinkedIn, with a primary address in Charlotte. It lists other people as owner and president.\n- ttg Talent Solutions, a staffing firm in Coral Gables, FL, with Leo Guevara as managing partner and founder.\n- TTG & Associates, a boutique consulting firm in the building and real estate industries. It appears to be Virginia-based and has a different founder.\n- TTG Financial, which has different co-founders.\n- Unrelated entities such as TTG Studios and TodayTix Group.\n\nThe results don't confirm that a Tampa \"TTG Management\" exists, that this person founded it, or anything about their work history. Search results also don't establish identity. Several unrelated companies share the \"TTG\" name, so a name match alone could attach the wrong person's record to your candidate.\n\n**Would I shortlist them?**\nNo, and that isn't a negative finding. I have no evidence either way. A shortlist decision should rest on the candidate's fit for the role, not on my web search turning up nothing.\n\n**How to verify**\n1. **Florida Division of Corporations (Sunbiz.org):** search for \"TTG Management\" to confirm the entity exists, its status, and the registered agent and officers. This is the most reliable source for a founder claim.\n2. **Hillsborough County records and the Tampa business tax receipt:** these show whether the business operated locally.\n3. **Candidate-supplied references:** ask for clients, co-founders or employees you can call.\n4. **Their LinkedIn profile and company page:** check that the dates are consistent with the r\u00e9sum\u00e9. I couldn't find either to check.\n5. **Professional licenses:** check these if the role requires them.\n6. **A formal background check:** if you run one, use an FCRA-compliant provider. You'll need the candidate's written consent, and you'll need to follow adverse-action procedures if you decline them based on the results.\n\nIf the candidate shares their r\u00e9sum\u00e9, LinkedIn URL or the company's website, I can help you draft verification questions or check the claims against those. I'd treat any web search on a private individual as a way to find leads to verify, not as proof.",
+       "urls": [
+        "https://www.iaccse.com/members/ttg-talent-solutions-inc/",
+        "https://www.bbb.org/us/fl/tampa/profile/property-management/trg-management-llc-the-requity-group-0483-80012180/addressId/81760",
+        "https://en.wikipedia.org/wiki/Olin_Mott",
+        "https://en.wikipedia.org/wiki/TTG_Studios",
+        "https://www.tgh.org/news/tgh-press-releases/2023/october/new-board",
+        "https://www.linkedin.com/company/ttgmanagement",
+        "https://ttgva.com/",
+        "https://teamttg.com/team/",
+        "https://www.bbb.org/us/fl/palmetto-bay/profile/property-management/tg-management-services-inc-0633-92018590",
+        "https://en.wikipedia.org/wiki/Mel_Lowell",
+        "https://www.linkedin.com/company/ttgmanagement",
+        "https://www.linkedin.com/in/erika-taby-18997716b/",
+        "https://www.linkedin.com/company/ttgtech-inc",
+        "https://www.linkedin.com/in/rodrigo-trujillo-660a2636/",
+        "https://www.linkedin.com/company/tampa-general-rehabilitation-hospital",
+        "https://en.wikipedia.org/wiki/TTEC",
+        "https://www.linkedin.com/company/technology-management-group-inc-tmg",
+        "https://www.ttgconsultants.com/welcome.html",
+        "https://www.linkedin.com/company/tgm-associates",
+        "https://builtin.com/job/performance-marketing-media-manager/3549292",
+        "https://www.linkedin.com/company/ttgmanagement",
+        "https://www.linkedin.com/company/ttgmanagement",
+        "https://www.iaccse.com/members/ttg-talent-solutions-inc/",
+        "https://www.iaccse.com/members/ttg-talent-solutions-inc/",
+        "https://ttgva.com/",
+        "https://teamttg.com/team/"
+       ],
+       "mode": "web_search",
+       "secs": 11.1,
+       "prompt": "I'm a recruiter screening candidates. What can you tell me about Tyler LeLeux (Tampa FL; founder TTG Management) and would you shortlist them? Be specific about sources."
+      },
+      {
+       "text": "I couldn't find any verified web presence for a Tyler LeLeux who founded TTG Management in Tampa, FL. I'd rather say that than give you links I can't confirm.\n\nI searched for TTG Management in Tampa and for its LinkedIn presence. Nothing in the results matched that person or company, and I didn't search on his name. The \"TTG\" organizations that did come up are different businesses:\n- A national management consulting firm called TTG, headquartered in Charlotte.\n- TTG & Associates, a boutique consulting firm for the building and real estate industries.\n- TTG Financial, co-founded in 2006.\n- ttg Talent Solutions, based in Coral Gables, FL.\n- A recording studio, TTG Studios, in Los Angeles.\n\nNothing ties any of these to Tyler LeLeux, so please don't treat them as his.\n\nI have no website, LinkedIn profile, articles, videos, podcasts or press to list for him. I'd be guessing at URLs or inventing them if I gave you any.\n\nHere is how you could find them yourself:\n- **Florida business records:** Search \"TTG Management\" on Sunbiz.org, the Florida Division of Corporations site. It lists the registered agent, officers and filing date, which would confirm the company's legal name and whether he is the founder.\n- **LinkedIn:** Search his name together with \"TTG Management\" or \"Tampa\". Then check the company page's \"People\" tab.\n- **Google:** Try `\"Tyler LeLeux\" Tampa`, and also `\"TTG Management\" Tampa`. Search the exact spelling of his surname, since variants like \"Leleux\" or \"LeLeaux\" may turn up different results.\n- **Podcasts and video:** Search his name on YouTube, Apple Podcasts and Spotify. Guest appearances are often listed only in episode descriptions.\n- **Press:** Check the Tampa Bay Business Journal, the Tampa Bay Times and PR wire sites. Google News with his name in quotes also works.\n\nIf you give me a URL, a business category (real estate, staffing, consulting) or other details, I can search again with that.",
+       "urls": [
+        "https://tbbwmag.com/2025/04/25/tt-construction-opens-tampa-office/",
+        "https://www.iaccse.com/members/ttg-talent-solutions-inc/",
+        "https://www.bbb.org/us/fl/tampa/profile/property-management/trg-management-llc-the-requity-group-0483-80012180/addressId/81760",
+        "https://en.wikipedia.org/wiki/Olin_Mott",
+        "https://en.wikipedia.org/wiki/TTG_Studios",
+        "https://www.tgh.org/news/tgh-press-releases/2023/october/new-board",
+        "https://www.linkedin.com/company/ttgmanagement",
+        "https://ttgva.com/",
+        "https://teamttg.com/team/",
+        "https://www.bbb.org/us/fl/palmetto-bay/profile/property-management/tg-management-services-inc-0633-92018590",
+        "https://www.linkedin.com/in/christina-turner-b6936a3b/",
+        "https://www.linkedin.com/company/ttgmanagement",
+        "https://www.linkedin.com/in/rodrigo-trujillo-660a2636/",
+        "https://www.linkedin.com/company/ttg-solutions",
+        "https://www.linkedin.com/company/talent-ttg",
+        "https://www.linkedin.com/company/tampa-general-rehabilitation-hospital",
+        "https://en.wikipedia.org/wiki/Technology_Development_Foundation_of_Turkey",
+        "https://www.linkedin.com/in/timtolan/",
+        "https://www.ttgconsultants.com/welcome.html",
+        "https://www.linkedin.com/in/mike-mickens-66aa13147/",
+        "https://www.linkedin.com/company/ttgmanagement",
+        "https://www.linkedin.com/company/ttgmanagement",
+        "https://ttgva.com/",
+        "https://teamttg.com/team/",
+        "https://www.iaccse.com/members/ttg-talent-solutions-inc/",
+        "https://www.iaccse.com/members/ttg-talent-solutions-inc/"
+       ],
+       "mode": "web_search",
+       "secs": 21.6,
+       "prompt": "List every public web presence you are aware of for Tyler LeLeux (Tampa FL; founder TTG Management): website, LinkedIn, articles, videos, podcasts, press."
+      }
+     ],
+     "urls": [
+      "https://aeroleads.com/in/tyler-leleux-9b4312a6",
+      "https://aeroleads.com/list/top-head-of-marketing-in-tampa",
+      "https://bouncewatch.com/company/gentech-marketing",
+      "https://builtin.com/job/performance-marketing-media-manager/3549292",
+      "https://en.wikipedia.org/wiki/2026_Tampa_Bay_Rays_season",
+      "https://en.wikipedia.org/wiki/John_Couris",
+      "https://en.wikipedia.org/wiki/List_of_Tampa_Bay_Rays_owners_and_executives",
+      "https://en.wikipedia.org/wiki/Mel_Lowell",
+      "https://en.wikipedia.org/wiki/Olin_Mott",
+      "https://en.wikipedia.org/wiki/React_Media",
+      "https://en.wikipedia.org/wiki/TTEC",
+      "https://en.wikipedia.org/wiki/TTG_Studios",
+      "https://en.wikipedia.org/wiki/Technology_Development_Foundation_of_Turkey",
+      "https://en.wikipedia.org/wiki/Temerity_Baseball",
+      "https://en.wikipedia.org/wiki/Tod_Leiweke",
+      "https://en.wikipedia.org/wiki/Tyler_Prochnow",
+      "https://matthewjames.com/who-we-are/",
+      "https://reactiiv.com/",
+      "https://tbbwmag.com/2025/04/25/tt-construction-opens-tampa-office/",
+      "https://teamttg.com/team/",
+      "https://tlgflorida.com/",
+      "https://ttgva.com/",
+      "https://wiza.co/d/gentech-marketing/0b6d/tyler-leleux",
+      "https://www.bbb.org/us/fl/palmetto-bay/profile/property-management/tg-management-services-inc-0633-92018590",
+      "https://www.bbb.org/us/fl/tampa/profile/property-management/trg-management-llc-the-requity-group-0483-80012180/addressId/81760",
+      "https://www.crunchbase.com/organization/gentech-marketing",
+      "https://www.iaccse.com/members/ttg-talent-solutions-inc/",
+      "https://www.linkedin.com/company/gentech-marketing",
+      "https://www.linkedin.com/company/talent-ttg",
+      "https://www.linkedin.com/company/tampa-general-rehabilitation-hospital",
+      "https://www.linkedin.com/company/technology-management-group-inc-tmg",
+      "https://www.linkedin.com/company/tgm-associates",
+      "https://www.linkedin.com/company/the-thomson-group",
+      "https://www.linkedin.com/company/the-todd-group-ttg-",
+      "https://www.linkedin.com/company/ttg-solutions",
+      "https://www.linkedin.com/company/ttgmanagement",
+      "https://www.linkedin.com/company/ttgtech-inc",
+      "https://www.linkedin.com/in/christina-turner-b6936a3b/",
+      "https://www.linkedin.com/in/erika-taby-18997716b/",
+      "https://www.linkedin.com/in/mike-mickens-66aa13147/",
+      "https://www.linkedin.com/in/rodrigo-trujillo-660a2636/",
+      "https://www.linkedin.com/in/timtolan/",
+      "https://www.linkedin.com/in/tyler-leleux-9b4312a6/",
+      "https://www.skool.com/@tyler-leleux-9856",
+      "https://www.skool.com/ttg",
+      "https://www.tgh.org/news/tgh-press-releases/2023/october/new-board",
+      "https://www.ttgconsultants.com/welcome.html",
+      "https://www.ttgtowingandjunkcarbuyers.com/",
+      "https://www.ttgtowingandjunkcarbuyers.com/contact/"
+     ],
+     "domains": {
+      "linkedin.com": 29,
+      "skool.com": 5,
+      "en.wikipedia.org": 15,
+      "aeroleads.com": 5,
+      "wiza.co": 2,
+      "teamttg.com": 5,
+      "ttgtowingandjunkcarbuyers.com": 2,
+      "matthewjames.com": 1,
+      "tlgflorida.com": 1,
+      "crunchbase.com": 2,
+      "bouncewatch.com": 3,
+      "reactiiv.com": 4,
+      "iaccse.com": 6,
+      "bbb.org": 4,
+      "tgh.org": 2,
+      "ttgva.com": 4,
+      "ttgconsultants.com": 2,
+      "builtin.com": 1,
+      "tbbwmag.com": 1
+     },
+     "grade": {
+      "recognition": 50,
+      "wrong_person": false,
+      "accuracy": null,
+      "claims": [
+       {
+        "claim": "LinkedIn headline reads 'Ty | Business Strategist', lists Tampa as location and Mariner High School as education",
+        "source": null,
+        "status": "unverified"
+       },
+       {
+        "claim": "Skool profile describes him as a Tampa-based marketer with $20M in ad spend under management",
+        "source": null,
+        "status": "unverified"
+       },
+       {
+        "claim": "Co-founder of Reactiiv Media, with the site's copyright line naming Tyler Leleux and Stefan Lenassi as owners",
+        "source": null,
+        "status": "unverified"
+       },
+       {
+        "claim": "Head of Marketing at GenTech Marketing, roughly Oct 2021 to May 2024, as an employee rather than founder",
+        "source": null,
+        "status": "unverified"
+       },
+       {
+        "claim": "Earlier roles at Praator, Bitcoincrypto.News, and Spiro & Associates",
+        "source": null,
+        "status": "unverified"
+       },
+       {
+        "claim": "Holds a Hootsuite Academy social marketing certification from 2017",
+        "source": null,
+        "status": "unverified"
+       },
+       {
+        "claim": "Posts under 'Ty Leleux' in the 'Lets Geaux Hustle' Skool community from January 2024",
+        "source": null,
+        "status": "unverified"
+       },
+       {
+        "claim": "Background includes managing clients across industries and sales experience in construction, insurance and solar (self-reported aggregator summary)",
+        "source": null,
+        "status": "unverified"
+       },
+       {
+        "claim": "Known as a performance marketer and ad buyer focused on lead generation, funnels and automation",
+        "source": null,
+        "status": "unverified"
+       },
+       {
+        "claim": "Has scaled 100+ online businesses (self-reported figure on Reactiiv Media site)",
+        "source": null,
+        "status": "unverified"
+       }
+      ],
+      "recommendation": "no",
+      "recommendation_reason": "Answer 2 found no verifiable evidence for the candidate or TTG Management, so it would not shortlist, while stressing this reflects missing evidence rather than a negative finding.",
+      "refused_or_unknown": false
+     },
+     "scores": {
+      "Recognition": 50,
+      "Accuracy": null,
+      "Depth": 80,
+      "Sources": 100,
+      "Recommendation": 0,
+      "Overall": 57.5
+     }
+    },
+    "Gemini": {
+     "model": "gemini-2.5-flash",
+     "worked": true,
+     "errors": [],
+     "answers": [
+      {
+       "text": "Tyler LeLeux, based in Tampa, FL, is identified as the founder of TTG Management, a company focused on leveraging AI to scale high-ticket offers.\n\nWhile \"TTG Management\" is an acronym used by various other companies offering services like combat sports athlete management, general business consulting, healthcare consulting, and IT services, LeLeux's specific venture, as indicated by his social media presence, centers on \"Marketing \u2022 Agentic WFs \u2022 Ops\" (Agentic Workflows \u2022 Operations) to achieve this scaling for clients.\n\nTyler LeLeux is known for his work in helping businesses expand their high-ticket offerings through the application of artificial intelligence. His approach involves utilizing AI in marketing and operational workflows to streamline and enhance the sales process for high-value services or products. He offers insights into bottleneck analysis for such offers, suggesting a consulting-oriented role in optimizing business strategies for growth.",
+       "urls": [
+        "https://www.google.com/search?q=time+in+Tampa,+FL,+US"
+       ],
+       "mode": "google_search",
+       "secs": 11.2,
+       "prompt": "Analyze Tyler LeLeux (Tampa FL; founder TTG Management). Who are they, what have they built, what are they known for?"
+      },
+      {
+       "text": "Based on the information available through the conducted searches, there is no readily available public record or information linking a \"Tyler LeLeux\" as the founder of a \"TTG Management\" in Tampa, FL.\n\nSearches for \"Tyler LeLeux Tampa FL\" and \"TTG Management Tampa\" yielded several entities with \"TTG\" in their name, operating in different industries and founded by various individuals, none of whom are identified as Tyler LeLeux:\n\n*   **TTG Advisors**: A healthcare consulting firm founded by Wendy Bruno Thomson.\n*   **Technology Trends Group (TTG)**: Specializes in IT infrastructure and telecom operations, founded by Sara Uzel in 1997.\n*   **TTG Consultants**: A human resources consulting firm established in 1985.\n*   **TTG Group Inc.**: Identified with a USDOT number in Tampa, FL, but no founder named Tyler LeLeux is mentioned.\n*   **TTG (Telecommunications)**: A company in the telecommunications industry, with Brad Hayes as President and owner.\n*   **TTG+PARTNERS**: A creative communications consultancy in higher education, founded by Tia T. Gordon.\n*   **Tampa Trinity Group**: A real estate development and construction consulting firm with managing partners Kevin Gibson, Nico Ramos, and Jon Pierce.\n*   **TT Group**: A real estate investment firm based in London, founded by Graham Edwards.\n\nMentions of \"Tyler LeLeux\" primarily refer to a high school football player from Magnolia, TX, class of 2022. There was also a recent social media comment from June 2026 that mentioned \"Tyler Leleux \u25bb Fort Myers Life\" and inquired about \"Tampa, FL?\" but did not connect him to any \"TTG Management\" entity.\n\n**Shortlisting Decision:**\nGiven the absence of any verifiable information connecting Tyler LeLeux to the founding or leadership of a \"TTG Management\" in Tampa, FL, it is not possible to provide a professional assessment of his background in this context. Without specific professional details, experience, or achievements related to the company in question, I cannot recommend shortlisting this candidate for a role based on the provided information.",
+       "urls": [],
+       "mode": "google_search",
+       "secs": 8.6,
+       "prompt": "I'm a recruiter screening candidates. What can you tell me about Tyler LeLeux (Tampa FL; founder TTG Management) and would you shortlist them? Be specific about sources."
+      },
+      {
+       "text": "I have performed a comprehensive search for the public web presence of Tyler LeLeux, founder of TTG Management in Tampa, FL. While a definitive and extensive public presence for his specific TTG Management (focused on scaling high-ticket offers with AI) is limited and not explicitly detailed across various platforms, here is what was found:\n\n**Social Media:**\n\n*   **Instagram:** Tyler LeLeux has a private Instagram profile under the handle \"@tylerleleux\". The bio indicates he is based in Tampa, FL, and his work involves \"scaling high ticket offers with AI\" through \"Marketing \u2022 Agentic WFs \u2022 Ops.\"\n\n**Unrelated Entities with Similar Names in Tampa, FL (not directly linked to Tyler LeLeux as founder of TTG Management focused on AI/marketing):**\n\nIt is important to note that searches for \"TTG Management Tampa FL\" yielded several entities with similar names or acronyms, but these do not appear to be directly associated with Tyler LeLeux or his described business focus:\n\n*   **TTG Group Inc.:** This entity is identified as an active interstate freight carrier based out of Tampa, Florida.\n*   **Florida Division of Corporations:** The Florida Department of State's Division of Corporations lists multiple \"TTG\" related entities, including \"TTG GROUP, INC.\" (active), but none are clearly identifiable as \"TTG Management\" founded by Tyler LeLeux with his stated business model.\n\n**What was *not* found (explicitly linked to Tyler LeLeux, founder TTG Management, Tampa FL):**\n\n*   A dedicated public website for \"TTG Management\" founded by Tyler LeLeux that details his services in AI and high-ticket offers.\n*   A public LinkedIn profile for Tyler LeLeux explicitly listing him as the founder of \"TTG Management\" in Tampa, FL, with his specified business focus.\n*   Articles, videos, podcasts, or press releases that specifically feature Tyler LeLeux in his capacity as the founder of \"TTG Management\" (Tampa, FL) discussing his work in scaling high-ticket offers with AI.",
+       "urls": [
+        "https://ttgproperty.com",
+        "https://vektortms.com",
+        "https://carriersource.io",
+        "https://movecars.com",
+        "https://sunbiz.org"
+       ],
+       "mode": "google_search",
+       "secs": 14.3,
+       "prompt": "List every public web presence you are aware of for Tyler LeLeux (Tampa FL; founder TTG Management): website, LinkedIn, articles, videos, podcasts, press."
+      }
+     ],
+     "urls": [
+      "https://carriersource.io",
+      "https://movecars.com",
+      "https://sunbiz.org",
+      "https://ttgproperty.com",
+      "https://vektortms.com",
+      "https://www.google.com/search?q=time+in+Tampa,+FL,+US"
+     ],
+     "domains": {
+      "google.com": 1,
+      "ttgproperty.com": 1,
+      "vektortms.com": 1,
+      "carriersource.io": 1,
+      "movecars.com": 1,
+      "sunbiz.org": 1
+     },
+     "grade": {
+      "recognition": 70,
+      "wrong_person": false,
+      "accuracy": null,
+      "claims": [
+       {
+        "claim": "Tyler LeLeux is the founder of TTG Management",
+        "source": null,
+        "status": "unverified"
+       },
+       {
+        "claim": "Tyler LeLeux is based in Tampa, FL",
+        "source": null,
+        "status": "unverified"
+       },
+       {
+        "claim": "Tyler LeLeux's work focuses on scaling high-ticket offers with AI",
+        "source": null,
+        "status": "unverified"
+       },
+       {
+        "claim": "Tyler LeLeux's stated focus is 'Marketing \u2022 Agentic WFs \u2022 Ops'",
+        "source": null,
+        "status": "unverified"
+       },
+       {
+        "claim": "Tyler LeLeux offers bottleneck analysis for high-ticket offers",
+        "source": null,
+        "status": "unverified"
+       },
+       {
+        "claim": "Tyler LeLeux has a private Instagram profile under the handle @tylerleleux",
+        "source": null,
+        "status": "unverified"
+       },
+       {
+        "claim": "No public website for TTG Management founded by Tyler LeLeux was found",
+        "source": null,
+        "status": "unverified"
+       },
+       {
+        "claim": "No public LinkedIn profile listing Tyler LeLeux as TTG Management founder was found",
+        "source": null,
+        "status": "unverified"
+       },
+       {
+        "claim": "No public record was found linking Tyler LeLeux to a TTG Management in Tampa, FL",
+        "source": null,
+        "status": "unverified"
+       }
+      ],
+      "recommendation": "no",
+      "recommendation_reason": "Answer 2 declines to shortlist because it found no verifiable professional details tying Tyler LeLeux to TTG Management.",
+      "refused_or_unknown": true
+     },
+     "scores": {
+      "Recognition": 70,
+      "Accuracy": null,
+      "Depth": 72,
+      "Sources": 75.0,
+      "Recommendation": 0,
+      "Overall": 54.2
+     }
+    },
+    "Grok": {
+     "model": "grok-4.20-0309-non-reasoning",
+     "worked": true,
+     "errors": [],
+     "answers": [
+      {
+       "text": "**Tyler LeLeux (also known as Ty Leleux) is a marketer, operator, and AI systems specialist based in the Tampa, Florida area (with connections to Cape Coral).** He positions himself as an expert in lead generation, offer creation, operations, sales funnels, automations, and especially AI agents. His public bio highlights managing around $20M in ad spend and a focus on building scalable infrastructure for online businesses.[[1]](https://www.skool.com/@tyler-leleux-9856)\n\nHe has a redemption-style personal story that features prominently in his branding: he has openly discussed a past that included time in jail (\"from jail cell to AI mastery\"), which he frames as part of a journey from early struggles and \"humble beginnings\" (including being broke with no safety net) to becoming a systems and AI implementation expert. This narrative appears in podcast appearances, such as the *On the Pursuit Podcast* (March 2025 episode), where he shares a \"masterclass\" on business systematization, documentation, automation, and using teams of AI agents to solve problems without traditional management overhead. He references real-world examples like Klarna's AI customer service gains.[[2]](https://metacast.app/podcast/on-the-pursuit-podcast-prst/GCtKTqOR/from-jail-cell-to-ai-mastery-tyler-leleux-entrepreneurship-journey/z9X9QrMd)\n\n### What He Has Built\n- **Reactiiv (or Reactiiv.ai / ALP.Reactiiv.ai)**: Co-founded with Stefan Lenassi (a long-time collaborator since ~2014\u20132015). It is a performance-based operator and systems-building service for online businesses selling $10k+ offers that have proven demand but are hitting growth ceilings. They focus on infrastructure (CRM, ads, email, pipelines, integrations) rather than tactics or agency-style account management. They act as \"operators\" who identify constraints, rebuild systems across sales/marketing/ops/team, and only get paid if the business grows. Case studies include scaling a vocational training academy from $30k to $105k/month in under 6 months through systems (no webinars). They report $2M+ in managed ad spend across education, coaching, e-commerce, and service businesses. Earlier joint work included scaling a 16-year-old client's AI voice dialer business from $20k to $120k/month.[[3]](https://reactiiv.ai/)\n\n- **TTG / Train to Geaux Management LLC**: He is the manager and registered agent for Train to Geaux Management LLC (incorporated 2026 in Wyoming, with Florida ties). This appears to be a holding or management entity; the exact operations are not heavily publicized in his marketing content, but it aligns with his operator/systems focus. (Note: This is distinct from unrelated Tampa luxury transportation or other TTG companies.)[[4]](https://bisprofiles.com/fl/train-to-geaux-management-m26000002947)\n\n- **AI-Focused Communities and Content**: He runs or contributes to free/paid Skool communities, including references to \"AI Early Adopters,\" \"AI Acquisition,\" and groups around AI ecommerce systems, Million Dollar AI Deals, and similar topics. These offer tools, weekly webinars, and education on implementing AI agents in businesses. He has a YouTube channel (Ty Leleux) with workshops like \"AI Agent Accelerator \u2013 The Future of Business,\" content on AI copywriting, demand generation, personal brand, and mindset. He maintains an Instagram (@tylerleleux) and has appeared on podcasts like *Value Talks* discussing AI automation for operations, marketing, team scaling, and tools.[[5]](https://www.youtube.com/channel/UCoGBYF5ZgsS05Wk-MJasIiA)\n\n- **Earlier Career**: Marketing roles including Head of Marketing at GenTech Marketing (Tampa digital agency focused on leads/sales, active ~2016+, where he contributed to scaling insurance-related businesses), prior positions in social media, digital marketing (1Degree Digital, etc.), crypto/general management (BitcoinCrypto News), and advisory/consulting. He has experience in insurance lead gen, scaling agencies, and performance marketing.[[6]](https://reachinbox.ai/people/Tyler/Leleux/65251e0146e0fb0001c8288e)\n\n### What He Is Known For\nLeLeux is known for his **practical, operator-first approach to AI and business systems** \u2014 emphasizing infrastructure, execution layers, AI agents (\"teams of AI agents\"), automations, and performance-aligned partnerships over hype or generic tactics. He targets high-ticket online businesses needing to break growth plateaus through custom CRM/pipeline/ad/ops builds. His content and offerings revolve around AI implementation (e.g., agents for sales, customer service, operations), lead gen, funnels, and personal development/mindset drawn from his comeback story. He promotes early adoption of agentic AI as transformative and runs communities/webinars to help others implement it.[[2]](https://metacast.app/podcast/on-the-pursuit-podcast-prst/GCtKTqOR/from-jail-cell-to-ai-mastery-tyler-leleux-entrepreneurship-journey/z9X9QrMd)\n\nOverall, he comes across as a hands-on entrepreneur and educator in the AI/business automation space, blending high-level strategy with execution. His presence is strongest on Skool, YouTube, Instagram, and podcasts rather than mainstream press. Information is primarily self-reported through his channels and business filings, with consistent themes of systems, AI, and redemption across sources. For the latest, his Skool profile, Reactiiv.ai, or Instagram are the best direct resources.",
+       "urls": [
+        "https://www.skool.com/@tyler-leleux-9856",
+        "https://metacast.app/podcast/on-the-pursuit-podcast-prst/GCtKTqOR/from-jail-cell-to-ai-mastery-tyler-leleux-entrepreneurship-journey/z9X9QrMd",
+        "https://reactiiv.ai/",
+        "https://bisprofiles.com/fl/train-to-geaux-management-m26000002947",
+        "https://www.youtube.com/channel/UCoGBYF5ZgsS05Wk-MJasIiA",
+        "https://reachinbox.ai/people/Tyler/Leleux/65251e0146e0fb0001c8288e",
+        "https://metacast.app/podcast/on-the-pursuit-podcast-prst/GCtKTqOR/from-jail-cell-to-ai-mastery-tyler-leleux-entrepreneurship-journey/z9X9QrMd"
+       ],
+       "mode": "web_search",
+       "secs": 20.8,
+       "prompt": "Analyze Tyler LeLeux (Tampa FL; founder TTG Management). Who are they, what have they built, what are they known for?"
+      },
+      {
+       "text": "**Tyler LeLeux (also known as Ty Leleux) is a marketer and self-described AI/systems specialist based in the Tampa, FL area (with ties to Cape Coral, FL).** He positions himself as an expert in digital marketing, lead generation, sales funnels, operations, offer creation, and especially AI agents/automation for scaling online businesses.[[1]](https://www.skool.com/@tyler-leleux-9856)\n\n### Professional Profile and Claims\n- **Self-reported expertise (Skool.com profile, joined Jan 2024, active as of mid-to-late 2026)**: \"Marketer, Tampa, FL. $20M ad spend under mgmt. AI Agents. Lead Gen, offer creation, operations, systems, sales funnels & automations.\" He is an active member/contributor in multiple Skool communities focused on sales, insurance, Amazon FBA, YouTube leads, AI deals, and authority building.[[1]](https://www.skool.com/@tyler-leleux-9856)\n- **YouTube channel (Ty Leleux)**: Low subscriber count (3 subs noted in one scrape), but features content on AI takeover, copywriting, campaign performance, personal brand, mindset for 7-figure businesses, and his story of barely graduating high school yet building an AI business. Channel description targets online businesses selling $10k+ offers that need infrastructure, execution, and scaling in sales/marketing/ops (performance-aligned partnerships only; \"if the business doesn\u2019t grow, we don\u2019t get paid\"). Links to Instagram (@tylerleleux), a free community (skool.com/aga or similar AI-related Skool groups), and an application link (alp.reactiiv.ai/launch).[[2]](https://www.youtube.com/channel/UCoGBYF5ZgsS05Wk-MJasIiA)\n- **Podcast appearances (2025)**: Featured in episodes like \"From Jail Cell to AI Mastery: Tyler Leleux Entrepreneurship Journey\" (On The Pursuit Podcast, ~Mar 2025) and \"Elevate Your Business with Tyler Leleux AI Automation\" (Value Talks Podcast). Narratives emphasize a redemption arc from \"a stint on the wrong side of the law\"/jail, to expertise in business systematization, documentation, AI implementation, and automation. He discusses AI agents (e.g., referencing Klarna's customer service gains), building \"teams of AI agents,\" eliminating inefficiencies, and runs or promotes a free \"AI Early Adopters\" community with webinars. Ideal clients appear to be established online/info businesses hitting growth ceilings.[[3]](https://metacast.app/podcast/on-the-pursuit-podcast-prst/GCtKTqOR/from-jail-cell-to-ai-mastery-tyler-leleux-entrepreneurship-journey/z9X9QrMd)\n\n### Company: TTG Management / Train to Geaux Management LLC\n- **Train to Geaux Management LLC**: This is the closest match to \"TTG Management.\" It is an active foreign LLC (home state Wyoming, filed Feb 20, 2026) with Tyler Leleux listed as the sole Manager and Registered Agent. Mailing address in Cape Coral, FL (619 SW 28 St). No detailed operating history, revenue, or client information is publicly available; it is a very new entity (~8 months old as of Oct 2026). The name \"Train to Geaux\" may be a playful Louisiana/Florida-inspired pun, but it does not appear tied to the luxury transportation company Tampa Transportation Group (TTG, founded 2016 by someone else).[[4]](https://bisprofiles.com/fl/train-to-geaux-management-m26000002947)\n- No substantial public evidence of \"TTG Management\" as a prominent, established firm with notable clients, funding, or media coverage under his leadership. Other TTG-named entities (trucking, UK management, healthcare consulting, etc.) are unrelated.\n\n### Earlier Career (per one aggregator site)\nA ReachInbox.ai profile lists experience including Head of Marketing at Gentech Marketing (2021\u20132024), advisor roles, general manager at Bitcoincrypto News (2017\u20132018), social media specialist, marketing director, and consultant positions (2014\u20132017). This aligns with a marketing background but lacks independent verification in primary sources.[[5]](https://reachinbox.ai/people/Tyler/Leleux/65251e0146e0fb0001c8288e)\n\n### Assessment for Shortlisting\n**I would not shortlist him as a strong candidate for most traditional recruiting roles (e.g., corporate marketing leadership, operations exec at scale, or roles requiring proven large-team/institutional experience).** \n\n**Reasons**:\n- **Transparency and trajectory**: The \"from jail cell to AI mastery\" narrative is openly shared in podcasts and content, which can signal resilience and self-awareness. However, it introduces reputational risk depending on the role, company values, and how it is framed in interviews.\n- **Evidence of impact**: Claims like \"$20M ad spend under management\" and AI/systems expertise are self-reported on community profiles with no third-party verification, case studies, client testimonials, or media features in the searched sources. His YouTube presence is nascent (very low subscribers), and the primary vehicle (Train to Geaux Management LLC) is brand new (incorporated 2026). Podcast appearances position him as a promoter of AI tools/communities rather than a battle-tested operator at enterprise scale.\n- **Fit**: He appears geared toward coaching, consulting, or performance-based partnerships with high-ticket online/info-product businesses (lead gen, funnels, AI automation). This suits entrepreneurial, startup, or digital-agency environments focused on rapid experimentation and personal branding more than corporate recruiting pipelines. Activity in guru-adjacent Skool communities (Hormozi-influenced ecosystem) is common in this space but can raise flags for roles prioritizing traditional metrics, stability, or large-scale P&L ownership.\n- **Red flags for recruiters**: Limited independent footprint (no major LinkedIn profile surfaced prominently, no notable press beyond self-promoted podcasts, new LLC). The profile fits the \"personal brand \u2192 community \u2192 consulting\" archetype common in 2024\u20132026 AI/marketing spaces, where claims can outpace verifiable results.\n\n**If shortlisting anyway**: It could make sense for a high-risk/high-reward role in a digital marketing agency, AI implementation consultancy, or early-stage info-business needing a hands-on operator who understands funnels and automation. Probe heavily in interviews: ask for specific client results, ad spend proof (e.g., platform screenshots or case studies), team size/references, and how he structures performance-based engagements. Verify the criminal history context directly if relevant to the role.\n\n**Sources summary** (all public web results as of current data):\n- Skool.com profile (primary self-description).[[1]](https://www.skool.com/@tyler-leleux-9856)\n- Florida/Wyoming business filings (bisprofiles.com).[[4]](https://bisprofiles.com/fl/train-to-geaux-management-m26000002947)\n- Podcast episode descriptions (Metacast, YouTube).[[3]](https://metacast.app/podcast/on-the-pursuit-podcast-prst/GCtKTqOR/from-jail-cell-to-ai-mastery-tyler-leleux-entrepreneurship-journey/z9X9QrMd)\n- YouTube channel and video titles/descriptions.[[2]](https://www.youtube.com/channel/UCoGBYF5ZgsS05Wk-MJasIiA)\n- Aggregator career history (ReachInbox.ai).[[5]](https://reachinbox.ai/people/Tyler/Leleux/65251e0146e0fb0001c8288e)\n\nNo LinkedIn profile, personal website, or major client list appeared in top results. I recommend direct outreach (via Instagram or the Skool community) for a resume, references, and deeper verification, plus a background check given the disclosed history. If this is for a specific role (e.g., AI marketing lead, sales ops, founder hire), provide more details for a tailored assessment.",
+       "urls": [
+        "https://www.skool.com/@tyler-leleux-9856",
+        "https://www.skool.com/@tyler-leleux-9856",
+        "https://www.youtube.com/channel/UCoGBYF5ZgsS05Wk-MJasIiA",
+        "https://metacast.app/podcast/on-the-pursuit-podcast-prst/GCtKTqOR/from-jail-cell-to-ai-mastery-tyler-leleux-entrepreneurship-journey/z9X9QrMd",
+        "https://bisprofiles.com/fl/train-to-geaux-management-m26000002947",
+        "https://reachinbox.ai/people/Tyler/Leleux/65251e0146e0fb0001c8288e",
+        "https://www.skool.com/@tyler-leleux-9856",
+        "https://bisprofiles.com/fl/train-to-geaux-management-m26000002947",
+        "https://metacast.app/podcast/on-the-pursuit-podcast-prst/GCtKTqOR/from-jail-cell-to-ai-mastery-tyler-leleux-entrepreneurship-journey/z9X9QrMd",
+        "https://www.youtube.com/channel/UCoGBYF5ZgsS05Wk-MJasIiA",
+        "https://reachinbox.ai/people/Tyler/Leleux/65251e0146e0fb0001c8288e"
+       ],
+       "mode": "web_search",
+       "secs": 31.0,
+       "prompt": "I'm a recruiter screening candidates. What can you tell me about Tyler LeLeux (Tampa FL; founder TTG Management) and would you shortlist them? Be specific about sources."
+      },
+      {
+       "text": "**Tyler LeLeux (also known as Ty Leleux), based in the Tampa, FL area (with connections to Cape Coral), is an entrepreneur focused on AI agents, lead generation, sales funnels, operations, systems, marketing, and scaling online/high-ticket businesses.** He has managed significant ad spend (claims ~$20M) and partners on infrastructure/execution for businesses selling $10k+ offers. He is listed as manager/registered agent for **TRAIN TO GEAUX MANAGEMENT LLC** (a Wyoming-registered foreign LLC with Florida ties, incorporated ~2025/2026).[[1]](https://bisprofiles.com/fl/train-to-geaux-management-m26000002947)[[1]](https://bisprofiles.com/fl/train-to-geaux-management-m26000002947)\n\nHe appears to be the same individual featured in AI/entrepreneurship content with a backstory involving past legal troubles (\"from jail cell to AI mastery\"). No traditional personal website for \"TTG Management\" or a polished corporate site was identified; his presence is primarily on community platforms, YouTube, and partnership sites. No public LinkedIn profile was located in searches (a different Tyler LeLeux appears in older marketing roles unrelated to AI/TTG).[[2]](https://metacast.app/podcast/on-the-pursuit-podcast-prst/GCtKTqOR/from-jail-cell-to-ai-mastery-tyler-leleux-entrepreneurship-journey/z9X9QrMd)\n\n### Key Public Web Presences\n- **YouTube Channel: Ty Leleux** (https://www.youtube.com/channel/UCoGBYF5ZgsS05Wk-MJasIiA) \u2014 Primary video presence with ~60 videos on AI for business, ads, copywriting, sales funnels, personal branding, AI agents, and workshops (e.g., \"The AI Takeover Has Already Started,\" \"AI Agent Accelerator,\" \"How to Scale Ads With AI\"). Channel description emphasizes building infrastructure/execution for high-ticket online businesses; links to Instagram and Skool communities. Low subscriber count but active content.[[3]](https://www.youtube.com/channel/UCoGBYF5ZgsS05Wk-MJasIiA)\n\n- **Instagram: @tylerleleux** (https://www.instagram.com/tylerleleux/) \u2014 Directly linked from his YouTube and communities. Serves as a main social hub for business/AI content.[[3]](https://www.youtube.com/channel/UCoGBYF5ZgsS05Wk-MJasIiA)\n\n- **Skool Communities** (various groups he contributes to or is active in):\n  - Profile: https://www.skool.com/@tyler-leleux-9856 \u2014 Bio lists him as a marketer in Tampa, FL, with $20M ad spend managed, AI agents, lead gen, funnels, etc. Joined Jan 2024.[[4]](https://www.skool.com/@tyler-leleux-9856)\n  - Free community mentioned: https://www.skool.com/aga (or similar \"AI Early Adopters\"/\"AI Acquisition\" groups referenced in podcasts). He promotes/joins groups like The Sales Dojo, AI Ecommerce Systems, Million Dollar AI Deals, and others. Hosts or contributes to discussions on AI implementation, systems, and business scaling.[[4]](https://www.skool.com/@tyler-leleux-9856)\n\n- **Reactiiv.ai / ALP Launch Page** (https://reactiiv.ai/ and https://alp.reactiiv.ai/launch) \u2014 Co-founder (with Stefan Lenassi). The site focuses on building complete marketing/sales systems, CRM, ads, pipelines, and AI infrastructure for businesses (e.g., education, coaching, e-com). Case studies show scaling from $30K to $105K/month. Performance-aligned (no growth, no pay). Application/strategy call for partnerships. Matches his YouTube description of operator/infrastructure work.[[5]](https://reactiiv.ai/)\n\n### Podcasts / Interviews / Videos (as Guest or Featured)\n- **On The Pursuit Podcast (PRST)**: Episode \"From Jail Cell to AI Mastery: Tyler Leleux Entrepreneurship Journey\" (Mar 2025, ~1 hour). Discusses his background, business systematization, AI agents/automation, Klarna examples, and invites to his free AI Early Adopters community. Available on Metacast (with transcript), Apple, Spotify, etc.[[2]](https://metacast.app/podcast/on-the-pursuit-podcast-prst/GCtKTqOR/from-jail-cell-to-ai-mastery-tyler-leleux-entrepreneurship-journey/z9X9QrMd)\n- **Value Talks Podcast**: Episode \"Elevate Your Business with Tyler LeLeux AI Automation\" (~35 min, early 2025). Covers AI tools, automation for marketing/ops/team scaling, ideal clients, and links to his Skool community and a book/community (\"The Glitch in the Game of Life\"/Glitches). Available on YouTube and audio platforms.[[6]](https://www.jiosaavn.com/shows/elevate-your-business-with-tyler-leleux-ai-automation-%7c-value-talks-podcast/ZPyLS-cCkOk_)\n- Clips and related videos appear on guest channels (e.g., discussions of his fear of \"unfulfilled potential\").\n\n### Press / Articles\n- Limited dedicated press. Mentions tie back to his company filings (e.g., TRAIN TO GEAUX MANAGEMENT LLC on BISProfiles) or are embedded in podcast descriptions. No major traditional articles (e.g., Forbes, local Tampa business press) were surfaced in searches; coverage is mostly podcast-driven around his AI/systems expertise and personal story. No videos/podcasts directly under a \"TTG Management\" brand were found (TTG references in searches often point to unrelated transportation, real estate, or UK companies).[[1]](https://bisprofiles.com/fl/train-to-geaux-management-m26000002947)\n\nNo active X/Twitter, Facebook business page, or personal blog was prominently identified. His presence is concentrated in AI/entrepreneurship creator ecosystems (Skool, YouTube, Instagram) rather than corporate directories. Content themes consistently revolve around AI automation, business operations, scaling without \"hustle,\" and high-ticket offer infrastructure. For the most current details, check the linked Skool/Instagram profiles, as activity is ongoing.",
+       "urls": [
+        "https://bisprofiles.com/fl/train-to-geaux-management-m26000002947",
+        "https://bisprofiles.com/fl/train-to-geaux-management-m26000002947",
+        "https://metacast.app/podcast/on-the-pursuit-podcast-prst/GCtKTqOR/from-jail-cell-to-ai-mastery-tyler-leleux-entrepreneurship-journey/z9X9QrMd",
+        "https://www.youtube.com/channel/UCoGBYF5ZgsS05Wk-MJasIiA",
+        "https://www.youtube.com/channel/UCoGBYF5ZgsS05Wk-MJasIiA",
+        "https://www.skool.com/@tyler-leleux-9856",
+        "https://www.skool.com/@tyler-leleux-9856",
+        "https://reactiiv.ai/",
+        "https://metacast.app/podcast/on-the-pursuit-podcast-prst/GCtKTqOR/from-jail-cell-to-ai-mastery-tyler-leleux-entrepreneurship-journey/z9X9QrMd",
+        "https://www.jiosaavn.com/shows/elevate-your-business-with-tyler-leleux-ai-automation-%7c-value-talks-podcast/ZPyLS-cCkOk_",
+        "https://bisprofiles.com/fl/train-to-geaux-management-m26000002947"
+       ],
+       "mode": "web_search",
+       "secs": 20.0,
+       "prompt": "List every public web presence you are aware of for Tyler LeLeux (Tampa FL; founder TTG Management): website, LinkedIn, articles, videos, podcasts, press."
+      }
+     ],
+     "urls": [
+      "https://alp.reactiiv.ai/launch",
+      "https://bisprofiles.com/fl/train-to-geaux-management-m26000002947",
+      "https://metacast.app/podcast/on-the-pursuit-podcast-prst/GCtKTqOR/from-jail-cell-to-ai-mastery-tyler-leleux-entrepreneurship-journey/z9X9QrMd",
+      "https://reachinbox.ai/people/Tyler/Leleux/65251e0146e0fb0001c8288e",
+      "https://reactiiv.ai/",
+      "https://www.instagram.com/tylerleleux/",
+      "https://www.jiosaavn.com/shows/elevate-your-business-with-tyler-leleux-ai-automation-%7c-value-talks-podcast/ZPyLS-cCkOk_",
+      "https://www.skool.com/@tyler-leleux-9856",
+      "https://www.skool.com/aga",
+      "https://www.youtube.com/channel/UCoGBYF5ZgsS05Wk-MJasIiA"
+     ],
+     "domains": {
+      "skool.com": 14,
+      "metacast.app": 12,
+      "reactiiv.ai": 5,
+      "bisprofiles.com": 12,
+      "youtube.com": 11,
+      "reachinbox.ai": 6,
+      "jiosaavn.com": 2,
+      "instagram.com": 1,
+      "alp.reactiiv.ai": 1
+     },
+     "grade": {
+      "recognition": 90,
+      "wrong_person": false,
+      "accuracy": null,
+      "claims": [
+       {
+        "claim": "Based in the Tampa, FL area with ties to Cape Coral",
+        "source": "https://www.skool.com/@tyler-leleux-9856",
+        "status": "unverified"
+       },
+       {
+        "claim": "Also known as Ty Leleux",
+        "source": "https://www.youtube.com/channel/UCoGBYF5ZgsS05Wk-MJasIiA",
+        "status": "unverified"
+       },
+       {
+        "claim": "Self-reports about $20M in ad spend managed",
+        "source": "https://www.skool.com/@tyler-leleux-9856",
+        "status": "unverified"
+       },
+       {
+        "claim": "Co-founded Reactiiv with Stefan Lenassi",
+        "source": "https://reactiiv.ai/",
+        "status": "unverified"
+       },
+       {
+        "claim": "Reactiiv case study scaled a vocational academy from $30K to $105K/month",
+        "source": "https://reactiiv.ai/",
+        "status": "unverified"
+       },
+       {
+        "claim": "Reactiiv reports $2M+ in managed ad spend",
+        "source": "https://reactiiv.ai/",
+        "status": "unverified"
+       },
+       {
+        "claim": "Is manager and registered agent of Train to Geaux Management LLC",
+        "source": "https://bisprofiles.com/fl/train-to-geaux-management-m26000002947",
+        "status": "unverified"
+       },
+       {
+        "claim": "Train to Geaux Management LLC is a Wyoming-registered entity incorporated in 2026",
+        "source": "https://bisprofiles.com/fl/train-to-geaux-management-m26000002947",
+        "status": "unverified"
+       },
+       {
+        "claim": "Has publicly discussed past time in jail, framed as 'from jail cell to AI mastery'",
+        "source": "https://metacast.app/podcast/on-the-pursuit-podcast-prst/GCtKTqOR/from-jail-cell-to-ai-mastery-tyler-leleux-entrepreneurship-journey/z9X9QrMd",
+        "status": "unverified"
+       },
+       {
+        "claim": "Appeared on On The Pursuit Podcast in March 2025",
+        "source": "https://metacast.app/podcast/on-the-pursuit-podcast-prst/GCtKTqOR/from-jail-cell-to-ai-mastery-tyler-leleux-entrepreneurship-journey/z9X9QrMd",
+        "status": "unverified"
+       },
+       {
+        "claim": "Appeared on Value Talks Podcast discussing AI automation",
+        "source": "https://www.jiosaavn.com/shows/elevate-your-business-with-tyler-leleux-ai-automation-%7c-value-talks-podcast/ZPyLS-cCkOk_",
+        "status": "unverified"
+       },
+       {
+        "claim": "Runs YouTube channel 'Ty Leleux' with AI agent and business workshops",
+        "source": "https://www.youtube.com/channel/UCoGBYF5ZgsS05Wk-MJasIiA",
+        "status": "unverified"
+       },
+       {
+        "claim": "Has a low subscriber count on YouTube",
+        "source": "https://www.youtube.com/channel/UCoGBYF5ZgsS05Wk-MJasIiA",
+        "status": "unverified"
+       },
+       {
+        "claim": "Maintains Instagram account @tylerleleux",
+        "source": "https://www.youtube.com/channel/UCoGBYF5ZgsS05Wk-MJasIiA",
+        "status": "unverified"
+       },
+       {
+        "claim": "Runs or promotes a free AI Early Adopters Skool community",
+        "source": "https://www.skool.com/aga",
+        "status": "unverified"
+       },
+       {
+        "claim": "Joined Skool in January 2024",
+        "source": "https://www.skool.com/@tyler-leleux-9856",
+        "status": "unverified"
+       },
+       {
+        "claim": "Listed as Head of Marketing at GenTech Marketing (2021\u20132024)",
+        "source": "https://reachinbox.ai/people/Tyler/Leleux/65251e0146e0fb0001c8288e",
+        "status": "unverified"
+       },
+       {
+        "claim": "Served as general manager at BitcoinCrypto News (2017\u20132018)",
+        "source": "https://reachinbox.ai/people/Tyler/Leleux/65251e0146e0fb0001c8288e",
+        "status": "unverified"
+       }
+      ],
+      "recommendation": "no",
+      "recommendation_reason": "Answer 2 would not shortlist him for most traditional recruiting roles, citing unverified self-reported claims and a brand-new LLC, though it allows a high-risk role as an exception.",
+      "refused_or_unknown": false
+     },
+     "scores": {
+      "Recognition": 90,
+      "Accuracy": null,
+      "Depth": 100,
+      "Sources": 100,
+      "Recommendation": 0,
+      "Overall": 72.5
+     }
+    }
+   },
+   "footprint": 61.4,
+   "verdict": "Visible",
+   "scored_models": 3
+  }
+ ],
+ "est_cost_usd": 1.159
+}
