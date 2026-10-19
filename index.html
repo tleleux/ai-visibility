@@ -1,1 +1,94 @@
-<!doctype html><meta name="viewport" content="width=device-width,initial-scale=1"><title>AI-Visibility Audits</title><body style="font-family:system-ui;background:#0b0f14;color:#e8e2d0;padding:40px;max-width:640px;margin:auto"><h1 style="color:#d4af37">AI-Visibility Audits</h1><p>“Analyze [name]” across Claude, Gemini and Grok, scored 0–100.</p><ul style="line-height:2.2;font-size:18px"><li><a style="color:#d4af37" href="roy-kirchner.html">Roy Kirchner</a></li><li><a style="color:#d4af37" href="anthony-rockette.html">Anthony Rockette</a></li><li><a style="color:#d4af37" href="tyler-leleux.html">Tyler Leleux</a></li></ul><p style="opacity:.6;font-size:13px">Built by TTG Management · Oct 2026</p></body>
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>AI-Visibility Audit — what the AI models say about you</title>
+<meta name="description" content="Type a name. See what GPT, Claude, Gemini and Grok say when someone asks them to analyze that person — scored live.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;500;600;700&family=JetBrains+Mono:wght@400;600;700&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="styles.css">
+</head>
+<body>
+<div class="wrap">
+<header>
+  <a class="brand" href="./"><span class="dot"></span>AI-Visibility Audit <small>v2</small></a>
+  <nav><a href="./">New audit</a><a href="#recent">Recent</a><a href="#how">How it works</a></nav>
+</header>
+
+<div id="home">
+  <div class="hero">
+    <h1>What does AI say<br>when someone types <span>“analyze you”?</span></h1>
+    <p>Recruiters, clients and admissions offices ask the models first. This runs the question through GPT, Claude, Gemini and Grok with live web search, grades every answer, and gives you one number.</p>
+    <form class="search" id="form" autocomplete="off">
+      <div class="row">
+        <label class="field"><span class="ico">&gt;_</span><input id="name" placeholder="Type a full name…" required minlength="3" maxlength="80"></label>
+        <button class="btn" id="go" type="submit">Run audit</button>
+      </div>
+      <div class="row">
+        <label class="field"><span class="ico">ctx</span><input id="ctx" placeholder="Optional: city, company, role — helps the models find the right person" maxlength="160"></label>
+      </div>
+      <div class="hint">≈ 2–4 minutes · results are public at a shareable link · one audit per name per week</div>
+    </form>
+    <div class="models-line">
+      <span class="chip on">GPT</span><span class="chip on">Claude</span><span class="chip on">Gemini</span><span class="chip on">Grok</span><span class="chip">+ independent grader</span>
+    </div>
+  </div>
+
+  <section id="recent" class="recent-sec">
+    <h2>Recent audits</h2>
+    <div class="recent" id="recentList"><div class="hint">Loading…</div></div>
+  </section>
+
+  <section id="how">
+    <h2>How it works</h2>
+    <div class="panel">
+      <div class="bars" style="gap:14px;font-size:14px;color:#cfd6e4">
+        <div><b style="color:var(--cyan);font-family:var(--mono)">01</b>&nbsp; Each model gets three prompts: <i>analyze this person</i>, <i>what are they known for</i>, and <i>would you shortlist them</i> — with web search on, the way a real person would ask.</div>
+        <div><b style="color:var(--cyan);font-family:var(--mono)">02</b>&nbsp; A separate grader reads the raw answers and scores five things: Recognition (does it know who this is), Depth, Sources (how many independent domains), Recommendation (would it shortlist), and Accuracy when a facts file is supplied.</div>
+        <div><b style="color:var(--cyan);font-family:var(--mono)">03</b>&nbsp; The Footprint Score is the average across models. Bands: <span class="rec no">Invisible</span> <span class="rec maybe">Thin</span> <span class="rec" style="color:var(--cyan);border-color:rgba(25,230,255,.5)">Visible</span> <span class="rec yes">Undeniable</span>. Every raw answer is kept on the page — nothing is paraphrased.</div>
+      </div>
+    </div>
+  </section>
+</div>
+
+<div id="run" class="hidden">
+  <div class="run">
+    <div class="panel">
+      <div class="gauge">
+        <svg viewBox="0 0 260 260"><defs><linearGradient id="g" x1="0" x2="1"><stop offset="0" stop-color="#19e6ff"/><stop offset="1" stop-color="#8b5cff"/></linearGradient></defs>
+          <circle class="track" cx="130" cy="130" r="112"/><circle class="bar" id="gbar" cx="130" cy="130" r="112"/></svg>
+        <div class="scan" id="scan"></div>
+        <div class="num"><b id="gnum">—</b><small id="glab">Footprint score</small></div>
+      </div>
+      <div class="who"><div class="nm" id="rname"></div><div class="cx" id="rctx"></div><div><span class="verdict v-Running" id="verdict">Dispatching…</span></div><div id="warns"></div></div>
+      <div class="log" id="log"></div>
+      <div class="actions">
+        <button class="btn ghost" id="share">Copy link</button>
+        <button class="btn ghost" id="print">Print / PDF</button>
+        <button class="btn ghost hidden" id="rerun">Re-run</button>
+        <a class="btn ghost" href="./">New audit</a>
+      </div>
+    </div>
+    <div>
+      <div class="mgrid" id="mgrid"></div>
+      <div id="notice" class="note hidden" style="margin-top:14px"></div>
+      <div id="report" class="hidden">
+        <section><h2>Score breakdown</h2><div class="panel bars" id="bars"></div></section>
+        <section><h2>What the models said</h2><div class="panel"><div class="tabs" id="tabs"></div><div id="answers"></div></div></section>
+        <section><h2>Claims &amp; sources</h2><div class="panel" style="overflow:auto"><table id="claims"></table></div></section>
+        <section><h2>Where the answers came from</h2><div class="panel doms" id="doms"></div></section>
+        <section><h2>What would move this score</h2><div class="panel"><ul class="move" id="move"></ul></div></section>
+      </div>
+    </div>
+  </div>
+</div>
+
+<footer>Built by TTG Management</footer>
+</div>
+<div class="toast" id="toast"></div>
+<script src="https://cdn.jsdelivr.net/npm/marked@12/marked.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/dompurify@3/dist/purify.min.js"></script>
+<script src="app.js"></script>
+</body>
+</html>
