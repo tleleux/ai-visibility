@@ -1,0 +1,462 @@
+{
+  "audits": [
+    {
+      "name": "Keeleigh Wilbanks",
+      "context": "Elite Podcast Studio, Odessa FL",
+      "has_facts": false,
+      "date": "2026-10-19",
+      "models": {
+        "GPT": {
+          "model": "gpt-5-mini",
+          "worked": false,
+          "errors": [
+            "prompt 1: HTTPError: 429 Client Error: Too Many Requests for url: https://api.openai.com/v1/responses",
+            "prompt 2: HTTPError: 429 Client Error: Too Many Requests for url: https://api.openai.com/v1/responses",
+            "prompt 3: HTTPError: 429 Client Error: Too Many Requests for url: https://api.openai.com/v1/responses"
+          ]
+        },
+        "Claude": {
+          "model": "claude-sonnet-5-5",
+          "worked": true,
+          "errors": [],
+          "answers": [
+            {
+              "text": "I couldn't find reliable public information about Keeleigh Wilbanks as an individual. I can describe the business she appears to be linked to, but not her own role or background.\n\n## What I found about Keeleigh Wilbanks\n\n- Her name shows up only as a tag in LinkedIn posts about Elite Podcast Studio. One post, shared by Danyle Craig of HSN, tags Elite Podcast Studio along with Anthony Mack, Ansleigh Lewis, Keeleigh Wilbanks, Valentina Salazar and Victoria Flack.\n- The hashtags on that post (#SummerInternship, #ContentCreation) suggest she may be a team member, intern or collaborator. That is my inference, and no source states her title.\n- I found no bio, LinkedIn profile, press coverage or ownership record that names her role.\n- The studio's About page names Roy Kirchner as CEO of Elite Podcast Studio. Wilbanks is not named as a founder or owner.\n\n## Elite Podcast Studio (the business)\n\n- **Positioning:** It describes itself as Tampa Bay's premier, Dubai-inspired podcast and content creation studio, built for entrepreneurs, executives, creators, and brands. Its hospitality approach is inspired by the principles of Unreasonable Hospitality.\n- **Location:** 2509 Success Dr., Odessa, FL 33556. It is 25 minutes from Tampa International Airport.\n- **Facility:** It has multiple themed sets, including Serenity, Pulse, Nexus, White Lotus, Obsidian, Nova, Axis, Oasis, Enclave and Eclipse. The booking page lists them as two- and three-seat setups. For example, Nexus has a custom crafted wood podcast table. A PodcastStudio.com listing says it has built four distinct recording environments, which differs from the longer list on the booking page.\n- **Services:** Its home page lists cinematic-grade recording, full-service editing and branded social clips, trailers and graphics, distribution, consulting and launch support, and on-location pop-up podcast booths.\n- **Packages:** Studio Recording starts around $339.15 per session. Studio + Premiere Editing starts around $551.65. The top package, Studio + Editing + Social, starts around $849.15.\n- **Social content retainers:** These include \"Elite Shorts\" and \"Elite Authority\". Elite Authority includes up to a 3-hour monthly shoot, 20 short-form videos, 4 long-form YouTube videos and full social media management.\n- **Reputation:** PodcastStudio.com shows a 5.0 rating from 45 Google reviews.\n- **Hours:** Sources conflict. Yelp lists the studio as open 24 hours, while a LinkedIn post says Monday through Sunday, 10 am to 10 pm.\n\n## Bottom line\n\n- **What she is known for:** Nothing public that I could find. She appears to be a member of the Elite Podcast Studio circle, but I can't confirm her role, what she built, or any personal achievements.\n- **What she built:** I can't attribute the studio, its rooms or its service lineup to her. The only leadership figure named is Roy Kirchner.\n- **How to confirm:** Check her LinkedIn profile directly, ask the studio at hello@elitepodcaststudio.com, or look at the studio's Instagram and Facebook team posts.\n\nIf you tell me where you came across her name, such as a pitch, an email or a vendor list, I can help work out what that context implies.",
+              "urls": [
+                "https://www.facebook.com/elitepodcaststudio/",
+                "https://www.mapquest.com/us/florida/elite-podcast-studio-796662947",
+                "https://www.yelp.com/biz/elite-podcast-studio-odessa",
+                "https://elitepodcaststudio.com/contact-us/",
+                "https://elite-podcast-studio-fl.podyx.com/",
+                "https://elitepodcaststudio.com/",
+                "https://elitepodcaststudio.com/studios/our-studios/",
+                "https://elitepodcaststudio.com/podcast-editing-services/",
+                "https://www.podcaststudio.com/studios/florida",
+                "https://en.wikipedia.org/wiki/GK_Barry",
+                "https://www.crunchbase.com/person/c-holly-wilbanks",
+                "https://en.wikipedia.org/wiki/John_Wilbanks",
+                "https://en.wikipedia.org/wiki/Wilbanks",
+                "https://en.wikipedia.org/wiki/George_Wilbanks",
+                "https://njwilbanks.com/who-we-are/",
+                "https://www.linkedin.com/in/danyle-craig-30731515/",
+                "https://en.wikipedia.org/wiki/Jason_Wilk",
+                "https://en.wikipedia.org/wiki/Keely_Cat-Wells",
+                "https://en.wikipedia.org/wiki/Runaway_bride_case",
+                "https://www.linkedin.com/in/danyle-craig-30731515/",
+                "https://www.linkedin.com/in/stephanie-wilbanks-0739248/",
+                "https://elitepodcaststudio.com/about-us/",
+                "https://elitepodcaststudio.com/contact-us/",
+                "https://elitepodcaststudio.com/blog/",
+                "https://elitepodcaststudio.com/social-media-package/",
+                "https://www.elitecontentstudios.com/",
+                "https://en.wikipedia.org/wiki/GK_Barry",
+                "https://en.wikipedia.org/wiki/Wil_Harris",
+                "https://en.wikipedia.org/wiki/List_of_health_and_wellness_podcasts",
+                "https://www.linkedin.com/in/danyle-craig-30731515/",
+                "https://elitepodcaststudio.com/about-us/",
+                "https://www.mapquest.com/us/florida/elite-podcast-studio-796662947",
+                "https://www.mapquest.com/us/florida/elite-podcast-studio-796662947",
+                "https://elitepodcaststudio.com/contact-us/",
+                "https://elitepodcaststudio.com/contact-us/",
+                "https://elite-podcast-studio-fl.podyx.com/",
+                "https://elitepodcaststudio.com/contact-us/",
+                "https://www.podcaststudio.com/studios/florida",
+                "https://elitepodcaststudio.com/",
+                "https://elite-podcast-studio-fl.podyx.com/",
+                "https://elite-podcast-studio-fl.podyx.com/",
+                "https://elite-podcast-studio-fl.podyx.com/",
+                "https://elitepodcaststudio.com/social-media-package/",
+                "https://www.podcaststudio.com/studios/florida",
+                "https://www.podcaststudio.com/studios/florida",
+                "https://www.linkedin.com/in/danyle-craig-30731515/"
+              ],
+              "mode": "web_search",
+              "secs": 15.8,
+              "prompt": "Analyze Keeleigh Wilbanks (Elite Podcast Studio, Odessa FL). Who are they, what have they built, what are they known for?"
+            },
+            {
+              "text": "I couldn't find anything about Keeleigh Wilbanks, so I can't tell you whether to shortlist them. I searched for the business, not the person, so I haven't ruled out that public information about them exists. I can only tell you what the company sources say.\n\n**What I found about Elite Podcast Studio**\n- **Business:** The company is real and operating. Its address is 2509 Success Dr, Odessa, FL 33556. Yelp describes it as a Tampa Bay podcast and content creation studio for entrepreneurs, executives, creators and brands.\n- **Services:** The company's own website lists podcast recording, editing and social clips, trailers and graphics, distribution, consulting, and pop-up podcast booths. A booking page lists studio recording packages starting at $339.15 per session.\n- **Leadership:** The About page names Roy Kirchner as CEO. It doesn't mention Keeleigh Wilbanks in the text I could see. That doesn't mean the person isn't affiliated, because the page may list staff I didn't see.\n- **Gaps and inconsistencies:** The Yelp listing is unclaimed, and the Facebook page shows 77 likes and one review. The sources also disagree on hours (Yelp says open 24 hours, but the website's structured data says 10:00\u201322:00) and on phone numbers. These are small-business listing issues and say nothing about any individual.\n\n**Sources I didn't check**\n- LinkedIn, which is the best place to verify employment history.\n- The studio's team page, if there is one.\n- Any other public profile of the candidate.\n\n**Why I wouldn't shortlist or reject on this basis**\nNothing I found speaks to this person's skills or experience. Rejecting them for having no online footprint, or accepting them because their employer looks polished, would both be weak reasons. A small studio's website tells you little about an individual's role or performance.\n\n**What I'd do instead**\n1. Compare the candidate's r\u00e9sum\u00e9 claims (title, dates, duties) with what they tell you in a screening call.\n2. Ask for work samples, such as podcast episodes, edited video, or client results.\n3. Contact a reference at the studio, with the candidate's consent. The studio's listed contact is hello@elitepodcaststudio.com.\n4. Screen against the job's requirements, and only use publicly available, job-relevant information.\n\nIf you share the r\u00e9sum\u00e9 or the role requirements, I can help you build a screening scorecard or interview questions.",
+              "urls": [
+                "https://www.facebook.com/elitepodcaststudio/",
+                "https://www.yelp.com/biz/elite-podcast-studio-odessa",
+                "https://www.mapquest.com/us/florida/elite-podcast-studio-796662947",
+                "https://www.superpages.com/spring-hill-fl/audio-visual-production-services",
+                "https://elitepodcaststudio.com/contact-us/",
+                "https://elitepodcaststudio.com/",
+                "https://elite-podcast-studio-fl.podyx.com/",
+                "https://elitepodcaststudio.com/studios/our-studios/",
+                "https://elitepodcaststudio.com/about-us/",
+                "https://en.wikipedia.org/wiki/Podcast_Inkubator",
+                "https://elitepodcaststudio.com/contact-us/",
+                "https://elitepodcaststudio.com/about-us/",
+                "https://www.yelp.com/biz/elite-podcast-studio-odessa",
+                "https://elitepodcaststudio.com/",
+                "https://elite-podcast-studio-fl.podyx.com/",
+                "https://elitepodcaststudio.com/about-us/",
+                "https://www.yelp.com/biz/elite-podcast-studio-odessa",
+                "https://www.facebook.com/elitepodcaststudio/",
+                "https://www.yelp.com/biz/elite-podcast-studio-odessa",
+                "https://elitepodcaststudio.com/"
+              ],
+              "mode": "web_search",
+              "secs": 11.9,
+              "prompt": "I'm a recruiter screening candidates. What can you tell me about Keeleigh Wilbanks (Elite Podcast Studio, Odessa FL) and would you shortlist them? Be specific about sources."
+            },
+            {
+              "text": "I found the studio's business presence below. I couldn't find anything that ties Keeleigh Wilbanks to it, so I haven't listed any personal profiles for her.\n\n**Elite Podcast Studio: business presence**\n- **Website:** elitepodcaststudio.com. It has a About Us page, a Contact Us page and a Social Media Package page. The site lists cinematic-grade podcast recording, editing and social clips, trailers and intros, distribution, consulting, and pop-up podcast booths.\n- **Booking page:** A Podyx booking page lists session bundles and the studio room setups. The bundles start at $339.15 per session.\n- **Facebook:** facebook.com/elitepodcaststudio. It has 77 likes.\n- **Yelp:** The listing is unclaimed.\n- **Directory listings:** MapQuest and Superpages both list the studio.\n- **Address:** 2509 Success Dr., Odessa, FL 33556.\n- **Email:** hello@elitepodcaststudio.com.\n- **Phone:** The sources disagree. Facebook and the website show (813) 981-7155, while Yelp and MapQuest show +1 (813) 760-3387.\n\n**What I couldn't confirm**\n- **Keeleigh Wilbanks's role:** The studio's About page features Roy Kirchner, along with awards such as GrowFL Top 50 Companies to Watch (2022). It doesn't mention Keeleigh Wilbanks in what I saw. She may be staff, a host, a client or a partner, or the name may be mistaken.\n- **LinkedIn, articles, videos, podcasts and press:** I found no LinkedIn profile, articles, video appearances, podcast episodes or press coverage for her, and none for the studio itself. I didn't search for her personally. I only looked up the business, and a name-based search might turn up more.\n\nIf you tell me her role, or give me a LinkedIn or other URL, I can look into those specific items. If this is for outreach or due diligence, the studio's contact email above is the most reliable way to confirm who works there.",
+              "urls": [
+                "https://www.facebook.com/elitepodcaststudio/",
+                "https://www.yelp.com/biz/elite-podcast-studio-odessa",
+                "https://www.mapquest.com/us/florida/elite-podcast-studio-796662947",
+                "https://www.superpages.com/spring-hill-fl/audio-visual-production-services",
+                "https://elitepodcaststudio.com/contact-us/",
+                "https://elitepodcaststudio.com/",
+                "https://elite-podcast-studio-fl.podyx.com/",
+                "https://elitepodcaststudio.com/social-media-package/",
+                "https://elitepodcaststudio.com/about-us/",
+                "https://en.wikipedia.org/wiki/Podcast_Inkubator",
+                "https://elitepodcaststudio.com/",
+                "https://elitepodcaststudio.com/about-us/",
+                "https://elitepodcaststudio.com/contact-us/",
+                "https://elitepodcaststudio.com/social-media-package/",
+                "https://elitepodcaststudio.com/",
+                "https://elite-podcast-studio-fl.podyx.com/",
+                "https://www.facebook.com/elitepodcaststudio/",
+                "https://www.yelp.com/biz/elite-podcast-studio-odessa",
+                "https://elitepodcaststudio.com/contact-us/",
+                "https://elitepodcaststudio.com/contact-us/",
+                "https://elitepodcaststudio.com/contact-us/",
+                "https://www.mapquest.com/us/florida/elite-podcast-studio-796662947",
+                "https://elitepodcaststudio.com/about-us/"
+              ],
+              "mode": "web_search",
+              "secs": 10.8,
+              "prompt": "List every public web presence you are aware of for Keeleigh Wilbanks (Elite Podcast Studio, Odessa FL): website, LinkedIn, articles, videos, podcasts, press."
+            }
+          ],
+          "urls": [
+            "https://elite-podcast-studio-fl.podyx.com/",
+            "https://elitepodcaststudio.com/",
+            "https://elitepodcaststudio.com/about-us/",
+            "https://elitepodcaststudio.com/blog/",
+            "https://elitepodcaststudio.com/contact-us/",
+            "https://elitepodcaststudio.com/podcast-editing-services/",
+            "https://elitepodcaststudio.com/social-media-package/",
+            "https://elitepodcaststudio.com/studios/our-studios/",
+            "https://en.wikipedia.org/wiki/GK_Barry",
+            "https://en.wikipedia.org/wiki/George_Wilbanks",
+            "https://en.wikipedia.org/wiki/Jason_Wilk",
+            "https://en.wikipedia.org/wiki/John_Wilbanks",
+            "https://en.wikipedia.org/wiki/Keely_Cat-Wells",
+            "https://en.wikipedia.org/wiki/List_of_health_and_wellness_podcasts",
+            "https://en.wikipedia.org/wiki/Podcast_Inkubator",
+            "https://en.wikipedia.org/wiki/Runaway_bride_case",
+            "https://en.wikipedia.org/wiki/Wil_Harris",
+            "https://en.wikipedia.org/wiki/Wilbanks",
+            "https://njwilbanks.com/who-we-are/",
+            "https://www.crunchbase.com/person/c-holly-wilbanks",
+            "https://www.elitecontentstudios.com/",
+            "https://www.facebook.com/elitepodcaststudio/",
+            "https://www.linkedin.com/in/danyle-craig-30731515/",
+            "https://www.linkedin.com/in/stephanie-wilbanks-0739248/",
+            "https://www.mapquest.com/us/florida/elite-podcast-studio-796662947",
+            "https://www.podcaststudio.com/studios/florida",
+            "https://www.superpages.com/spring-hill-fl/audio-visual-production-services",
+            "https://www.yelp.com/biz/elite-podcast-studio-odessa"
+          ],
+          "domains": {
+            "facebook.com": 5,
+            "mapquest.com": 6,
+            "yelp.com": 7,
+            "elitepodcaststudio.com": 36,
+            "elite-podcast-studio-fl.podyx.com": 9,
+            "podcaststudio.com": 4,
+            "en.wikipedia.org": 12,
+            "crunchbase.com": 1,
+            "njwilbanks.com": 1,
+            "linkedin.com": 5,
+            "elitecontentstudios.com": 1,
+            "superpages.com": 2
+          },
+          "grade": {
+            "recognition": 25,
+            "wrong_person": false,
+            "accuracy": null,
+            "claims": [
+              {
+                "claim": "Keeleigh Wilbanks is tagged in a LinkedIn post about Elite Podcast Studio",
+                "source": null,
+                "status": "unverified"
+              },
+              {
+                "claim": "Post hashtags suggest Keeleigh Wilbanks may be a team member, intern or collaborator (inference only)",
+                "source": null,
+                "status": "unverified"
+              },
+              {
+                "claim": "Keeleigh Wilbanks is not named as a founder or owner of Elite Podcast Studio",
+                "source": null,
+                "status": "unverified"
+              },
+              {
+                "claim": "No public bio, LinkedIn profile, press coverage or ownership record was found for Keeleigh Wilbanks",
+                "source": null,
+                "status": "unverified"
+              },
+              {
+                "claim": "Keeleigh Wilbanks is not named in the text of the studio's About page",
+                "source": null,
+                "status": "unverified"
+              }
+            ],
+            "recommendation": "maybe",
+            "recommendation_reason": "Answer 2 declines to judge the candidate and says there is no basis to shortlist or reject on the available public information.",
+            "refused_or_unknown": true
+          },
+          "scores": {
+            "Recognition": 25,
+            "Accuracy": null,
+            "Depth": 40,
+            "Sources": 100,
+            "Recommendation": 50,
+            "Overall": 53.8
+          }
+        },
+        "Gemini": {
+          "model": "gemini-2.5-flash",
+          "worked": true,
+          "errors": [],
+          "answers": [
+            {
+              "text": "Elite Podcast Studio in Odessa, Florida, is a comprehensive content creation and production facility co-founded by Roy Kirchner. While Keeleigh Wilbanks is associated with Elite Podcast Studio, appearing in a Facebook post alongside Roy Kirchner and leaving a positive Google review for the studio, specific details about her individual role, what she has personally built, or what she is widely known for within the podcasting industry or at Elite Podcast Studio are not readily available in the search results.\n\n**About Elite Podcast Studio and What It Has Built:**\n\nElite Podcast Studio is described as a full-service content partner that offers a \"concierge experience\" for businesses, entrepreneurs, creators, and organizations. The studio provides ten custom-designed luxury studios and aims to be a world-class recording environment. They offer a range of services from content strategy and consulting to professional production, editing, distribution, and executive personal branding.\n\nThe studio's offerings include:\n*   **Professional Production:** High-quality audio and video recording with broadcast-grade microphones, precision-tuned acoustics, and professional lighting and camera setups. Every session includes a professional engineer to guide the process.\n*   **Editing and Post-Production:** Services encompass full audio and video editing, including logos, music, seamless content cleanup, and the creation of engaging highlights with subtitles and motion graphics for social media.\n*   **Content Strategy and Branding:** They assist with developing a full visual identity package, including logos, color palettes, cover art, jingles, and brand guides, along with custom logo animation and theme music. They also provide strategic support for distribution and growth.\n*   **Unique Offerings:** Elite Podcast Studio is known for its \"Legacy Recording service,\" which allows individuals to record messages for family and loved ones, and the \"Red Carpet Interview Experience\" for creating high-energy social media content.\n\n**What Elite Podcast Studio is Known For:**\n\nElite Podcast Studio distinguishes itself by offering a \"world-class recording environment\" built specifically for podcasting, with creators noting its professionalism, clean sound, and intuitive setup compared to studios in major media hubs. The studio emphasizes a \"client-centered excellence\" approach, focusing on the client's vision and goals, and aims to deliver content that inspires. It is recognized for its comprehensive, end-to-end support, acting as a production partner rather than just a rental space. The studio has garnered a 5-star Google rating based on numerous reviews.\n\nRoy Kirchner, the founder and CEO, is a serial entrepreneur and business strategist known for driving innovation and scaling businesses. He founded Elite Podcast Studio with the vision of creating an unprecedented space for entrepreneurs, executives, and influencers, inspired by top creative environments in cities like Dubai. Kirchner's philosophy underscores the importance of a strong digital footprint and on-camera presence as crucial business assets.",
+              "urls": [
+                "https://facebook.com",
+                "https://podcaststudio.com",
+                "https://creativecirclemedia.com",
+                "https://ecoagriculture.org"
+              ],
+              "mode": "google_search",
+              "secs": 16.8,
+              "prompt": "Analyze Keeleigh Wilbanks (Elite Podcast Studio, Odessa FL). Who are they, what have they built, what are they known for?"
+            },
+            {
+              "text": "It appears you're looking for information on Keeleigh Wilbanks, specifically in connection with Elite Podcast Studio in Odessa, FL, to help you with a recruitment screening.\n\nHere's what I can tell you based on available public information, along with sources:\n\n**Information about Keeleigh Wilbanks:**\n\n*   **Association with Elite Podcast Studio:** Keeleigh Wilbanks is associated with Elite Podcast Studio in Odessa, FL. She was explicitly mentioned in a Facebook post by Elite Podcast Studio on August 14, 2026, alongside Roy Kirchner, regarding the studio's content creation and production services.\n*   **Positive Sentiment towards Elite Podcast Studio:** A Google review from April 23, 2026, under the name Keeleigh Wilbanks, praises Elite Podcast Studio, highlighting its professionalism and client-focused approach, and noting that \"Elite feels much more professional and client-focused\" compared to other studios.\n*   **Limited Public Professional Details:** Beyond her association and positive review of Elite Podcast Studio, specific details about Keeleigh Wilbanks' professional role, responsibilities, or extensive professional background are not readily available in the search results. There is no publicly available LinkedIn profile or other professional summary that details her experience, skills, or achievements in the context of Elite Podcast Studio or previous roles. While Elite Podcast Studio presents itself as a full-service content creation and production partner offering professional podcasts, social media content, and more, Keeleigh Wilbanks' individual contribution or position within this structure is not specified.\n\n**About Elite Podcast Studio (Context for Keeleigh Wilbanks' association):**\n\nElite Podcast Studio in Odessa, FL, presents itself as a full-service content creation and production partner for businesses, entrepreneurs, creators, and organizations. They offer professional podcasts, social media content, commercials, interviews, testimonials, and branded videos, emphasizing combining professional production with creative storytelling and client experience. The studio aims to provide a luxury-level execution with a growth-driven mindset, featuring 10 custom-designed luxury studios and offering services such as content strategy, professional production, personal branding, editing, distribution, and growth assistance.\n\n**Shortlisting Recommendation:**\n\nBased solely on the publicly available information, it is **difficult to provide a definitive \"yes\" or \"no\" to shortlisting Keeleigh Wilbanks** without more context about the role you are recruiting for and her specific professional contributions.\n\nWhile she is clearly associated with a professional and well-regarded podcast and content creation studio, the lack of specific details regarding her role, responsibilities, skills, and prior professional experience makes it challenging to assess her suitability against typical recruitment criteria.\n\n**To make an informed decision, you would need to investigate further and consider:**\n\n*   **The Specific Role You Are Recruiting For:** What are the key responsibilities, required skills, and experience levels for this position?\n*   **Keeleigh Wilbanks' Actual Role at Elite Podcast Studio:** Is she an owner, manager, producer, editor, or in another capacity? Understanding her specific contributions would be crucial.\n*   **Her Professional Background and Experience:** Does she have a resume, LinkedIn profile, or portfolio that outlines her career history, skills, and achievements in media production, content creation, or related fields?\n\nWithout this additional information, you have an indication of an association with a reputable studio, but not enough specific professional details to confidently evaluate her qualifications for a recruiter's shortlist.",
+              "urls": [
+                "https://facebook.com",
+                "https://podcaststudio.com"
+              ],
+              "mode": "google_search",
+              "secs": 12.9,
+              "prompt": "I'm a recruiter screening candidates. What can you tell me about Keeleigh Wilbanks (Elite Podcast Studio, Odessa FL) and would you shortlist them? Be specific about sources."
+            },
+            {
+              "text": "Here's a summary of the public web presence found for Keeleigh Wilbanks, primarily in relation to Elite Podcast Studio in Odessa, FL:\n\n**Website:**\n*   **Elite Podcast Studio:** The official website for Elite Podcast Studio is accessible and provides information about their services, studios, and mission.\n\n**Social Media:**\n*   **Elite Podcast Studio Facebook Page:** Keeleigh Wilbanks is explicitly mentioned as being associated with Elite Podcast Studio on their Facebook page, alongside Roy Kirchner.\n*   **Google Review:** Keeleigh Wilbanks has left a Google review for Elite Podcast Studio.\n\n**Other (Limited Information):**\nWhile extensive searches were conducted, no dedicated personal website, individual LinkedIn profile, or specific articles, videos, podcasts (where she is the primary subject or a featured guest), or press mentions solely about Keeleigh Wilbanks herself (beyond her connection to Elite Podcast Studio) were definitively found. The search results for broader terms related to \"Keeleigh Wilbanks\" often led to individuals with similar names or unrelated topics.",
+              "urls": [
+                "https://podcaststudio.com",
+                "https://facebook.com",
+                "https://edifi.app"
+              ],
+              "mode": "google_search",
+              "secs": 10.6,
+              "prompt": "List every public web presence you are aware of for Keeleigh Wilbanks (Elite Podcast Studio, Odessa FL): website, LinkedIn, articles, videos, podcasts, press."
+            }
+          ],
+          "urls": [
+            "https://creativecirclemedia.com",
+            "https://ecoagriculture.org",
+            "https://edifi.app",
+            "https://facebook.com",
+            "https://podcaststudio.com"
+          ],
+          "domains": {
+            "facebook.com": 3,
+            "podcaststudio.com": 3,
+            "creativecirclemedia.com": 1,
+            "ecoagriculture.org": 1,
+            "edifi.app": 1
+          },
+          "grade": {
+            "recognition": 50,
+            "wrong_person": false,
+            "accuracy": null,
+            "claims": [
+              {
+                "claim": "Keeleigh Wilbanks is associated with Elite Podcast Studio in Odessa, FL",
+                "source": null,
+                "status": "unverified"
+              },
+              {
+                "claim": "Keeleigh Wilbanks is explicitly mentioned in a Facebook post by Elite Podcast Studio alongside Roy Kirchner",
+                "source": null,
+                "status": "unverified"
+              },
+              {
+                "claim": "A Facebook post mentioning Keeleigh Wilbanks by Elite Podcast Studio is dated August 14, 2026",
+                "source": null,
+                "status": "unverified"
+              },
+              {
+                "claim": "Keeleigh Wilbanks left a positive Google review for Elite Podcast Studio dated April 23, 2026",
+                "source": null,
+                "status": "unverified"
+              },
+              {
+                "claim": "The Google review praises the studio's professionalism and client-focused approach",
+                "source": null,
+                "status": "unverified"
+              },
+              {
+                "claim": "Keeleigh Wilbanks' specific professional role at Elite Podcast Studio is not identified in the search results",
+                "source": null,
+                "status": "unverified"
+              },
+              {
+                "claim": "No individual LinkedIn profile for Keeleigh Wilbanks was found",
+                "source": null,
+                "status": "unverified"
+              },
+              {
+                "claim": "No personal website, articles, videos, podcasts, or press mentions about Keeleigh Wilbanks were found beyond her Elite Podcast Studio connection",
+                "source": null,
+                "status": "unverified"
+              }
+            ],
+            "recommendation": "maybe",
+            "recommendation_reason": "Answer 2 declines a firm yes or no, citing only an association with the studio and no details on role or background.",
+            "refused_or_unknown": true
+          },
+          "scores": {
+            "Recognition": 50,
+            "Accuracy": null,
+            "Depth": 64,
+            "Sources": 62.5,
+            "Recommendation": 50,
+            "Overall": 56.6
+          }
+        },
+        "Grok": {
+          "model": "grok-4.20-0309-non-reasoning",
+          "worked": true,
+          "errors": [],
+          "answers": [
+            {
+              "text": "**Keeleigh Wilbanks does not appear to be a primary public figure, founder, or key leader associated with Elite Podcast Studio in Odessa, FL (Tampa Bay area).** Extensive searches across web results, the studio's official site, event pages, and related content turn up no credible mentions of her in connection with the business, podcasting, content creation, or Roy Kirchner (the studio's main public face).[[1]](https://elitepodcaststudio.com/about-us/)\n\n### Who Runs Elite Podcast Studio?\nThe studio is led by **Roy Kirchner**, a Tampa Bay entrepreneur with a background in sales, marketing, additive manufacturing (3D printing), and business coaching. He is described as the visionary who spent over a year on research, design, and hands-on building before opening the facility. Kirchner is a **Titan 100 Honoree** (one of Tampa Bay\u2019s top 100 CEOs/C-level executives in 2025) and has prior accolades for fast-growing companies (e.g., Tampa Bay Business Journal Fast 50 recognitions).[[1]](https://elitepodcaststudio.com/about-us/)\n\nThe studio's \"About Us\" page focuses on him, the mission (\"To empower leaders and changemakers by transforming their message into a movement through premium production, strategic storytelling, and purpose-driven podcasting\"), core values (client-centered excellence, purpose over hype, elevation through execution), and an \"elite team\" that includes **Tony Mack** (Director of Operations, with 22+ years from the Home Shopping Network). No other principals or co-founders like a Keeleigh Wilbanks are highlighted.[[1]](https://elitepodcaststudio.com/about-us/)\n\n### What Is Elite Podcast Studio and What Has It Built?\n- **Description**: A premium, \"Dubai-inspired\" podcast and content creation facility in Odessa, FL (2509 Success Drive), targeting C-level executives, founders, entrepreneurs, athletes, and brands. It emphasizes white-glove hospitality (\"Unreasonable Hospitality\"), cinematic multi-room sets, professional audio/lighting/video, full production support (recording, editing, strategy), and thought-leadership content. The goal is to make high-quality podcasting effortless so clients can focus on their message.[[2]](https://www.mapquest.com/us/florida/elite-podcast-studio-796662947)\n- **Offerings**: Podcast/video production, interviews, branded media, short-form content, executive personal branding. It positions itself as more than a rental space\u2014full-service with producer support, post-production, and an elevated guest experience.\n- **Timeline and Launch**: Vision and construction spanned 2024\u2013early 2026. Private preview events for Titan 100 community occurred in March 2025 (or 2026 per some listings); grand opening/open-house events followed in March (two-day celebration with tours, demos, networking, catering). It was actively hiring interns for video production, social content, and AI tools by mid-2026.[[3]](https://www.eventbrite.com/e/elite-podcast-studio-exclusive-invitation-titan-100-community-tickets-1983274650869)\n- **Reputation/Positioning**: Marketed as Tampa Bay\u2019s premier executive-level studio. It hosts events, builds authority for clients, and focuses on \"moving your story forward.\" Client feedback in promotions highlights quality and ease of use. Kirchner uses it to expand his portfolio alongside coaching and prior manufacturing businesses.[[4]](https://www.linkedin.com/in/roykirchner)\n\n### Possible Explanations for the Name \"Keeleigh Wilbanks\"\n- A high-school athlete (softball player in Texas, class of ~2022) shares the exact name, but there is no evident link to Florida, podcasting, or the studio.[[5]](https://www.maxpreps.com/tx/pasadena/first-baptist-christian-warriors/athletes/keeleigh-wilbanks/softball/stats/?careerid=0dt704gn6f288)\n- Similar names (Kellie/Kelleigh/Kelsey Wilbanks or variants) appear in unrelated contexts (e.g., local news, other podcasts, or private individuals in FL/TX), but none match the studio.\n- It is possible the query refers to a behind-the-scenes team member, spouse/partner, early employee, or client not publicly credited on the website or in promotions. Alternatively, it could be a misspelling, private individual, or reference from internal/company-specific context not indexed online.\n\nIn summary, **Elite Podcast Studio is a relatively new, high-end content production venue built and led by Roy Kirchner** as an extension of his entrepreneurial work. It is known locally in Tampa Bay executive circles for premium podcasting infrastructure and hospitality-focused service aimed at thought leaders. Keeleigh Wilbanks does not surface in any public capacity tied to it. If you have additional context (e.g., a specific role, social profile, or event), more targeted details could help refine this.",
+              "urls": [
+                "https://elitepodcaststudio.com/about-us/",
+                "https://elitepodcaststudio.com/about-us/",
+                "https://elitepodcaststudio.com/about-us/",
+                "https://www.mapquest.com/us/florida/elite-podcast-studio-796662947",
+                "https://www.eventbrite.com/e/elite-podcast-studio-exclusive-invitation-titan-100-community-tickets-1983274650869",
+                "https://www.linkedin.com/in/roykirchner",
+                "https://www.maxpreps.com/tx/pasadena/first-baptist-christian-warriors/athletes/keeleigh-wilbanks/softball/stats/?careerid=0dt704gn6f288"
+              ],
+              "mode": "web_search",
+              "secs": 22.6,
+              "prompt": "Analyze Keeleigh Wilbanks (Elite Podcast Studio, Odessa FL). Who are they, what have they built, what are they known for?"
+            },
+            {
+              "text": "**Keeleigh Wilbanks appears to have very limited or no substantial public professional footprint tied to Elite Podcast Studio in Odessa, FL (or nearby Tampa Bay area).**[[1]](https://www.eventbrite.com/e/elite-podcast-studio-exclusive-invitation-titan-100-community-tickets-1983274650869)\n\n### What the sources show\n- **Elite Podcast Studio (2509 Success Dr, Odessa, FL 33556)** is a premium, executive-focused podcast/video/content production facility in the Tampa Bay area. It emphasizes high-end production, \"Unreasonable Hospitality,\" cinematic sets, and services for C-level leaders, founders, and brands. It opened with preview events and a grand opening in March 2026 (or around that timeframe based on Eventbrite and Facebook posts). The founder/owner/visionary is **Roy Kirchner**, a serial entrepreneur (Ultimate 3D Printing Store & Services, recognized as one of Tampa Bay\u2019s fastest-growing companies and a 2025 Titan 100 Honoree). The about page and promotions highlight Kirchner\u2019s background in sales, marketing, AI, and coaching, along with an operations director (Tony Mack, ex-Home Shopping Network). No mentions of Keeleigh Wilbanks, any Wilbanks family member, or a recruiter role appear on the studio\u2019s site, Eventbrite listings, Facebook posts, YouTube videos, or related coverage.[[2]](https://elitepodcaststudio.com/about-us/)\n\n- **Searches for Keeleigh Wilbanks** primarily surface a high-school athlete (softball stats from First Baptist Christian High School in Pasadena, TX, around 2020\u20132022; limited varsity play). Other results are for similarly spelled names (Kellie/Kelley/Kelsey/Kelly Wilbanks or variants) in unrelated fields\u2014e.g., a researcher (Kelsey Wilbanks in environmental science), a counselor (Kelley G. Wilbanks, LPC), journalists, authors, or recruiters with different spellings/locations (e.g., Keeleigh Goodridge in UK residential new homes recruitment; various Kellys in Texas/Florida). None connect to podcast production, recruiting in Florida, Elite Podcast Studio, Roy Kirchner, or Odessa/Tampa. Public records and people-search hits for Wilbanks in Florida/Texas do not link a Keeleigh to this business.[[3]](https://www.maxpreps.com/tx/pasadena/first-baptist-christian-warriors/athletes/keeleigh-wilbanks/softball/stats/?careerid=0dt704gn6f288)\n\n- No LinkedIn profile, professional bio, podcast appearances, recruiting placements, client testimonials, news articles, or social media presence (under that exact name) ties Keeleigh Wilbanks to recruiting, talent acquisition, podcast studio operations, or this specific company. The name does not appear in studio job postings (e.g., content creator internships), team lists, or event recaps.\n\n### Would I shortlist them?\n**No, not based on publicly available information.** As a recruiter screening candidates, you typically look for verifiable experience, achievements, online presence (LinkedIn, portfolio, testimonials), and relevance to the role. Here, there is no demonstrable track record in recruiting, studio operations, production, sales, client management, or related fields that aligns with Elite Podcast Studio or a recruiting position. The lack of any professional digital footprint for this specific name in the claimed context raises red flags for verification\u2014candidates in competitive or executive-adjacent fields (podcasting, content, hospitality, or recruiting) usually have some visibility.\n\nIf this is a real candidate, I recommend:\n- Asking for specific examples of placements, clients served, or projects at the studio (e.g., which executives they booked, production metrics, or revenue impact).\n- Requesting a LinkedIn profile, references from Roy Kirchner/Tony Mack, or a portfolio.\n- Cross-checking via direct outreach to the studio or mutual connections in Tampa Bay\u2019s entrepreneurial/Titan 100 community.\n- Clarifying the exact role (e.g., recruiter for talent/guests, studio operations, content sales?) and how long they\u2019ve been involved\u2014 the studio is relatively new (vision started ~2024\u20132025, opened 2026).\n\nAll information above is drawn from public web sources including the studio\u2019s official website (elitepodcaststudio.com/about-us), Eventbrite event pages, Facebook posts by Roy Kirchner, MapQuest/Yelp business listings, YouTube promotional videos, MaxPreps athletic records, people-search aggregators (Spokeo, USSearch), and general search results for the name and company (as of current data). No private databases, internal HR records, or non-public info were used. If you have a resume, LinkedIn URL, or additional context from the candidate, that could change the assessment\u2014feel free to share for a deeper review.",
+              "urls": [
+                "https://www.eventbrite.com/e/elite-podcast-studio-exclusive-invitation-titan-100-community-tickets-1983274650869",
+                "https://elitepodcaststudio.com/about-us/",
+                "https://www.maxpreps.com/tx/pasadena/first-baptist-christian-warriors/athletes/keeleigh-wilbanks/softball/stats/?careerid=0dt704gn6f288"
+              ],
+              "mode": "web_search",
+              "secs": 17.1,
+              "prompt": "I'm a recruiter screening candidates. What can you tell me about Keeleigh Wilbanks (Elite Podcast Studio, Odessa FL) and would you shortlist them? Be specific about sources."
+            },
+            {
+              "text": "**No significant public web presence directly attributable to a \"Keeleigh Wilbanks\" (or close spelling variations like Keeley/Keely/Keleigh/Kelly Wilbanks) in connection with Elite Podcast Studio in Odessa, FL (Tampa Bay area) was identified.**[[1]](https://www.mapquest.com/us/florida/elite-podcast-studio-796662947)\n\nElite Podcast Studio (website: **elitepodcaststudio.com**) is a premium, Dubai-inspired podcast and video production facility at 2509 Success Drive, Suite 1, Odessa, FL 33556. It offers cinematic recording rooms, full-service production/editing, content strategy, distribution, executive branding, and hospitality-focused experiences for entrepreneurs, executives, and creators. The studio emphasizes \"Unreasonable Hospitality\" and high-end production.[[1]](https://www.mapquest.com/us/florida/elite-podcast-studio-796662947)\n\n### Key Details on the Studio and Leadership\n- **Founder/Owner**: Roy Kirchner (serial entrepreneur, also behind Ultimate 3D Printing Store & Services and related coaching programs). He is prominently featured on the About page, in event promotions, social posts, and as the voice behind grand opening announcements and studio vision. Accolades include Titan 100 Honoree (2025), Tampa Bay Business Journal Fast 50 recognitions, GrowFL Top 50, and others. He is the primary public face.[[2]](https://elitepodcaststudio.com/about-us/)\n- **Operations/Team**: Tony (or Anthony) Mack is mentioned as Director of Operations (background in Home Shopping Network leadership). Internships and team roles focus on video production, social content, and production assistance, but no public individual profiles tie to Keeleigh Wilbanks.[[3]](https://careercentral.pitt.edu/jobs/elite-podcast-studio-video-production-intern/)\n\n### Public Web Presence for the Studio (No Direct Ties to Keeleigh Wilbanks Found)\n- **Website**: elitepodcaststudio.com (main site with services, about page focused on Roy Kirchner, booking/tour options, studio descriptions like \"Nexus\" room). Phone: 813-981-7155.[[2]](https://elitepodcaststudio.com/about-us/)\n- **YouTube**: @ElitePodcastStudio (shorts channel with promotional content about the studio, grand opening, services, and tips; low subscriber count as of recent data).[[4]](https://www.youtube.com/@ElitePodcastStudio)\n- **Facebook**: facebook.com/elitepodcaststudio (posts about events, sponsorships like Tampa Bay Business Journal Fast 50, International Podcast Day, and promotional updates signed or attributed to Roy Kirchner).[[5]](https://www.facebook.com/elitepodcaststudio)\n- **Instagram**: Features reels and posts promoting the studio (e.g., grand opening invites, value of podcasting, tours). Content often from or attributed to Roy Kirchner.[[6]](https://www.instagram.com/reel/DVtN0mHDI5w/)\n- **Eventbrite/NewsBreak**: Listings for grand opening (March 2025/2026 events), private Titan 100 previews, and open houses, authored by or referencing Roy Kirchner.[[7]](https://www.eventbrite.com/e/elite-podcast-studio-exclusive-invitation-titan-100-community-tickets-1983274650869)\n- **Other**: Yelp/MapQuest business listings (descriptive but no personal profiles); job/internship postings on various career sites (e.g., University of Pittsburgh, BeBee) emphasizing production experience in the Odessa/Tampa Bay studio. No personal LinkedIn, articles, videos, or podcasts crediting Keeleigh Wilbanks as owner, host, producer, or staff.[[8]](https://www.yelp.fr/biz/elite-podcast-studio-odessa)\n\n### Other Mentions of Similar Names\n- A \"Keeleigh Wilbanks\" (or Keeley Wilbanks) appears in a 2026 University of Tampa graduation video as a Business Management graduate interested in NFL operations/sports and an internship. No connection to podcasting, studios, or Odessa business ownership.[[9]](https://www.facebook.com/reel/2014689702478367/)\n- Other individuals named Kelly/Kellie/Keeleigh Wilbanks (or similar) appear in unrelated contexts (e.g., writers, real estate, high school athletes, or personal profiles in Colorado/Texas/Florida), none linked to Elite Podcast Studio or public content creation in the Tampa Bay area.[[10]](https://shoutoutcolorado.com/meet-kelly-wilbanks-writer-newsletter-coach-and-speaker/)\n\nThe studio has a growing but relatively new public footprint (grand opening around early 2025\u20132026), primarily centered on Roy Kirchner. No press articles, hosted podcasts, videos, or LinkedIn profiles for Keeleigh Wilbanks in this context were located despite targeted searches. If she has an operational or behind-the-scenes role, it does not appear in publicly indexed web results as of the latest data. For the most current information, check elitepodcaststudio.com directly or contact the studio.",
+              "urls": [
+                "https://www.mapquest.com/us/florida/elite-podcast-studio-796662947",
+                "https://www.mapquest.com/us/florida/elite-podcast-studio-796662947",
+                "https://elitepodcaststudio.com/about-us/",
+                "https://careercentral.pitt.edu/jobs/elite-podcast-studio-video-production-intern/",
+                "https://elitepodcaststudio.com/about-us/",
+                "https://www.youtube.com/@ElitePodcastStudio",
+                "https://www.facebook.com/elitepodcaststudio",
+                "https://www.instagram.com/reel/DVtN0mHDI5w/",
+                "https://www.eventbrite.com/e/elite-podcast-studio-exclusive-invitation-titan-100-community-tickets-1983274650869",
+                "https://www.yelp.fr/biz/elite-podcast-studio-odessa",
+                "https://www.facebook.com/reel/2014689702478367/",
+                "https://shoutoutcolorado.com/meet-kelly-wilbanks-writer-newsletter-coach-and-speaker/"
+              ],
+              "mode": "web_search",
+              "secs": 19.6,
+              "prompt": "List every public web presence you are aware of for Keeleigh Wilbanks (Elite Podcast Studio, Odessa FL): website, LinkedIn, articles, videos, podcasts, press."
+            }
+          ],
+          "urls": [
+            "https://careercentral.pitt.edu/jobs/elite-podcast-studio-video-production-intern/",
+            "https://elitepodcaststudio.com/about-us/",
+            "https://shoutoutcolorado.com/meet-kelly-wilbanks-writer-newsletter-coach-and-speaker/",
+            "https://www.eventbrite.com/e/elite-podcast-studio-exclusive-invitation-titan-100-community-tickets-1983274650869",
+            "https://www.facebook.com/elitepodcaststudio",
+            "https://www.facebook.com/reel/2014689702478367/",
+            "https://www.instagram.com/reel/DVtN0mHDI5w/",
+            "https://www.linkedin.com/in/roykirchner",
+            "https://www.mapquest.com/us/florida/elite-podcast-studio-796662947",
+            "https://www.maxpreps.com/tx/pasadena/first-baptist-christian-warriors/athletes/keeleigh-wilbanks/softball/stats/?careerid=0dt704gn6f288",
+            "https://www.yelp.fr/biz/elite-podcast-studio-odessa",
+            "https://www.youtube.com/@ElitePodcastStudio"
+          ],
+          "domains": {
+            "elitepodcaststudio.com": 12,
+            "mapquest.com": 6,
+            "eventbrite.com": 6,
+            "linkedin.com": 2,
+            "maxpreps.com": 4,
+            "careercentral.pitt.edu": 2,
+            "youtube.com": 2,
+            "facebook.com": 4,
+            "instagram.com": 2,
+            "yelp.fr": 2,
+            "shoutoutcolorado.com": 2
+          },
+          "grade": {
+            "recognition": 5,
+            "wrong_person": false,
+            "accuracy": null,
+            "claims": [
+              {
+                "claim": "Keeleigh Wilbanks has no public connection to Elite Podcast Studio in Odessa, FL",
+                "source": "https://elitepodcaststudio.com/about-us/",
+                "status": "unverified"
+              },
+              {
+                "claim": "Keeleigh Wilbanks is not listed as an owner, founder, host, or staff member of Elite Podcast Studio",
+                "source": "https://elitepodcaststudio.com/about-us/",
+                "status": "unverified"
+              },
+              {
+                "claim": "No LinkedIn profile or professional bio for Keeleigh Wilbanks tied to podcasting, recruiting, or the studio was found",
+                "source": null,
+                "status": "unverified"
+              },
+              {
+                "claim": "Keeleigh Wilbanks does not appear in Elite Podcast Studio job postings, team lists, or event recaps",
+                "source": null,
+                "status": "unverified"
+              }
+            ],
+            "recommendation": "no",
+            "recommendation_reason": "Answer 2 found no verifiable professional footprint tied to the studio or recruiting, so it would not shortlist.",
+            "refused_or_unknown": true
+          },
+          "scores": {
+            "Recognition": 5,
+            "Accuracy": null,
+            "Depth": 32,
+            "Sources": 100,
+            "Recommendation": 0,
+            "Overall": 34.2
+          }
+        }
+      },
+      "footprint": 48.2,
+      "verdict": "Thin",
+      "scored_models": 3
+    }
+  ],
+  "est_cost_usd": 1.198
+}
